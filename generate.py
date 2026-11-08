@@ -8,7 +8,7 @@ items (via web search), writes the JSON, runs this, and pushes the repo.
 Schema v3 (Techmeme-style + photos + feedback buttons):
 {
   "date": "YYYY-MM-DD",
-  "summary": "2-5 sentence summary of the day (plain text, may use - not --)",
+  "summary": "unused (removed Nov 7 per Jacob); keep out of new issues",
   "survey": {"question": "one question", "options": ["tap-to-answer", ...]},   # optional
   "items": [
     {
@@ -150,17 +150,17 @@ def survey_html(survey, date_label):
     return f"<p>Quick survey: {escape(survey['question'])}<br/>{opts}</p>"
 
 
-def summary_item_xml(issue, pretty_date, date_label):
-    guid = f"{FEED_LINK}#today-{issue['date']}"
+def survey_item_xml(issue, pretty_date, date_label):
+    if not issue.get("survey"):
+        return None
+    guid = f"{FEED_LINK}#survey-{issue['date']}"
     now = format_datetime(datetime.now(PT), usegmt=False)
-    desc = f"<p>{escape(issue['summary'])}</p>"
-    desc += survey_html(issue.get("survey"), date_label)
     return f"""    <item>
-      <title>Today in one minute - {escape(pretty_date)}</title>
+      <title>Quick survey - {escape(pretty_date)}</title>
       <link>{FEED_LINK}</link>
       <guid isPermaLink="true">{guid}</guid>
       <pubDate>{now}</pubDate>
-      <description>{cdata(desc)}</description>
+      <description>{cdata(survey_html(issue["survey"], date_label))}</description>
     </item>"""
 
 
@@ -239,9 +239,7 @@ INDEX_TEMPLATE = """<!DOCTYPE html>
   <div class="dateline">{pretty_date}</div>
   <div class="topics">Chiefs &middot; Nebraska &middot; AI &amp; agent tooling &middot; running &middot; San Francisco &middot; <a href="feed.xml">RSS feed</a> &middot; <a href="guidelines.html">Guidelines</a></div>
 </header>
-<section class="today" id="today-{date}">
-  <h2>Today in one minute</h2>
-  <p>{summary}</p>
+<section class="today" id="survey-{date}">
   <p class="survey">{survey}</p>
 </section>
 <main>
@@ -274,8 +272,9 @@ def main():
     date_label = f"{date.month}/{date.day}"
     now = format_datetime(datetime.now(PT), usegmt=False)
 
+    survey_item = survey_item_xml(issue, pretty_date, date_label)
     body = "\n".join(
-        [summary_item_xml(issue, pretty_date, date_label)]
+        ([survey_item] if survey_item else [])
         + [item_xml(i, date_label) for i in items]
     )
     feed = f"""<?xml version="1.0" encoding="UTF-8"?>
@@ -298,14 +297,13 @@ def main():
     index = INDEX_TEMPLATE.format(
         pretty_date=pretty_date,
         date=issue["date"],
-        summary=escape(issue["summary"]),
         survey=survey_pills_html(issue.get("survey"), date_label),
         stories="\n".join(story_block_html(i, date_label) for i in items) + "\n",
         feed_url=FEED_URL,
     )
     index_out = src.parent / "index.html"
     index_out.write_text(index)
-    print(f"wrote {feed_out} ({len(items)} stories + summary) and {index_out}")
+    print(f"wrote {feed_out} ({len(items)} stories) and {index_out}")
 
 
 if __name__ == "__main__":
