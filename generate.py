@@ -27,8 +27,8 @@ Schema v3 (Techmeme-style + photos + feedback buttons):
 }
 Only "category", "title", "url", "published" are required. Keep items in
 editorial order; the generator does not re-sort them. Headlines follow
-guidelines.html (specifics: names, numbers, active verbs; headlines function
-as abstracts). Never invent an image
+guidelines.html; story selection and ranking follow preferences.md (standing
+prompt + few-shot examples, updated from Jacob's feedback). Never invent an image
 URL: use an og:image from the source article (verified to load) or a
 generated image committed under images/.
 """

@@ -46,6 +46,70 @@
       "image_alt": "Nebraska football photo from ESPN's Holgorsen story"
     },
     {
+      "category": "Nebraska",
+      "title": "Illinois 24, Nebraska 13: Huskers drop 4th straight after a 5-0 start; Owen Chambliss injured",
+      "url": "https://www.cbssports.com/college-football/news/illinois-tops-nebraska-24-13-to-secure-bowl-eligibility/",
+      "published": "2026-11-07T17:30:00-08:00",
+      "subheader": "The loss in Champaign made Illinois bowl-eligible and cost Nebraska its offensive coordinator less than 24 hours later.",
+      "image": "images/huskers-recap.jpg",
+      "image_alt": "Illustration of a football helmet on the turf at dusk (generated)",
+      "sources": [
+        {
+          "name": "CBS Sports",
+          "url": "https://www.cbssports.com/college-football/news/illinois-tops-nebraska-24-13-to-secure-bowl-eligibility/"
+        }
+      ],
+      "quotes": []
+    },
+    {
+      "category": "Nebraska",
+      "title": "Glenn Thomas gets 3 games as Nebraska's play-caller to make his case for the full-time job",
+      "url": "https://www.on3.com/teams/nebraska-cornhuskers/news/nebraska-fires-dana-holgorsen-promotes-glenn-thomas-to-oc/",
+      "published": "2026-11-07T17:00:00-08:00",
+      "subheader": "The co-OC and quarterbacks coach has worked under Rhule since Temple and Baylor, with prior OC stops at UNLV and Arizona State.",
+      "image": "images/nebraska-playcaller.jpg",
+      "image_alt": "Illustration of a coach holding a play-call sheet on the sideline (generated)",
+      "sources": [
+        {
+          "name": "On3",
+          "url": "https://www.on3.com/teams/nebraska-cornhuskers/news/nebraska-fires-dana-holgorsen-promotes-glenn-thomas-to-oc/"
+        },
+        {
+          "name": "CBS Sports",
+          "url": "https://www.cbssports.com/college-football/news/nebraska-fires-dana-holgorsen-offensive-coordinator-matt-rhule/"
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Co-offensive coordinator and quarterbacks coach Glenn Thomas will take over play-calling duties.",
+          "by": "Matt Rhule, in his statement",
+          "url": "https://nebraskapublicmedia.org/en/news/news-articles/dana-holgorsen-fired-as-nebraska-football-offensive-coordinator/"
+        }
+      ]
+    },
+    {
+      "category": "Nebraska",
+      "title": "Holgorsen pays the price for Nebraska's skid for now; Rhule's expensive buyout is the real question in Lincoln",
+      "url": "https://heavy.com/sports/college-football/nebraska-cornhuskers/nebraska-fires-coach-matt-rhule-buyout-questions/",
+      "published": "2026-11-07T16:30:00-08:00",
+      "subheader": "Rhule stays on the hot seat after the intermediate move and says more changes will come where they help the program win.",
+      "image": "https://heavy.com/wp-content/uploads/2026/11/GettyImages-2185636052.jpg?quality=65&strip=all",
+      "image_alt": "Matt Rhule on the Nebraska sideline, via Getty/Heavy",
+      "sources": [
+        {
+          "name": "Heavy",
+          "url": "https://heavy.com/sports/college-football/nebraska-cornhuskers/nebraska-fires-coach-matt-rhule-buyout-questions/"
+        }
+      ],
+      "quotes": [
+        {
+          "text": "I will continue to evaluate our program through the season and certainly at its conclusion and make additional changes where I believe they will help us win.",
+          "by": "Matt Rhule, in his statement",
+          "url": "https://heavy.com/sports/college-football/nebraska-cornhuskers/nebraska-fires-coach-matt-rhule-buyout-questions/"
+        }
+      ]
+    },
+    {
       "category": "Chiefs",
       "title": "Chiefs rule out CB Mansoor Delane, DTs Peter Woods and Omarr Norman-Lott vs. Jets; Mahomes, Kelce, Rice expected to play",
       "url": "https://fox4kc.com/sports/chiefs/chiefs-rule-out-three-players-for-sundays-game-against-jets/",
