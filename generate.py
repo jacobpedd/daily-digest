@@ -27,8 +27,8 @@ Schema v3 (Techmeme-style + photos + feedback buttons):
 }
 Only "category", "title", "url", "published" are required. Keep items in
 editorial order; the generator does not re-sort them. Headlines follow
-EDITORIAL.md (Techmeme principles: specifics, names, numbers, active verbs,
-function as abstracts). Never invent an image
+guidelines.html (specifics: names, numbers, active verbs; headlines function
+as abstracts). Never invent an image
 URL: use an og:image from the source article (verified to load) or a
 generated image committed under images/.
 """
@@ -237,7 +237,7 @@ INDEX_TEMPLATE = """<!DOCTYPE html>
 <header>
   <h1>Jacob's Daily Digest</h1>
   <div class="dateline">{pretty_date}</div>
-  <div class="topics">Chiefs &middot; Nebraska &middot; AI &amp; agent tooling &middot; running &middot; San Francisco &middot; <a href="feed.xml">RSS feed</a></div>
+  <div class="topics">Chiefs &middot; Nebraska &middot; AI &amp; agent tooling &middot; running &middot; San Francisco &middot; <a href="feed.xml">RSS feed</a> &middot; <a href="guidelines.html">Guidelines</a></div>
 </header>
 <section class="today" id="today-{date}">
   <h2>Today in one minute</h2>
@@ -248,7 +248,7 @@ INDEX_TEMPLATE = """<!DOCTYPE html>
 {stories}</main>
 <footer>
   Rebuilt every morning. Subscribe in any RSS reader: <code>{feed_url}</code><br>
-  Every button texts your reaction straight to Instinct - no typing needed.
+  Every button texts your reaction straight to Instinct - no typing needed. &middot; <a href="guidelines.html" style="color:#777">Editorial guidelines</a>
 </footer>
 </body>
 </html>
