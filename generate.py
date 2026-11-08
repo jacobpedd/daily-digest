@@ -26,7 +26,9 @@ Schema v3 (Techmeme-style + photos + feedback buttons):
   ]
 }
 Only "category", "title", "url", "published" are required. Keep items in
-editorial order; the generator does not re-sort them. Never invent an image
+editorial order; the generator does not re-sort them. Headlines follow
+EDITORIAL.md (Techmeme principles: specifics, names, numbers, active verbs,
+function as abstracts). Never invent an image
 URL: use an og:image from the source article (verified to load) or a
 generated image committed under images/.
 """
