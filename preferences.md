@@ -37,6 +37,9 @@ digest in a minute or two on his phone.
 - Every item needs at least one real source URL. Quotes verbatim. Photos from
   the source when real ones exist; generated illustration otherwise, labeled
   as generated.
+- Survey answers weight the NEXT issue: the section he picks gets more
+  space - more slots in the 10-15 and higher placement. Current weighting:
+  Chiefs up (survey, Nov 7), until a newer survey answer says otherwise.
 
 ## Few-shot examples
 
@@ -74,3 +77,7 @@ digest in a minute or two on his phone.
   headlines from the Rhule firing storyline (rule: major storylines get
   multiple headlines); wanted photos on every story (generated OK as
   fallback); wanted one-tap feedback and chat links on every story.
+- Nov 7, 2026 (survey, first answer): "Which section should get more space
+  tomorrow?" -> Chiefs. The Nov 8 issue gives the Chiefs section more
+  space: aim 3-5 Chiefs items if the news supports it, and place the
+  section high.
