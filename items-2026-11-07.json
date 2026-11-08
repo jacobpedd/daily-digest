@@ -9,16 +9,41 @@
       "published": "2026-11-07T18:00:00-08:00",
       "subheader": "Out less than a week after Rhule called him one of the best offensive minds of our generation. Glenn Thomas takes over play-calling for the final three games, starting with the fallout from Friday's 24-13 loss at Illinois.",
       "sources": [
-        {"name": "ESPN", "url": "https://www.espn.com/college-football/story/_/id/50409703/angry-rhule-fires-oc-holgorsen-amid-nebraska-4-game-skid"},
-        {"name": "AP", "url": "https://apnews.com/article/nebraska-huskers-holgorsen-b04f098d5d62105ed636dbcbb85fe02c"},
-        {"name": "CBS Sports", "url": "https://www.cbssports.com/college-football/news/nebraska-fires-dana-holgorsen-offensive-coordinator-matt-rhule/"},
-        {"name": "Nebraska Public Media", "url": "https://nebraskapublicmedia.org/en/news/news-articles/dana-holgorsen-fired-as-nebraska-football-offensive-coordinator/"},
-        {"name": "CBS Sports (game recap)", "url": "https://www.cbssports.com/college-football/news/illinois-tops-nebraska-24-13-to-secure-bowl-eligibility/"}
+        {
+          "name": "ESPN",
+          "url": "https://www.espn.com/college-football/story/_/id/50409703/angry-rhule-fires-oc-holgorsen-amid-nebraska-4-game-skid"
+        },
+        {
+          "name": "AP",
+          "url": "https://apnews.com/article/nebraska-huskers-holgorsen-b04f098d5d62105ed636dbcbb85fe02c"
+        },
+        {
+          "name": "CBS Sports",
+          "url": "https://www.cbssports.com/college-football/news/nebraska-fires-dana-holgorsen-offensive-coordinator-matt-rhule/"
+        },
+        {
+          "name": "Nebraska Public Media",
+          "url": "https://nebraskapublicmedia.org/en/news/news-articles/dana-holgorsen-fired-as-nebraska-football-offensive-coordinator/"
+        },
+        {
+          "name": "CBS Sports (game recap)",
+          "url": "https://www.cbssports.com/college-football/news/illinois-tops-nebraska-24-13-to-secure-bowl-eligibility/"
+        }
       ],
       "quotes": [
-        {"text": "Like so many of you, I am angry, I am disappointed and I am frustrated with our results this season.", "by": "Matt Rhule, Nebraska head coach, in a statement", "url": "https://apnews.com/article/nebraska-huskers-holgorsen-b04f098d5d62105ed636dbcbb85fe02c"},
-        {"text": "While there are many areas that need improvement, our offensive plan and execution is simply not working.", "by": "Rhule, in the same statement", "url": "https://www.cbssports.com/college-football/news/nebraska-fires-dana-holgorsen-offensive-coordinator-matt-rhule/"}
-      ]
+        {
+          "text": "Like so many of you, I am angry, I am disappointed and I am frustrated with our results this season.",
+          "by": "Matt Rhule, Nebraska head coach, in a statement",
+          "url": "https://apnews.com/article/nebraska-huskers-holgorsen-b04f098d5d62105ed636dbcbb85fe02c"
+        },
+        {
+          "text": "While there are many areas that need improvement, our offensive plan and execution is simply not working.",
+          "by": "Rhule, in the same statement",
+          "url": "https://www.cbssports.com/college-football/news/nebraska-fires-dana-holgorsen-offensive-coordinator-matt-rhule/"
+        }
+      ],
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1107%2Fr1742480_1296x729_16%2D9.jpg",
+      "image_alt": "Nebraska football photo from ESPN's Holgorsen story"
     },
     {
       "category": "Chiefs",
@@ -27,11 +52,22 @@
       "published": "2026-11-07T15:00:00-08:00",
       "subheader": "CB Mansoor Delane and DTs Peter Woods and Omarr Norman-Lott are out; Mahomes, Kelce and Rashee Rice are expected to play. The Jets lose Garrett Wilson. KC elevated defensive line help from the practice squad.",
       "sources": [
-        {"name": "FOX4 KC", "url": "https://fox4kc.com/sports/chiefs/chiefs-rule-out-three-players-for-sundays-game-against-jets/"},
-        {"name": "Chiefs Wire", "url": "https://chiefswire.usatoday.com/story/sports/nfl/chiefs/2026/11/07/kansas-city-chiefs-new-york-jets-reveal-lengthy-final-injury-reports-nfl-week-9/92662302007/"},
-        {"name": "Yahoo Sports", "url": "https://sports.yahoo.com/articles/kansas-city-chiefs-elevate-dl-223320095.html"}
+        {
+          "name": "FOX4 KC",
+          "url": "https://fox4kc.com/sports/chiefs/chiefs-rule-out-three-players-for-sundays-game-against-jets/"
+        },
+        {
+          "name": "Chiefs Wire",
+          "url": "https://chiefswire.usatoday.com/story/sports/nfl/chiefs/2026/11/07/kansas-city-chiefs-new-york-jets-reveal-lengthy-final-injury-reports-nfl-week-9/92662302007/"
+        },
+        {
+          "name": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/kansas-city-chiefs-elevate-dl-223320095.html"
+        }
       ],
-      "quotes": []
+      "quotes": [],
+      "image": "https://fox4kc.com/wp-content/uploads/sites/16/2026/09/AP26258013304280.jpg?w=1280",
+      "image_alt": "Chiefs game photo via FOX4 KC"
     },
     {
       "category": "Chiefs",
@@ -40,9 +76,17 @@
       "published": "2026-11-07T14:00:00-08:00",
       "subheader": "Rapoport and Schefter both have KC among the teams calling. Brian Thomas Jr., Josh Downs and Calvin Ridley are the names in play; the Colts reportedly already hold a fourth-round offer for Downs.",
       "sources": [
-        {"name": "Chiefs Wire", "url": "https://chiefswire.usatoday.com/story/sports/nfl/chiefs/2026/11/07/kansas-city-chiefs-pursue-wide-receiver-rumor-nfl-trade-deadline-week-9/92660150007/"},
-        {"name": "Athlon Sports", "url": "https://athlonsports.com/nfl/trending/chiefs-bracing-for-wr-trade-ahead-of-jets-game"}
-      ]
+        {
+          "name": "Chiefs Wire",
+          "url": "https://chiefswire.usatoday.com/story/sports/nfl/chiefs/2026/11/07/kansas-city-chiefs-pursue-wide-receiver-rumor-nfl-trade-deadline-week-9/92660150007/"
+        },
+        {
+          "name": "Athlon Sports",
+          "url": "https://athlonsports.com/nfl/trending/chiefs-bracing-for-wr-trade-ahead-of-jets-game"
+        }
+      ],
+      "image": "images/chiefs-wr-rumors.jpg",
+      "image_alt": "Chiefs photo from Chiefs Wire's trade-deadline story"
     },
     {
       "category": "AI & Agents",
@@ -51,8 +95,13 @@
       "published": "2026-11-07T12:00:00-08:00",
       "subheader": "The weekly scoreboard for what shipped across the big three coding-agent CLIs.",
       "sources": [
-        {"name": "dev.to", "url": "https://dev.to/aicoding-guide/this-week-in-claude-code-codex-and-gemini-cli-week-of-november-8-2026-485k"}
-      ]
+        {
+          "name": "dev.to",
+          "url": "https://dev.to/aicoding-guide/this-week-in-claude-code-codex-and-gemini-cli-week-of-november-8-2026-485k"
+        }
+      ],
+      "image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Foxwfzcmz8k6n7ibfkmi9.png",
+      "image_alt": "Cover image from the weekly coding-agent CLI roundup"
     },
     {
       "category": "AI & Agents",
@@ -61,8 +110,13 @@
       "published": "2026-11-07T11:00:00-08:00",
       "subheader": "Standouts in the weekly AI dev digest: MCPJungle for connecting MCP servers, and Floorplan, which maps an app after an agent writes it.",
       "sources": [
-        {"name": "everydev.ai", "url": "https://www.everydev.ai/p/news-weekly-ai-dev-news-digest-november-1-november-6-2026"}
-      ]
+        {
+          "name": "everydev.ai",
+          "url": "https://www.everydev.ai/p/news-weekly-ai-dev-news-digest-november-1-november-6-2026"
+        }
+      ],
+      "image": "https://api.everydev.ai/storage/v1/object/public/news-media/news-images/1794006710079-v5il94.png",
+      "image_alt": "Cover image from the everydev weekly AI dev digest"
     },
     {
       "category": "AI & Agents",
@@ -71,8 +125,13 @@
       "published": "2026-11-07T10:00:00-08:00",
       "subheader": "Google's Agent Development Kit release stabilizes its core and adds a Microsoft Teams runner.",
       "sources": [
-        {"name": "AI Weekly", "url": "https://aiweekly.co/alerts/google-adk-2140-graduates-core-modules-adds-teams-runner"}
-      ]
+        {
+          "name": "AI Weekly",
+          "url": "https://aiweekly.co/alerts/google-adk-2140-graduates-core-modules-adds-teams-runner"
+        }
+      ],
+      "image": "images/adk-2-14.jpg",
+      "image_alt": "Illustration generated for the Google ADK release story"
     },
     {
       "category": "Running",
@@ -81,14 +140,33 @@
       "published": "2026-11-01T12:00:00-07:00",
       "subheader": "The Swede ran 2:06:01, breaking away from Yeman Crippa late. He picked New York because position matters more than the clock there. Chepkirui regained the women's title.",
       "sources": [
-        {"name": "World Athletics", "url": "https://worldathletics.org/news/report/new-york-city-marathon-2026-almgren-chepkirui"},
-        {"name": "RUN247", "url": "https://run247.com/running-news/marathon-news/andreas-almgren-new-york-city-marathon-2026-reaction"},
-        {"name": "Running USA (60,000 finishers)", "url": "https://www.runningusa.org/industry-news/2026-tcs-new-york-city-marathon-becomes-the-first-marathon-ever-to-exceed-60000-finisher-mark/"}
+        {
+          "name": "World Athletics",
+          "url": "https://worldathletics.org/news/report/new-york-city-marathon-2026-almgren-chepkirui"
+        },
+        {
+          "name": "RUN247",
+          "url": "https://run247.com/running-news/marathon-news/andreas-almgren-new-york-city-marathon-2026-reaction"
+        },
+        {
+          "name": "Running USA (60,000 finishers)",
+          "url": "https://www.runningusa.org/industry-news/2026-tcs-new-york-city-marathon-becomes-the-first-marathon-ever-to-exceed-60000-finisher-mark/"
+        }
       ],
       "quotes": [
-        {"text": "I didn't really look at my watch or the time or try to calculate a finishing time or anything. I just tried to stay up in the front then see what happened.", "by": "Andreas Almgren, at the post-race press conference", "url": "https://run247.com/running-news/marathon-news/andreas-almgren-new-york-city-marathon-2026-reaction"},
-        {"text": "It would have been nice to have a 2:05 time, but I'm very happy about the win.", "by": "Almgren", "url": "https://run247.com/running-news/marathon-news/andreas-almgren-new-york-city-marathon-2026-reaction"}
-      ]
+        {
+          "text": "I didn't really look at my watch or the time or try to calculate a finishing time or anything. I just tried to stay up in the front then see what happened.",
+          "by": "Andreas Almgren, at the post-race press conference",
+          "url": "https://run247.com/running-news/marathon-news/andreas-almgren-new-york-city-marathon-2026-reaction"
+        },
+        {
+          "text": "It would have been nice to have a 2:05 time, but I'm very happy about the win.",
+          "by": "Almgren",
+          "url": "https://run247.com/running-news/marathon-news/andreas-almgren-new-york-city-marathon-2026-reaction"
+        }
+      ],
+      "image": "https://assets.aws.worldathletics.org/large/6ae77cd53353f6727d15e498.jpg",
+      "image_alt": "Andreas Almgren at the 2026 NYC Marathon, via World Athletics"
     },
     {
       "category": "San Francisco",
@@ -97,12 +175,25 @@
       "published": "2026-11-07T09:00:00-08:00",
       "subheader": "Six of 10 staffers were fired Friday with no severance. City Hall won't say whether it met the conditions on Bloomberg's largest-ever city innovation grant, including a $2.38M payment due Nov. 1.",
       "sources": [
-        {"name": "SF Standard", "url": "https://sfstandard.com/2026/11/07/lurie-fires-innovation-office-staff-bloomberg-grant/"}
+        {
+          "name": "SF Standard",
+          "url": "https://sfstandard.com/2026/11/07/lurie-fires-innovation-office-staff-bloomberg-grant/"
+        }
       ],
       "quotes": [
-        {"text": "No positions have been eliminated.", "by": "Mayor's office statement, which did not dispute that six of 10 staffers lost their jobs", "url": "https://sfstandard.com/2026/11/07/lurie-fires-innovation-office-staff-bloomberg-grant/"},
-        {"text": "With that technology becoming more capable than it was even a couple of years ago, the Mayor's Office of Innovation should be capable of tackling a wide range of challenges.", "by": "Charles Lutvak, Lurie spokesperson", "url": "https://sfstandard.com/2026/11/07/lurie-fires-innovation-office-staff-bloomberg-grant/"}
-      ]
+        {
+          "text": "No positions have been eliminated.",
+          "by": "Mayor's office statement, which did not dispute that six of 10 staffers lost their jobs",
+          "url": "https://sfstandard.com/2026/11/07/lurie-fires-innovation-office-staff-bloomberg-grant/"
+        },
+        {
+          "text": "With that technology becoming more capable than it was even a couple of years ago, the Mayor's Office of Innovation should be capable of tackling a wide range of challenges.",
+          "by": "Charles Lutvak, Lurie spokesperson",
+          "url": "https://sfstandard.com/2026/11/07/lurie-fires-innovation-office-staff-bloomberg-grant/"
+        }
+      ],
+      "image": "https://assets.sfstandard.com/image/994911177489/image_rrs77rcrip4e7bl2t3mi279f7l/-S1200x630-FPNG",
+      "image_alt": "SF Standard image for the innovation office story"
     },
     {
       "category": "San Francisco",
@@ -111,13 +202,30 @@
       "published": "2026-11-07T08:00:00-08:00",
       "subheader": "Props D, E and F passed with roughly $14M in billionaire backing, handing the mayor more control over ballots, contracts and department heads. Analysts say the blame game ends here.",
       "sources": [
-        {"name": "Mission Local", "url": "https://missionlocal.org/2026/11/daniel-lurie-election-city-hall-power/"}
+        {
+          "name": "Mission Local",
+          "url": "https://missionlocal.org/2026/11/daniel-lurie-election-city-hall-power/"
+        }
       ],
       "quotes": [
-        {"text": "These charter reform measures will make it very hard now for mayors to argue credibly that they don't have the authority to do what voters ask of them.", "by": "Jason McDaniel, SFSU political science professor", "url": "https://missionlocal.org/2026/11/daniel-lurie-election-city-hall-power/"},
-        {"text": "He has all the power he asked for. Let's see what he does with it.", "by": "Eric Jaye, Democratic political consultant", "url": "https://missionlocal.org/2026/11/daniel-lurie-election-city-hall-power/"},
-        {"text": "These victories are not a finish line, they are a starting point.", "by": "Daniel Lurie, in his victory speech Tuesday night", "url": "https://missionlocal.org/2026/11/daniel-lurie-election-city-hall-power/"}
-      ]
+        {
+          "text": "These charter reform measures will make it very hard now for mayors to argue credibly that they don't have the authority to do what voters ask of them.",
+          "by": "Jason McDaniel, SFSU political science professor",
+          "url": "https://missionlocal.org/2026/11/daniel-lurie-election-city-hall-power/"
+        },
+        {
+          "text": "He has all the power he asked for. Let's see what he does with it.",
+          "by": "Eric Jaye, Democratic political consultant",
+          "url": "https://missionlocal.org/2026/11/daniel-lurie-election-city-hall-power/"
+        },
+        {
+          "text": "These victories are not a finish line, they are a starting point.",
+          "by": "Daniel Lurie, in his victory speech Tuesday night",
+          "url": "https://missionlocal.org/2026/11/daniel-lurie-election-city-hall-power/"
+        }
+      ],
+      "image": "https://missionlocal.org/wp-content/uploads/2026/11/9R0A3649-2-scaled.jpeg",
+      "image_alt": "Daniel Lurie at his election watch party, photo by Genesia Ting for Mission Local"
     },
     {
       "category": "San Francisco",
@@ -126,13 +234,38 @@
       "published": "2026-11-07T07:00:00-08:00",
       "subheader": "The Regional Transit Measure, a sales tax worth roughly $1B a year for BART, Muni, Caltrain and AC Transit, won 62% region-wide and 79% in SF. Prop H's Muni parcel tax took 74%.",
       "sources": [
-        {"name": "The Guardian", "url": "https://www.theguardian.com/us-news/2026/nov/07/san-francisco-bay-area-transit-bart-muni"},
-        {"name": "SF Standard", "url": "https://sfstandard.com/2026/11/03/bay-area-transit-tax-bart-caltrain/"},
-        {"name": "MTC", "url": "https://mtc.ca.gov/news/bay-area-voters-show-strong-support-public-transit"}
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/07/san-francisco-bay-area-transit-bart-muni"
+        },
+        {
+          "name": "SF Standard",
+          "url": "https://sfstandard.com/2026/11/03/bay-area-transit-tax-bart-caltrain/"
+        },
+        {
+          "name": "MTC",
+          "url": "https://mtc.ca.gov/news/bay-area-voters-show-strong-support-public-transit"
+        }
       ],
       "quotes": [
-        {"text": "This is existential, especially for BART.", "by": "Tom Radulovich, former BART board member, before the vote", "url": "https://sfstandard.com/2026/11/03/bay-area-transit-tax-bart-caltrain/"}
-      ]
+        {
+          "text": "This is existential, especially for BART.",
+          "by": "Tom Radulovich, former BART board member, before the vote",
+          "url": "https://sfstandard.com/2026/11/03/bay-area-transit-tax-bart-caltrain/"
+        }
+      ],
+      "image": "https://i.guim.co.uk/img/media/c3d3692d31216c33cdb6a5bf1402e4dc4b04cdc3/376_0_4319_3456/master/4319.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1857f547ba082ab55c00f36db8f33d6f",
+      "image_alt": "Bay Area transit photo via The Guardian"
     }
-  ]
+  ],
+  "survey": {
+    "question": "Which section should get more space tomorrow?",
+    "options": [
+      "Chiefs",
+      "Nebraska",
+      "AI & agents",
+      "Running",
+      "SF"
+    ]
+  }
 }
