@@ -41,6 +41,13 @@ digest in a minute or two on his phone.
 - Survey answers weight the NEXT issue: the section he picks gets more
   space - more slots in the 10-15 and higher placement. Current weighting:
   Chiefs up (survey, Nov 7), until a newer survey answer says otherwise.
+- The daily survey rotates: do NOT repeat the same question every day. Mix
+  question types so the answers keep teaching the ranking something new:
+  which section gets more space, format choices (more items vs deeper
+  items), depth vs breadth on a big storyline, specific players or topics
+  to watch, story-type preferences (analysis vs results vs transactions).
+  Ask one question a day, avoid repeating a recent question until the
+  others have had a turn, and fold every answer in here the same day.
 
 ## Few-shot examples
 
@@ -90,3 +97,8 @@ digest in a minute or two on his phone.
 - Nov 7, 2026 (first Less of this): the everydev "348 new MCP tools this
   week" roundup. Fewer count-style weekly roundups in AI/agent tooling;
   prefer shipped releases with substance.
+- Nov 8, 2026 (user, via main): rotate the daily survey with questions
+  designed to learn his preferences - format, depth vs breadth, specific
+  teams/players/topics, story types - not the same section question every
+  day. Morning report to main now includes the 2-3 lead headlines so he
+  gets a text preview when the issue lands.
