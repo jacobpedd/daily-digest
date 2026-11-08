@@ -71,12 +71,18 @@ def short_title(item, n=42):
     return t if len(t) <= n else t[: n - 3].rstrip() + "..."
 
 
+def chat_link(item):
+    # story URL on its own line, cursor on the next line ready to type
+    return f'<a href="{sms_href(item["url"] + chr(10))}">Chat about it</a>'
+
+
 def feedback_links(item, date_label, html=False):
     links = []
     for label, verb in FEEDBACK_LABELS:
         body = f'Digest {date_label}: {verb} "{short_title(item)}"'
         href = sms_href(body)
         links.append(f'<a href="{href}">{label}</a>')
+    links.append(chat_link(item))
     sep = " &middot; " if html else " | "
     return sep.join(links)
 
@@ -181,6 +187,7 @@ def story_block_html(item, date_label):
     for label, verb in FEEDBACK_LABELS:
         body = 'Digest ' + date_label + ': ' + verb + ' "' + short_title(item) + '"'
         pills.append(f'    <a class="pill" href="{sms_href(body)}">{label}</a>')
+    pills.append(f'    <a class="pill chat" href="{sms_href(item["url"] + chr(10))}">Chat about it</a>')
     pills = "\n".join(pills)
     return f"""  <article class="story">
     <span class="cat">{escape(item["category"])}</span>
@@ -221,6 +228,7 @@ INDEX_TEMPLATE = """<!DOCTYPE html>
   .feedback {{ margin: 0.45rem 0 0; }}
   .pill {{ display: inline-block; font-size: 0.8rem; padding: 0.22rem 0.7rem; margin: 0 0.35rem 0.2rem 0; border: 1px solid #d0d7de; border-radius: 999px; color: #333; text-decoration: none; background: #fff; }}
   .pill:hover {{ background: #f0f3f6; }}
+  .pill.chat {{ border-color: #0969da; color: #0969da; }}
   footer {{ margin-top: 2.5rem; padding-top: 1rem; border-top: 1px solid #e3e6e8; font-size: 0.85rem; color: #777; }}
   footer code {{ background: #f2f2f2; padding: 0.15em 0.4em; border-radius: 4px; word-break: break-all; }}
 </style>
