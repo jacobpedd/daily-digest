@@ -28,8 +28,9 @@ digest in a minute or two on his phone.
 - Chiefs and Nebraska team news outranks national NFL/CFB noise. In season,
   injuries, trades, coaching moves, and game results are near-automatic picks.
 - For AI/agent tooling, prefer concrete releases and shipped features with
-  version numbers over think pieces. Roundups are fine when they name what
-  shipped.
+  version numbers over think pieces and over count-style weekly roundups.
+  A roundup earns a slot only when it names something specific that shipped;
+  "N new tools this week" listicles are out (his tap, Nov 7).
 - For running, prefer results, times, and records with numbers, plus anything
   relevant to marathon training.
 - For SF, prefer City Hall power moves, housing, transit, and money trails
@@ -71,6 +72,11 @@ digest in a minute or two on his phone.
   Verdict: SKIP unless it drives real conversation. Shipped releases and
   benchmarks beat think pieces on his AI beat.
 
+- Story: "348 new MCP tools added this week" (weekly count-style roundup)
+  Verdict: SKIP. His actual "Less of this" tap on Nov 7, 2026. Headline
+  numbers about how many tools shipped are not substance; pick the one or
+  two concrete releases inside instead, if they matter.
+
 ## Feedback log
 
 - Nov 7, 2026: asked for Techmeme-style detail-rich headlines; wanted more
@@ -81,3 +87,6 @@ digest in a minute or two on his phone.
   tomorrow?" -> Chiefs. The Nov 8 issue gives the Chiefs section more
   space: aim 3-5 Chiefs items if the news supports it, and place the
   section high.
+- Nov 7, 2026 (first Less of this): the everydev "348 new MCP tools this
+  week" roundup. Fewer count-style weekly roundups in AI/agent tooling;
+  prefer shipped releases with substance.
