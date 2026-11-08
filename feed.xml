@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jacob's Daily Digest</title>
+    <link>https://jacobpedd.github.io/daily-digest/</link>
+    <atom:link href="https://jacobpedd.github.io/daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>A personal daily news digest: Chiefs, Nebraska football, AI and agent tooling, running, and San Francisco.</description>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Nov 2026 20:33:34 -0800</lastBuildDate>
+    <ttl>360</ttl>
+    <item>
+      <title>'Angry' Rhule fires OC Holgorsen amid Nebraska's 4-game skid</title>
+      <link>https://www.espn.com/college-football/story/_/id/50409703/angry-rhule-fires-oc-holgorsen-amid-nebraska-4-game-skid</link>
+      <guid isPermaLink="true">https://www.espn.com/college-football/story/_/id/50409703/angry-rhule-fires-oc-holgorsen-amid-nebraska-4-game-skid</guid>
+      <pubDate>Sat, 07 Nov 2026 18:00:00 -0800</pubDate>
+      <category>Nebraska</category>
+      <description>Matt Rhule fired offensive coordinator Dana Holgorsen after Nebraska's fourth straight loss, 24-13 at Illinois. Pressure and buyout talk are mounting in Lincoln.</description>
+    </item>
+    <item>
+      <title>Illinois tops Nebraska 24-13 to secure bowl eligibility</title>
+      <link>https://www.cbssports.com/college-football/news/illinois-tops-nebraska-24-13-to-secure-bowl-eligibility/</link>
+      <guid isPermaLink="true">https://www.cbssports.com/college-football/news/illinois-tops-nebraska-24-13-to-secure-bowl-eligibility/</guid>
+      <pubDate>Sat, 07 Nov 2026 16:30:00 -0800</pubDate>
+      <category>Nebraska</category>
+      <description>The Huskers dropped their fourth straight in Champaign; Owen Chambliss left the game with an injury.</description>
+    </item>
+    <item>
+      <title>Chiefs rule out three players for Sunday's game against Jets</title>
+      <link>https://fox4kc.com/sports/chiefs/chiefs-rule-out-three-players-for-sundays-game-against-jets/</link>
+      <guid isPermaLink="true">https://fox4kc.com/sports/chiefs/chiefs-rule-out-three-players-for-sundays-game-against-jets/</guid>
+      <pubDate>Sat, 07 Nov 2026 15:00:00 -0800</pubDate>
+      <category>Chiefs</category>
+      <description>CB Mansoor Delane (shoulder) and DTs Peter Woods (neck) and Omarr Norman-Lott (knee) are out for Week 9 vs. the Jets; a top special teamer is questionable.</description>
+    </item>
+    <item>
+      <title>Expert breaks down Chiefs' pursuit of WRs ahead of NFL trade deadline</title>
+      <link>https://chiefswire.usatoday.com/story/sports/nfl/chiefs/2026/11/07/kansas-city-chiefs-pursue-wide-receiver-rumor-nfl-trade-deadline-week-9/92660150007/</link>
+      <guid isPermaLink="true">https://chiefswire.usatoday.com/story/sports/nfl/chiefs/2026/11/07/kansas-city-chiefs-pursue-wide-receiver-rumor-nfl-trade-deadline-week-9/92660150007/</guid>
+      <pubDate>Sat, 07 Nov 2026 14:00:00 -0800</pubDate>
+      <category>Chiefs</category>
+      <description>KC is reportedly active in the receiver market with the trade deadline looming after Week 9.</description>
+    </item>
+    <item>
+      <title>Kansas City Chiefs elevate DL for Week 9 matchup vs. New York Jets</title>
+      <link>https://sports.yahoo.com/articles/kansas-city-chiefs-elevate-dl-223320095.html</link>
+      <guid isPermaLink="true">https://sports.yahoo.com/articles/kansas-city-chiefs-elevate-dl-223320095.html</guid>
+      <pubDate>Sat, 07 Nov 2026 13:30:00 -0800</pubDate>
+      <category>Chiefs</category>
+      <description>Practice-squad defensive line help called up for Sunday with three linemen sidelined.</description>
+    </item>
+    <item>
+      <title>This week in Claude Code, Codex and Gemini CLI (week of November 8, 2026)</title>
+      <link>https://dev.to/aicoding-guide/this-week-in-claude-code-codex-and-gemini-cli-week-of-november-8-2026-485k</link>
+      <guid isPermaLink="true">https://dev.to/aicoding-guide/this-week-in-claude-code-codex-and-gemini-cli-week-of-november-8-2026-485k</guid>
+      <pubDate>Sat, 07 Nov 2026 12:00:00 -0800</pubDate>
+      <category>AI &amp; Agents</category>
+      <description>Weekly roundup of what shipped across the big three coding-agent CLIs.</description>
+    </item>
+    <item>
+      <title>Weekly AI Dev News Digest: November 1 - November 6, 2026</title>
+      <link>https://www.everydev.ai/p/news-weekly-ai-dev-news-digest-november-1-november-6-2026</link>
+      <guid isPermaLink="true">https://www.everydev.ai/p/news-weekly-ai-dev-news-digest-november-1-november-6-2026</guid>
+      <pubDate>Sat, 07 Nov 2026 11:00:00 -0800</pubDate>
+      <category>AI &amp; Agents</category>
+      <description>348 new MCP tools added this week; standouts include MCPJungle for connecting MCP servers and Floorplan, which maps an app after an agent writes it.</description>
+    </item>
+    <item>
+      <title>Google ADK 2.14.0 Graduates Core Modules, Adds Teams Runner</title>
+      <link>https://aiweekly.co/alerts/google-adk-2140-graduates-core-modules-adds-teams-runner</link>
+      <guid isPermaLink="true">https://aiweekly.co/alerts/google-adk-2140-graduates-core-modules-adds-teams-runner</guid>
+      <pubDate>Sat, 07 Nov 2026 10:00:00 -0800</pubDate>
+      <category>AI &amp; Agents</category>
+      <description>Google's Agent Development Kit release graduates core modules and adds a Teams runner.</description>
+    </item>
+    <item>
+      <title>SF got $7M to expand its innovation team. Lurie just fired most of it</title>
+      <link>https://sfstandard.com/2026/11/07/lurie-fires-innovation-office-staff-bloomberg-grant/</link>
+      <guid isPermaLink="true">https://sfstandard.com/2026/11/07/lurie-fires-innovation-office-staff-bloomberg-grant/</guid>
+      <pubDate>Sat, 07 Nov 2026 09:00:00 -0800</pubDate>
+      <category>San Francisco</category>
+      <description>Despite a $7M Bloomberg grant to grow the civic innovation office, the mayor cut most of its staff.</description>
+    </item>
+    <item>
+      <title>Mayor Daniel Lurie gains power - and loses excuses</title>
+      <link>https://missionlocal.org/2026/11/daniel-lurie-election-city-hall-power/</link>
+      <guid isPermaLink="true">https://missionlocal.org/2026/11/daniel-lurie-election-city-hall-power/</guid>
+      <pubDate>Sat, 07 Nov 2026 08:00:00 -0800</pubDate>
+      <category>San Francisco</category>
+      <description>Mission Local on what this week's election results mean for Lurie's leverage at City Hall.</description>
+    </item>
+    <item>
+      <title>Did the Bay Area just save its transit system from the brink of certain death?</title>
+      <link>https://www.theguardian.com/us-news/2026/nov/07/san-francisco-bay-area-transit-bart-muni</link>
+      <guid isPermaLink="true">https://www.theguardian.com/us-news/2026/nov/07/san-francisco-bay-area-transit-bart-muni</guid>
+      <pubDate>Sat, 07 Nov 2026 07:00:00 -0800</pubDate>
+      <category>San Francisco</category>
+      <description>The Guardian on the funding measure that may have pulled BART and Muni back from the fiscal cliff.</description>
+    </item>
+    <item>
+      <title>2026 NYC Marathon becomes the first marathon ever to exceed 60,000 finishers</title>
+      <link>https://www.runningusa.org/industry-news/2026-tcs-new-york-city-marathon-becomes-the-first-marathon-ever-to-exceed-60000-finisher-mark/</link>
+      <guid isPermaLink="true">https://www.runningusa.org/industry-news/2026-tcs-new-york-city-marathon-becomes-the-first-marathon-ever-to-exceed-60000-finisher-mark/</guid>
+      <pubDate>Tue, 03 Nov 2026 09:00:00 -0800</pubDate>
+      <category>Running</category>
+      <description>New York set the all-time finisher record for any marathon.</description>
+    </item>
+    <item>
+      <title>Almgren wins on marathon debut, Chepkirui regains title in New York</title>
+      <link>https://worldathletics.org/news/report/new-york-city-marathon-2026-almgren-chepkirui</link>
+      <guid isPermaLink="true">https://worldathletics.org/news/report/new-york-city-marathon-2026-almgren-chepkirui</guid>
+      <pubDate>Sun, 01 Nov 2026 12:00:00 -0700</pubDate>
+      <category>Running</category>
+      <description>Andreas Almgren won the NYC Marathon in his debut at the distance; Chepkirui took the women's race. Relevant context with your Dec 12 sub-3 attempt five weeks out.</description>
+    </item>
+  </channel>
+</rss>
