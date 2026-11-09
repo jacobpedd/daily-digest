@@ -1,0 +1,244 @@
+{
+  "date": "2026-11-09",
+  "survey": {
+    "question": "How should tomorrow's issue be built?",
+    "options": [
+      "Fewer, deeper stories",
+      "More quick hits",
+      "Keep today's mix"
+    ]
+  },
+  "items": [
+    {
+      "category": "Chiefs",
+      "title": "Chiefs 35, Jets 12: Kenneth Walker scores 3 TDs as Kansas City snaps its 2-game skid and holds New York to minus-9 third-quarter yards",
+      "url": "https://www.espn.com/nfl/recap/_/gameId/401873045",
+      "published": "2026-11-08T19:30:00-08:00",
+      "subheader": "Walker posted 143 scrimmage yards and his third career three-TD game; Mahomes threw for 242 yards and 2 TDs, and Mahomes-to-Kelce passed Rivers-to-Gates as the most prolific QB-TE yardage duo in NFL history at 9,365.",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1108/04082e318c864f10b464e649c74cace4989/04082e318c864f10b464e649c74cace4989.jpg",
+      "image_alt": "Kenneth Walker scores for the Chiefs against the Jets",
+      "sources": [
+        {
+          "name": "ESPN/AP recap",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873045"
+        },
+        {
+          "name": "Chiefs.com",
+          "url": "https://www.chiefs.com/news/chiefs-defeat-jets-35-12-behind-ken-walker-s-three-touchdown-performance-"
+        }
+      ],
+      "quotes": [
+        {
+          "text": "You're coming off two losses there, and I felt like we had a good week of practice, and they didn't hang their heads. My hat goes off to the guys.",
+          "by": "Andy Reid, Chiefs head coach",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873045"
+        },
+        {
+          "text": "Honestly, the first half we were making a lot of mistakes. At halftime, we straightened everything out.",
+          "by": "Kenneth Walker III, Chiefs running back",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873045"
+        }
+      ]
+    },
+    {
+      "category": "Chiefs",
+      "title": "Mahomes escapes an elbow scare after a grotesque bend on a strip-sack, plans more testing; Xavier Worthy exits late with a hamstring injury",
+      "url": "https://www.si.com/nfl/chiefs/onsi/chiefs-relieved-not-out-of-woods-after-patrick-mahomes-injury-against-jets",
+      "published": "2026-11-08T19:00:00-08:00",
+      "subheader": "David Bailey's second sack in three plays bent Mahomes' right elbow badly; trainer Julie Frymyer worked on it at halftime and Mahomes finished the game. RT Jaylen Moore also hurt an ankle, and Worthy's hamstring is the one to watch with the trade deadline Tuesday.",
+      "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_305,y_157,w_4360,h_2452/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/arrowhead_report/01m6ygpk642tye9ke6ds.jpg",
+      "image_alt": "Patrick Mahomes throws under pressure against the Jets",
+      "sources": [
+        {
+          "name": "Sports Illustrated",
+          "url": "https://www.si.com/nfl/chiefs/onsi/chiefs-relieved-not-out-of-woods-after-patrick-mahomes-injury-against-jets"
+        },
+        {
+          "name": "ESPN/AP recap",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873045"
+        }
+      ],
+      "quotes": [
+        {
+          "text": "If I'm able to play, I'm going to play. That's part of the game.",
+          "by": "Patrick Mahomes, Chiefs quarterback",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873045"
+        },
+        {
+          "text": "Once I threw the football, I knew I was OK.",
+          "by": "Mahomes, who planned more testing on the elbow after the game",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873045"
+        }
+      ]
+    },
+    {
+      "category": "Chiefs",
+      "title": "Butker misses the same 56-yarder twice and Reid won't commit; former All-Pro Justin Tucker waits on the practice squad",
+      "url": "https://www.kctv5.com/2026/11/09/harrison-butkers-struggles-continue-chiefs-35-12-win-over-jets/",
+      "published": "2026-11-08T20:00:00-08:00",
+      "subheader": "A penalty gave Butker a do-over after his first miss, and he missed again - the latest chapter in a season of struggles, with Tucker already in the building as insurance.",
+      "image": "https://gray-kctv-prod.gtv-cdn.com/resizer/v2/DJWLPJ2CDRFBLHP5TZSSQKAA4A.jpg?auth=9e24270ede46c4fa303740eadfb5b668a13cdfd8c4bd0080981c52ebfe662e67&width=1200&height=600&smart=false&focal=3423%2C1437",
+      "image_alt": "Harrison Butker attempts a field goal",
+      "sources": [
+        {
+          "name": "KCTV5",
+          "url": "https://www.kctv5.com/2026/11/09/harrison-butkers-struggles-continue-chiefs-35-12-win-over-jets/"
+        },
+        {
+          "name": "ESPN/AP recap",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873045"
+        }
+      ],
+      "quotes": [
+        {
+          "text": "No need to ask. I'm not making any decisions about that today.",
+          "by": "Andy Reid, on a brewing kicking controversy",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873045"
+        }
+      ]
+    },
+    {
+      "category": "Chiefs",
+      "title": "Veach goes on record: the Chiefs will keep working a receiver trade before Tuesday's 4 p.m. ET deadline, with the biggest names 'off the market'",
+      "url": "https://www.cbssports.com/nfl/news/chiefs-looking-to-trade-for-wide-receiver-nfl-trade-deadline/",
+      "published": "2026-11-08T12:30:00-08:00",
+      "subheader": "Only the Raiders' and Vikings' wideouts have fewer receiving yards this season, and Mahomes went three straight games without a 20-plus-yard completion - tying the longest streak of his career. Worthy's hamstring injury Sunday adds urgency.",
+      "image": "https://sportshub.cbsistatic.com/i/2026/11/08/fa93c2a0-239a-4c01-a105-58e2790852ed/brett-veach-chiefs.jpg?crop=16:9&width=560&quality=85&format=webp",
+      "image_alt": "Chiefs GM Brett Veach",
+      "sources": [
+        {
+          "name": "CBS Sports",
+          "url": "https://www.cbssports.com/nfl/news/chiefs-looking-to-trade-for-wide-receiver-nfl-trade-deadline/"
+        },
+        {
+          "name": "Yardbarker deadline buzz",
+          "url": "https://www.yardbarker.com/nfl/articles/trade_deadline_buzz_khalil_mack_josh_downs_kirk_cousins_broncos_chargers_chiefs_raiders/s1_17039_44534473"
+        }
+      ],
+      "quotes": [
+        {
+          "text": "With the trade deadline approaching, Chiefs GM Brett Veach told @tracywolfson the team will continue to have conversations with the focus being on a move for a wide receiver.",
+          "by": "NFL on CBS, reporting Veach's comments during Sunday's broadcast",
+          "url": "https://www.cbssports.com/nfl/news/chiefs-looking-to-trade-for-wide-receiver-nfl-trade-deadline/"
+        }
+      ]
+    },
+    {
+      "category": "Nebraska",
+      "title": "'More changes coming' at Nebraska: On3 flags unprecedented staff turnover and injury concerns as the Huskers regroup for Rutgers",
+      "url": "https://www.on3.com/teams/nebraska-cornhuskers/news/the-weekly-rundown-more-changes-coming-at-nebraska-holgorsen-fallout-and-questions-ahead/",
+      "published": "2026-11-09T05:00:00-08:00",
+      "subheader": "With Holgorsen out and Glenn Thomas calling plays, the Weekly Rundown asks whether Rhule's shake-up stops here - and what the offense can show in the final games after four straight losses.",
+      "image": "https://on3static.com/cdn-cgi/image/height=420,width=800,quality=90,fit=cover,gravity=0.5x0.5,format=auto,metadata=none/uploads/dev/assets/cms/2025/08/30100234/NZ8_7805-1.jpg",
+      "image_alt": "Matt Rhule and Dana Holgorsen at Nebraska",
+      "sources": [
+        {
+          "name": "On3",
+          "url": "https://www.on3.com/teams/nebraska-cornhuskers/news/the-weekly-rundown-more-changes-coming-at-nebraska-holgorsen-fallout-and-questions-ahead/"
+        },
+        {
+          "name": "Sporting News",
+          "url": "https://www.sportingnews.com/us/ncaa-football/news/nebraskas-offensive-collapse-finally-costs-offensive-coordinator/b93be2d933f63cc74d077082"
+        }
+      ]
+    },
+    {
+      "category": "AI & Agents",
+      "title": "Cloudflare's new example runs OpenAI's Codex agent loop inside a Durable Object, compiling Codex's Rust turn-processing to WebAssembly",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-11-09-codex-harness/",
+      "published": "2026-11-09T01:00:00-08:00",
+      "subheader": "The experimental Agents SDK harness journals model and tool calls so a crashed agent resumes from the last completed step; conversation sessions, replayable streams and a persistent file workspace ride along.",
+      "image": "https://developers.cloudflare.com/changelog/post/2026-11-09-codex-harness/og.png?v=07916f154d67e97a",
+      "image_alt": "Cloudflare changelog: Codex harness on Workers",
+      "sources": [
+        {
+          "name": "Cloudflare changelog",
+          "url": "https://developers.cloudflare.com/changelog/post/2026-11-09-codex-harness/"
+        }
+      ]
+    },
+    {
+      "category": "AI & Agents",
+      "title": "Vercel Labs ships agent-browser: a Rust CLI that lets agents drive Chrome through accessibility trees and @e1-style refs instead of CSS selectors",
+      "url": "https://www.techaimag.com/ai-news/vercel-labs-releases-agent-browser-a-rust-cli-for-ai-agents-to-automate-browsers",
+      "published": "2026-11-09T01:30:00-08:00",
+      "subheader": "Apache-2.0 and already 47.8k GitHub stars; a background daemon speaks Chrome DevTools Protocol, an MCP server mode serves agent clients, and cloud browsers including Browserbase, Browserless and Kernel plug in.",
+      "image": "https://www.techaimag.com/wp-content/uploads/2026/11/fa866a5fb13c4a9d-1024x576.jpg",
+      "image_alt": "Vercel Labs agent-browser",
+      "sources": [
+        {
+          "name": "Tech AI Magazine",
+          "url": "https://www.techaimag.com/ai-news/vercel-labs-releases-agent-browser-a-rust-cli-for-ai-agents-to-automate-browsers"
+        }
+      ]
+    },
+    {
+      "category": "AI & Agents",
+      "title": "Mistral's Managed Agents enter public preview: define an agent once in Python, run it in-process, self-hosted or on Mistral's infrastructure",
+      "url": "https://aiproviderindex.com/news/mistral-managed-agents-durable-background-execution",
+      "published": "2026-11-09T00:00:00-08:00",
+      "subheader": "Managed deployments can run for hours or days, resume from the last completed step after a crash, and pause for human approval - durable execution and human-in-the-loop as hosted features.",
+      "image": "images/durable-agents.png",
+      "image_alt": "Generated illustration: a long-running agent resuming from checkpoints",
+      "sources": [
+        {
+          "name": "AI Provider Index",
+          "url": "https://aiproviderindex.com/news/mistral-managed-agents-durable-background-execution"
+        }
+      ]
+    },
+    {
+      "category": "Running",
+      "title": "Chesir smashes the Málaga Marathon women's record by 3:26 with a 2:21:17; Waithira edges the men's race in 2:08:17",
+      "url": "https://www.watchathletics.com/article/13865/waithira-wins-m-laga-thriller-as-chesir-breaks-women-s-record",
+      "published": "2026-11-08T15:00:00-08:00",
+      "subheader": "Rebecca Kangogo Chesir led a Kenyan sweep of the women's podium on a redesigned, flatter course; the top three men finished within 38 seconds, with Simon Njuguna Waithira eight seconds clear of Victor Kiplimo.",
+      "image": "https://www.watchathletics.com/userfiles/images/marathons%20road%20races/__thumbs/malaga-marathon-winner-1000px.jpg/malaga-marathon-winner-1000px__800x534.jpg",
+      "image_alt": "Málaga Marathon winner",
+      "sources": [
+        {
+          "name": "Watch Athletics",
+          "url": "https://www.watchathletics.com/article/13865/waithira-wins-m-laga-thriller-as-chesir-breaks-women-s-record"
+        },
+        {
+          "name": "AthRecs weekend roundup",
+          "url": "https://www.athrecs.com/news/world-running-results-november-8-2026-roundup"
+        }
+      ]
+    },
+    {
+      "category": "San Francisco",
+      "title": "Marina Safeway redevelopment wins city approval: two towers of 22 and 18 stories with 848 homes, as opponents sue in federal court over untested soil contamination",
+      "url": "https://focalnews.org/san-francisco-ca/local/marina-safeway-redevelopment-wins-city-approval-but-legal-fight-over-848-home-complex-continues",
+      "published": "2026-11-09T04:00:00-08:00",
+      "subheader": "The approval, under a state law that bypasses public hearings, ends a yearlong fight over the Marina site - but the legal challenge over soil testing at the 848-home complex continues.",
+      "image": "images/safeway-towers.png",
+      "image_alt": "Generated illustration: two residential towers rising above a Marina district grocery store",
+      "sources": [
+        {
+          "name": "Focal News",
+          "url": "https://focalnews.org/san-francisco-ca/local/marina-safeway-redevelopment-wins-city-approval-but-legal-fight-over-848-home-complex-continues"
+        },
+        {
+          "name": "SF Chronicle",
+          "url": "https://www.sfchronicle.com/sf/article/marina-safeway-project-approval-housing-22520077.php"
+        }
+      ]
+    },
+    {
+      "category": "San Francisco",
+      "title": "King tides are already flooding the Embarcadero, and SF's October sea level ran a record 12.4 inches above NOAA predictions",
+      "url": "https://www.axios.com/local/san-francisco/2026/11/09/flood-risk-embarcadero",
+      "published": "2026-11-09T06:00:00-08:00",
+      "subheader": "El Niño-driven Kelvin waves can raise coastal water 6 to 12 inches before winter storms even arrive; more extreme tides are expected around Thanksgiving and Christmas.",
+      "image": "https://images.axios.com/LwS4k8WT-bsJgkmLzQyQsCZGk3Q=/0x464:5712x3677/1920x1080/2026/11/05/1793922373001.jpeg?w=3840",
+      "image_alt": "High water along the Embarcadero waterfront",
+      "sources": [
+        {
+          "name": "Axios San Francisco",
+          "url": "https://www.axios.com/local/san-francisco/2026/11/09/flood-risk-embarcadero"
+        }
+      ]
+    }
+  ]
+}
