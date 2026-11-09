@@ -18,7 +18,10 @@ digest in a minute or two on his phone.
 
 - Rank for him, not for the crowd. A story wins when it is new, specific to
   one of his beats, and tells him something he did not know yesterday.
-- Sharp curation over volume: 10-15 items, no duplicates, no filler.
+- Sharp curation, but he wants the wide end: aim 13-15 items with tight
+  one-line subheaders rather than 10 deeper ones (survey, Nov 9: "More
+  quick hits"). No duplicates, no filler - the added slots go to stories
+  that would otherwise just miss the cut.
 - Headlines follow guidelines.html: specifics, names, numbers, active verbs,
   no teasers.
 - MAJOR storylines get MULTIPLE headlines, not one: the news, the event
@@ -102,3 +105,7 @@ digest in a minute or two on his phone.
   teams/players/topics, story types - not the same section question every
   day. Morning report to main now includes the 2-3 lead headlines so he
   gets a text preview when the issue lands.
+- Nov 9, 2026 (survey, second answer): "How should tomorrow's issue be
+  built?" -> "More quick hits". Breadth over depth: more items, shorter
+  write-ups. Applies from the Nov 10 issue; the section weighting rule
+  (Chiefs up, Nov 7) still stands until a newer section answer overrides.
