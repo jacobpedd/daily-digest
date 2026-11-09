@@ -11,7 +11,7 @@ adjusted rule, then commit.
 
 Jacob Peddicord, San Francisco. Beats: Kansas City Chiefs, Nebraska football,
 AI and agent tooling, running, and San Francisco local news. He works in AI
-agent engineering, trains for a sub-3 marathon at Phoenix on Dec 12, 2026,
+agent engineering, runs the Phoenix Marathon on Dec 12, 2026 - best-effort, not chasing a specific time (his words, Nov 9),
 and reads the digest in a minute or two on his phone.
 
 ## Standing rules
@@ -36,7 +36,7 @@ and reads the digest in a minute or two on his phone.
   "N new tools this week" listicles are out (his tap, Nov 7).
 - For running, generic race-result news is OUT (his tap, Nov 9: "I don't
   really follow generic marathon news"). Running earns a slot through HIS
-  running: Phoenix Marathon buildup toward his sub-3 attempt on Dec 12,
+  running: Phoenix Marathon buildup toward his Dec 12 race (best-effort, no time goal),
   training science with real substance, the major races (Boston, NYC,
   Chicago, Berlin, London, Tokyo) and records of genuine significance -
   not mid-tier marathon results, however fast.
@@ -76,8 +76,8 @@ and reads the digest in a minute or two on his phone.
 - Story: "Chesir smashes the Málaga Marathon women's record by 3:26"
   Verdict: SKIP. His actual "Less of this" tap on Nov 9, 2026: "I don't
   really follow generic marathon news." Mid-tier race results, even course
-  records, are out unless they connect to his own running (Phoenix Dec 12,
-  sub-3 training) or to a race he follows.
+  records, are out unless they connect to his own running (Phoenix Dec 12)
+  or to a race he follows.
 
 - Story: "SF got $7M to expand its innovation team. Lurie just fired most of it"
   Verdict: INCLUDE. City Hall power plus a money trail is exactly his SF beat.
@@ -122,5 +122,5 @@ and reads the digest in a minute or two on his phone.
   (Chiefs up, Nov 7) still stands until a newer section answer overrides.
 - Nov 9, 2026 (second Less of this): the Málaga Marathon record story.
   "I don't really follow generic marathon news." Running beat rewritten:
-  down-weight generic race results; prefer Phoenix/sub-3-relevant training
+  down-weight generic race results; prefer Phoenix-relevant training
   content, the marathon majors, and stories with significance beyond times.
