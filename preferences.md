@@ -11,8 +11,8 @@ adjusted rule, then commit.
 
 Jacob Peddicord, San Francisco. Beats: Kansas City Chiefs, Nebraska football,
 AI and agent tooling, running, and San Francisco local news. He works in AI
-agent engineering, trains for a sub-3 marathon (Dec 12, 2026), and reads the
-digest in a minute or two on his phone.
+agent engineering, trains for a sub-3 marathon at Phoenix on Dec 12, 2026,
+and reads the digest in a minute or two on his phone.
 
 ## Standing rules
 
@@ -34,8 +34,12 @@ digest in a minute or two on his phone.
   version numbers over think pieces and over count-style weekly roundups.
   A roundup earns a slot only when it names something specific that shipped;
   "N new tools this week" listicles are out (his tap, Nov 7).
-- For running, prefer results, times, and records with numbers, plus anything
-  relevant to marathon training.
+- For running, generic race-result news is OUT (his tap, Nov 9: "I don't
+  really follow generic marathon news"). Running earns a slot through HIS
+  running: Phoenix Marathon buildup toward his sub-3 attempt on Dec 12,
+  training science with real substance, the major races (Boston, NYC,
+  Chicago, Berlin, London, Tokyo) and records of genuine significance -
+  not mid-tier marathon results, however fast.
 - For SF, prefer City Hall power moves, housing, transit, and money trails
   over lifestyle coverage.
 - Every item needs at least one real source URL. Quotes verbatim. Photos from
@@ -65,8 +69,15 @@ digest in a minute or two on his phone.
   version and what changed), not "weekly roundup".
 
 - Story: "Almgren wins NYC Marathon debut in 2:06:01"
-  Verdict: INCLUDE. Results with times and records fit the running beat;
-  bonus when relevant to his own training calendar.
+  Verdict: INCLUDE, narrowly - a World Marathon Major debut win is big
+  enough. But see the Málaga SKIP below: majors only, and even those need
+  a real storyline.
+
+- Story: "Chesir smashes the Málaga Marathon women's record by 3:26"
+  Verdict: SKIP. His actual "Less of this" tap on Nov 9, 2026: "I don't
+  really follow generic marathon news." Mid-tier race results, even course
+  records, are out unless they connect to his own running (Phoenix Dec 12,
+  sub-3 training) or to a race he follows.
 
 - Story: "SF got $7M to expand its innovation team. Lurie just fired most of it"
   Verdict: INCLUDE. City Hall power plus a money trail is exactly his SF beat.
@@ -109,3 +120,7 @@ digest in a minute or two on his phone.
   built?" -> "More quick hits". Breadth over depth: more items, shorter
   write-ups. Applies from the Nov 10 issue; the section weighting rule
   (Chiefs up, Nov 7) still stands until a newer section answer overrides.
+- Nov 9, 2026 (second Less of this): the Málaga Marathon record story.
+  "I don't really follow generic marathon news." Running beat rewritten:
+  down-weight generic race results; prefer Phoenix/sub-3-relevant training
+  content, the marathon majors, and stories with significance beyond times.
