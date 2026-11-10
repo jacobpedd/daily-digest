@@ -1,0 +1,300 @@
+{
+  "date": "2026-11-10",
+  "survey": {
+    "question": "On a huge story (like the Rhule firing), what serves you best?",
+    "options": [
+      "One deep dive",
+      "Several angles",
+      "Just the facts, quick"
+    ]
+  },
+  "items": [
+    {
+      "category": "Chiefs",
+      "title": "Deadline day: the Chiefs are expected to be active, with Josh Downs and Calvin Ridley the names to watch before 4 p.m. ET",
+      "url": "https://apnews.com/article/chiefs-analysis-receiver-trade-deadline-d932fb837ef037f8697963d11b7ab95e",
+      "published": "2026-11-10T05:30:00-08:00",
+      "subheader": "Worthy's hamstring makes a thin receiver room thinner; Veach told CBS Sunday the conversations continue. James Palmer: 'It was likely KC would add a WR before Tuesday.'",
+      "image": "https://heavy.com/wp-content/uploads/2026/11/GettyImages-2301066662-e1794177108196.jpg?quality=65&strip=all&w=780",
+      "image_alt": "Xavier Worthy warms up before a game",
+      "sources": [
+        {
+          "name": "AP",
+          "url": "https://apnews.com/article/chiefs-analysis-receiver-trade-deadline-d932fb837ef037f8697963d11b7ab95e"
+        },
+        {
+          "name": "Heavy",
+          "url": "https://heavy.com/sports/nfl/kansas-city-chiefs/xavier-worthy-predicted-miss-multiple-weeks/"
+        },
+        {
+          "name": "CBS Sports live tracker",
+          "url": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-live-updates-latest-rumors-buzz-news/live/"
+        }
+      ],
+      "quotes": [
+        {
+          "text": "The Chiefs have been calling on WRs for weeks, and now Xavier Worthy goes down grabbing his hamstring. It was likely KC would add a WR before Tuesday.",
+          "by": "James Palmer, Bleacher Report",
+          "url": "https://heavy.com/sports/nfl/kansas-city-chiefs/xavier-worthy-predicted-miss-multiple-weeks/"
+        }
+      ]
+    },
+    {
+      "category": "Chiefs",
+      "title": "Mahomes is day to day with a throwing-elbow injury, Reid says; Worthy's hamstring projected 'multi-week' by ProFootballDoc",
+      "url": "https://apnews.com/article/kansas-city-chiefs-patrick-mahomes-57cc7631322f8b82b5466d03fdb63f72",
+      "published": "2026-11-09T14:00:00-08:00",
+      "subheader": "Mahomes finished Sunday's game after David Bailey's strip-sack bent his elbow; Reid called Worthy's injury a 'tweak' while David Chao anticipates multiple weeks out. Atlanta visits Sunday.",
+      "image": "https://nbcsports.brightspotcdn.com/dims4/default/d1d76d4/2147483647/strip/true/crop/3343x1880+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbe%2F85%2Fcd13dd28497a8bd4aed700d6b0eb%2F2026-11-08t191916z-1370804351-mt1usatoday30313316-rtrmadp-3-nfl-new-york-jets-at-kansas-city-chiefs.jpg",
+      "image_alt": "Patrick Mahomes against the Jets",
+      "sources": [
+        {
+          "name": "AP",
+          "url": "https://apnews.com/article/kansas-city-chiefs-patrick-mahomes-57cc7631322f8b82b5466d03fdb63f72"
+        },
+        {
+          "name": "NBC Sports",
+          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/andy-reid-patrick-mahomes-day-to-day-with-elbow-injury"
+        },
+        {
+          "name": "Heavy",
+          "url": "https://heavy.com/sports/nfl/kansas-city-chiefs/xavier-worthy-predicted-miss-multiple-weeks/"
+        }
+      ]
+    },
+    {
+      "category": "Chiefs",
+      "title": "Jaguars go all-in as deadline buyers - likely ending the Brian Thomas Jr. pipe dream - and more moves are expected by 4 p.m. ET",
+      "url": "https://apnews.com/article/nfl-trade-deadline-dec70beddd54ac37337dc64fabb9f9f8",
+      "published": "2026-11-10T04:00:00-08:00",
+      "subheader": "Jacksonville loaded up for an AFC run instead of selling; the Bears already got an impact from Jeffery Simmons, and the Vikings are expected to explore the QB market after Carson Wentz's Monday-night meltdown.",
+      "image": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/mia8un3bgpomyolonkv9",
+      "image_alt": "NFL trade deadline",
+      "sources": [
+        {
+          "name": "AP",
+          "url": "https://apnews.com/article/nfl-trade-deadline-dec70beddd54ac37337dc64fabb9f9f8"
+        },
+        {
+          "name": "NFL.com trade grades",
+          "url": "https://www.nfl.com/news/nfl-trade-grades-evaluating-every-deal-made-ahead-of-the-2026-deadline"
+        },
+        {
+          "name": "Pro Football Rumors",
+          "url": "https://www.profootballrumors.com/2026/11/vikings-expected-to-explore-qb-trade"
+        }
+      ]
+    },
+    {
+      "category": "Nebraska",
+      "title": "Rhule on firing Holgorsen: 'We're not scoring enough points'; Glenn Thomas debuts as play-caller Saturday at Rutgers, one win from bowl eligibility",
+      "url": "https://huskerstoday.com/rhule-holgorsen-change-glenn-thomas-play-calls-rob-aurich-extension-rutgers-2026/",
+      "published": "2026-11-09T21:00:00-08:00",
+      "subheader": "Rhule says the offense isn't broken and won't be torn down; DC Rob Aurich signed a two-year extension with the Blackshirts 12th nationally in total defense. Kickoff 11:30 a.m. CT on BTN.",
+      "image": "https://huskerstoday.com/wp-content/uploads/2026/11/rhule-holgorsen-change-glenn-thomas-play-calls-rob-aurich-extension-rutgers-2026-featured.jpg",
+      "image_alt": "Matt Rhule at his Monday press conference",
+      "sources": [
+        {
+          "name": "Huskers Today",
+          "url": "https://huskerstoday.com/rhule-holgorsen-change-glenn-thomas-play-calls-rob-aurich-extension-rutgers-2026/"
+        },
+        {
+          "name": "Huskers.com",
+          "url": "https://huskers.com/news/2026/11/9/rhule-meets-media-monday"
+        }
+      ],
+      "quotes": [
+        {
+          "text": "We can point to the yards and stand on we're third in the Big Ten in total offense, fourth in rushing, whatever, those things, but we're not scoring enough points. I felt like the time was now.",
+          "by": "Matt Rhule, Nebraska head coach",
+          "url": "https://huskerstoday.com/rhule-holgorsen-change-glenn-thomas-play-calls-rob-aurich-extension-rutgers-2026/"
+        },
+        {
+          "text": "I don't think the offense is broken. I don't think we have bad players. I don't think we have bad coaches.",
+          "by": "Rhule",
+          "url": "https://huskerstoday.com/rhule-holgorsen-change-glenn-thomas-play-calls-rob-aurich-extension-rutgers-2026/"
+        }
+      ]
+    },
+    {
+      "category": "AI & Agents",
+      "title": "Browser Use 1.0 deletes 80% of its library - the agent now writes Python straight to Chrome over CDP, scoring up to 33 points higher at 2.7-5.2x lower cost",
+      "url": "https://news.sulat.com/2026/11/10/browser-use-1-0-cdp-python-repl-rewrite/",
+      "published": "2026-11-10T01:00:00-08:00",
+      "subheader": "'No DOM serializer, no action schema, nothing in between.' Defaults now route to Browser Use's cloud and gateway model; the docs warn model-written code runs as you, so containerize untrusted tasks.",
+      "image": "https://news.sulat.com/wp-content/uploads/2026/11/browser-use-1-0-banner.jpg",
+      "image_alt": "Browser Use 1.0 release banner",
+      "sources": [
+        {
+          "name": "Sulat AI & Tech News",
+          "url": "https://news.sulat.com/2026/11/10/browser-use-1-0-cdp-python-repl-rewrite/"
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Predefined state and action space make it worse.",
+          "by": "Browser Use, on X, launching 1.0",
+          "url": "https://news.sulat.com/2026/11/10/browser-use-1-0-cdp-python-repl-rewrite/"
+        },
+        {
+          "text": "An action space is what made a run replayable; a program step gives you effects instead of a diff.",
+          "by": "John Rood, on the trade-off, replying to Zunic",
+          "url": "https://news.sulat.com/2026/11/10/browser-use-1-0-cdp-python-repl-rewrite/"
+        }
+      ]
+    },
+    {
+      "category": "AI & Agents",
+      "title": "n8n Labs releases Nod: an open-source personal agent with its own local computer and browser that asks before it sends, pays or deletes",
+      "url": "https://blog.n8n.io/meet-nod/",
+      "published": "2026-11-10T00:30:00-08:00",
+      "subheader": "Research preview for Mac and Windows; connects Gmail, Calendar, Drive and Slack, runs scheduled jobs, remembers months of conversation (93.2% on LongMemEval) - passwords stay encrypted in forms the model can't read.",
+      "image": "https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1200/2026/11/nod-header-2x-1.png",
+      "image_alt": "Nod, the personal agent from n8n Labs",
+      "sources": [
+        {
+          "name": "n8n blog",
+          "url": "https://blog.n8n.io/meet-nod/"
+        }
+      ]
+    },
+    {
+      "category": "AI & Agents",
+      "title": "Runpod for Agents: your coding agent can now provision, diagnose and shut down GPU infra itself, via a hosted MCP server and 35 tested skills",
+      "url": "https://www.prnewswire.com/news-releases/runpod-for-agents-lets-developers-hand-infrastructure-work-to-their-coding-agents-302934084.html",
+      "published": "2026-11-10T06:00:00-08:00",
+      "subheader": "Agents already issue over half of all CLI commands on Runpod; plugins ship for Claude Code, Codex and ChatGPT, with destructive actions gated behind developer confirmation. SF-based.",
+      "sources": [
+        {
+          "name": "PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/runpod-for-agents-lets-developers-hand-infrastructure-work-to-their-coding-agents-302934084.html"
+        }
+      ],
+      "quotes": [
+        {
+          "text": "An agent with API access isn't the same as an agent that knows how to run a workload correctly.",
+          "by": "Zhen Lu, Runpod CEO and co-founder",
+          "url": "https://www.prnewswire.com/news-releases/runpod-for-agents-lets-developers-hand-infrastructure-work-to-their-coding-agents-302934084.html"
+        }
+      ]
+    },
+    {
+      "category": "AI & Agents",
+      "title": "agent-browser 0.42 adds saved flows: record a browser task once, then replay it - HTTP first, in-page second, recorded commands last",
+      "url": "https://theagenticweekly.com/news/vercel-agent-browser-0-42-saved-flows",
+      "published": "2026-11-10T02:00:00-08:00",
+      "subheader": "Experimental in the Vercel Labs CLI released on GitHub Monday; the update also trims MCP tool arguments and now requires Node 22.",
+      "image": "https://theagenticweekly.com/og/news/vercel-agent-browser-0-42-saved-flows",
+      "image_alt": "agent-browser 0.42 release card",
+      "sources": [
+        {
+          "name": "Agentic Weekly",
+          "url": "https://theagenticweekly.com/news/vercel-agent-browser-0-42-saved-flows"
+        }
+      ]
+    },
+    {
+      "category": "Running",
+      "title": "Carb-loading, settled(ish): a 63-trial meta-analysis says eat 8+ grams per kilo for 36-48 hours before a marathon",
+      "url": "https://unbrokenreview.com/science/carbohydrate-loading-marathon-meta-analysis-glycogen/",
+      "published": "2026-11-09T08:00:00-08:00",
+      "subheader": "Quantity beat duration - loading past 48 hours added nothing; a hard session plus high-GI carbs can compress it to 24-36 hours. Caveat: only 12% of the 641 participants were women.",
+      "image": "https://unbrokenreview.com/assets/photos/move-pasta-960.jpg",
+      "image_alt": "Pasta, a carb-loading staple",
+      "sources": [
+        {
+          "name": "Unbroken Review",
+          "url": "https://unbrokenreview.com/science/carbohydrate-loading-marathon-meta-analysis-glycogen/"
+        },
+        {
+          "name": "Journal article (SJMSS)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13741990/"
+        }
+      ]
+    },
+    {
+      "category": "San Francisco",
+      "title": "Brian Chesky gives SF parks $100 million, the city's largest-ever single donation - pools open Sundays, stalled parks jump the queue",
+      "url": "https://abc7news.com/post/airbnb-founder-ceo-brian-chesky-donates-100-million-sf-parks-largest-gift-department-has-received/20027764/",
+      "published": "2026-11-09T20:00:00-08:00",
+      "subheader": "First $39M goes to five projects in SoMa, the Mission, Bayview, Potrero Hill and the Embarcadero; SoMa's Rachele Sullivan Park now opens in 2028 instead of 2031, and Garfield Pool adds 500 swim hours a year.",
+      "image": "https://cdn.abcotvs.com/dip/images/20028153_110926-kgo-sf-parks-tn.jpg?w=1600",
+      "image_alt": "Golden Gate Park announcement",
+      "sources": [
+        {
+          "name": "ABC7/Bay City News",
+          "url": "https://abc7news.com/post/airbnb-founder-ceo-brian-chesky-donates-100-million-sf-parks-largest-gift-department-has-received/20027764/"
+        },
+        {
+          "name": "NBC Bay Area",
+          "url": "https://www.nbcbayarea.com/news/local/san-francisco-100-million-donation-parks-public-spaces/4173073/"
+        }
+      ],
+      "quotes": [
+        {
+          "text": "There is something truly special here in San Francisco. Much of my success, I attribute to the magic, and to the community, that is San Francisco.",
+          "by": "Brian Chesky, Airbnb co-founder and CEO",
+          "url": "https://abc7news.com/post/airbnb-founder-ceo-brian-chesky-donates-100-million-sf-parks-largest-gift-department-has-received/20027764/"
+        }
+      ]
+    },
+    {
+      "category": "San Francisco",
+      "title": "Prop I social-housing measure loses 52-48 after $2.8M in real-estate opposition; Lurie-backed Prop C passed with 82%",
+      "url": "https://missionlocal.org/2026/11/san-francisco-proposition-i-social-housing-election-loss/",
+      "published": "2026-11-10T03:55:00-08:00",
+      "subheader": "Prop I would have earmarked half the $10M-plus property transfer tax for social housing; Prop C instead grows the affordable housing trust fund toward $125 million a year. Michael Moritz spent $200k on the fight.",
+      "image": "https://i0.wp.com/missionlocal.org/wp-content/uploads/2026/04/042026_ZM_MEDAHousing-6-scaled.jpg?fit=2560%2C1707&ssl=1",
+      "image_alt": "A MEDA affordable housing property in the Mission",
+      "sources": [
+        {
+          "name": "Mission Local",
+          "url": "https://missionlocal.org/2026/11/san-francisco-proposition-i-social-housing-election-loss/"
+        }
+      ]
+    },
+    {
+      "category": "San Francisco",
+      "title": "California voters reject Prop 40's first-in-the-nation billionaire wealth tax after a tech-funded opposition campaign",
+      "url": "https://apnews.com/article/california-billionaire-tax-4ae8cbdc057b99579818016f02ac9d9e",
+      "published": "2026-11-10T02:30:00-08:00",
+      "subheader": "The 5% net-worth tax failed after opponents, including Gov. Newsom, argued it would drive ultrawealthy taxpayers out of the state - a result with 2028 overtones.",
+      "sources": [
+        {
+          "name": "AP",
+          "url": "https://apnews.com/article/california-billionaire-tax-4ae8cbdc057b99579818016f02ac9d9e"
+        },
+        {
+          "name": "Focal News",
+          "url": "https://focalnews.org/san-francisco-ca/politics/california-voters-reject-landmark-5-billionaire-tax-as-prop-40-fails"
+        }
+      ]
+    },
+    {
+      "category": "San Francisco",
+      "title": "Federal judge orders ICE to release UC Berkeley student detained at SFO, ruling her due-process rights were violated",
+      "url": "https://www.kqed.org/news/12108913/judge-orders-release-of-uc-berkeley-student-from-ice-custody-after-sfo-arrest",
+      "published": "2026-11-09T15:50:00-08:00",
+      "subheader": "Paula Albornoz Hernandez, 23, a Colombian asylum seeker with a valid work permit, was seized Oct. 30 boarding a flight; nearly 300 students rallied at Sproul Plaza, and 30 Bay Area officials wrote in support. Her asylum case continues.",
+      "image": "https://cdn.kqed.org/wp-content/uploads/sites/10/2026/11/261103-UC-Berkeley-Student-01-KQED-48dc607e.jpg",
+      "image_alt": "Paula Albornoz Hernandez (courtesy of her attorney)",
+      "sources": [
+        {
+          "name": "KQED",
+          "url": "https://www.kqed.org/news/12108913/judge-orders-release-of-uc-berkeley-student-from-ice-custody-after-sfo-arrest"
+        },
+        {
+          "name": "Focal News",
+          "url": "https://focalnews.org/san-francisco-ca/local/federal-judge-orders-ice-to-release-uc-berkeley-student-detained-at-sfo-citing-due-process-violation"
+        }
+      ],
+      "quotes": [
+        {
+          "text": "This is a moment to remember what's possible when our community comes together to support one of our own.",
+          "by": "Rich Lyons, UC Berkeley chancellor",
+          "url": "https://focalnews.org/san-francisco-ca/local/federal-judge-orders-ice-to-release-uc-berkeley-student-detained-at-sfo-citing-due-process-violation"
+        }
+      ]
+    }
+  ]
+}

@@ -6,152 +6,174 @@
     <atom:link href="https://jacobpedd.github.io/daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A personal daily news digest: Chiefs, Nebraska football, AI and agent tooling, running, and San Francisco.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Nov 2026 07:27:33 -0800</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 07:28:02 -0800</lastBuildDate>
     <ttl>360</ttl>
     <item>
-      <title>Quick survey - Monday, November 9, 2026</title>
+      <title>Quick survey - Tuesday, November 10, 2026</title>
       <link>https://jacobpedd.github.io/daily-digest/</link>
-      <guid isPermaLink="true">https://jacobpedd.github.io/daily-digest/#survey-2026-11-09</guid>
-      <pubDate>Mon, 09 Nov 2026 07:27:33 -0800</pubDate>
-      <description><![CDATA[<p>Quick survey: How should tomorrow's issue be built?<br/><a href="sms:+16506139572?&amp;body=Digest%2011/9%20survey%3A%20Fewer%2C%20deeper%20stories">Fewer, deeper stories</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/9%20survey%3A%20More%20quick%20hits">More quick hits</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/9%20survey%3A%20Keep%20today%27s%20mix">Keep today's mix</a></p>]]></description>
+      <guid isPermaLink="true">https://jacobpedd.github.io/daily-digest/#survey-2026-11-10</guid>
+      <pubDate>Tue, 10 Nov 2026 07:28:02 -0800</pubDate>
+      <description><![CDATA[<p>Quick survey: On a huge story (like the Rhule firing), what serves you best?<br/><a href="sms:+16506139572?&amp;body=Digest%2011/10%20survey%3A%20One%20deep%20dive">One deep dive</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/10%20survey%3A%20Several%20angles">Several angles</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/10%20survey%3A%20Just%20the%20facts%2C%20quick">Just the facts, quick</a></p>]]></description>
     </item>
     <item>
-      <title>Chiefs 35, Jets 12: Kenneth Walker scores 3 TDs as Kansas City snaps its 2-game skid and holds New York to minus-9 third-quarter yards</title>
-      <link>https://www.espn.com/nfl/recap/_/gameId/401873045</link>
-      <guid isPermaLink="true">https://www.espn.com/nfl/recap/_/gameId/401873045</guid>
-      <pubDate>Sun, 08 Nov 2026 19:30:00 -0800</pubDate>
+      <title>Deadline day: the Chiefs are expected to be active, with Josh Downs and Calvin Ridley the names to watch before 4 p.m. ET</title>
+      <link>https://apnews.com/article/chiefs-analysis-receiver-trade-deadline-d932fb837ef037f8697963d11b7ab95e</link>
+      <guid isPermaLink="true">https://apnews.com/article/chiefs-analysis-receiver-trade-deadline-d932fb837ef037f8697963d11b7ab95e</guid>
+      <pubDate>Tue, 10 Nov 2026 05:30:00 -0800</pubDate>
       <category>Chiefs</category>
-      <description><![CDATA[<p><img src="https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1108/04082e318c864f10b464e649c74cace4989/04082e318c864f10b464e649c74cace4989.jpg" alt="Kenneth Walker scores for the Chiefs against the Jets" style="max-width:100%"/></p>
-<p><b>Walker posted 143 scrimmage yards and his third career three-TD game; Mahomes threw for 242 yards and 2 TDs, and Mahomes-to-Kelce passed Rivers-to-Gates as the most prolific QB-TE yardage duo in NFL history at 9,365.</b></p>
-<blockquote>&ldquo;You're coming off two losses there, and I felt like we had a good week of practice, and they didn't hang their heads. My hat goes off to the guys.&rdquo; - <a href="https://www.espn.com/nfl/recap/_/gameId/401873045">Andy Reid, Chiefs head coach</a></blockquote>
-<blockquote>&ldquo;Honestly, the first half we were making a lot of mistakes. At halftime, we straightened everything out.&rdquo; - <a href="https://www.espn.com/nfl/recap/_/gameId/401873045">Kenneth Walker III, Chiefs running back</a></blockquote>
-<p>Sources: <a href="https://www.espn.com/nfl/recap/_/gameId/401873045">ESPN/AP recap</a> &middot; <a href="https://www.chiefs.com/news/chiefs-defeat-jets-35-12-behind-ken-walker-s-three-touchdown-performance-">Chiefs.com</a></p>
-<p>Feedback: <a href="sms:+16506139572?&amp;body=Digest%2011/9%3A%20loved%20%22Chiefs%2035%2C%20Jets%2012%3A%20Kenneth%20Walker%20scor...%22">Loved it</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/9%3A%20meh%20on%20%22Chiefs%2035%2C%20Jets%2012%3A%20Kenneth%20Walker%20scor...%22">Meh</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/9%3A%20less%20like%20%22Chiefs%2035%2C%20Jets%2012%3A%20Kenneth%20Walker%20scor...%22">Less of this</a> &middot; <a href="sms:+16506139572?&amp;body=https%3A//www.espn.com/nfl/recap/_/gameId/401873045%0A">Chat about it</a></p>]]></description>
-      <media:content url="https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1108/04082e318c864f10b464e649c74cace4989/04082e318c864f10b464e649c74cace4989.jpg" medium="image"/>
+      <description><![CDATA[<p><img src="https://heavy.com/wp-content/uploads/2026/11/GettyImages-2301066662-e1794177108196.jpg?quality=65&amp;strip=all&amp;w=780" alt="Xavier Worthy warms up before a game" style="max-width:100%"/></p>
+<p><b>Worthy's hamstring makes a thin receiver room thinner; Veach told CBS Sunday the conversations continue. James Palmer: 'It was likely KC would add a WR before Tuesday.'</b></p>
+<blockquote>&ldquo;The Chiefs have been calling on WRs for weeks, and now Xavier Worthy goes down grabbing his hamstring. It was likely KC would add a WR before Tuesday.&rdquo; - <a href="https://heavy.com/sports/nfl/kansas-city-chiefs/xavier-worthy-predicted-miss-multiple-weeks/">James Palmer, Bleacher Report</a></blockquote>
+<p>Sources: <a href="https://apnews.com/article/chiefs-analysis-receiver-trade-deadline-d932fb837ef037f8697963d11b7ab95e">AP</a> &middot; <a href="https://heavy.com/sports/nfl/kansas-city-chiefs/xavier-worthy-predicted-miss-multiple-weeks/">Heavy</a> &middot; <a href="https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-live-updates-latest-rumors-buzz-news/live/">CBS Sports live tracker</a></p>
+<p>Feedback: <a href="sms:+16506139572?&amp;body=Digest%2011/10%3A%20loved%20%22Deadline%20day%3A%20the%20Chiefs%20are%20expected%20t...%22">Loved it</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/10%3A%20meh%20on%20%22Deadline%20day%3A%20the%20Chiefs%20are%20expected%20t...%22">Meh</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/10%3A%20less%20like%20%22Deadline%20day%3A%20the%20Chiefs%20are%20expected%20t...%22">Less of this</a> &middot; <a href="sms:+16506139572?&amp;body=https%3A//apnews.com/article/chiefs-analysis-receiver-trade-deadline-d932fb837ef037f8697963d11b7ab95e%0A">Chat about it</a></p>]]></description>
+      <media:content url="https://heavy.com/wp-content/uploads/2026/11/GettyImages-2301066662-e1794177108196.jpg?quality=65&amp;strip=all&amp;w=780" medium="image"/>
     </item>
     <item>
-      <title>Mahomes escapes an elbow scare after a grotesque bend on a strip-sack, plans more testing; Xavier Worthy exits late with a hamstring injury</title>
-      <link>https://www.si.com/nfl/chiefs/onsi/chiefs-relieved-not-out-of-woods-after-patrick-mahomes-injury-against-jets</link>
-      <guid isPermaLink="true">https://www.si.com/nfl/chiefs/onsi/chiefs-relieved-not-out-of-woods-after-patrick-mahomes-injury-against-jets</guid>
-      <pubDate>Sun, 08 Nov 2026 19:00:00 -0800</pubDate>
+      <title>Mahomes is day to day with a throwing-elbow injury, Reid says; Worthy's hamstring projected 'multi-week' by ProFootballDoc</title>
+      <link>https://apnews.com/article/kansas-city-chiefs-patrick-mahomes-57cc7631322f8b82b5466d03fdb63f72</link>
+      <guid isPermaLink="true">https://apnews.com/article/kansas-city-chiefs-patrick-mahomes-57cc7631322f8b82b5466d03fdb63f72</guid>
+      <pubDate>Mon, 09 Nov 2026 14:00:00 -0800</pubDate>
       <category>Chiefs</category>
-      <description><![CDATA[<p><img src="https://images2.minutemediacdn.com/image/upload/c_crop,x_305,y_157,w_4360,h_2452/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/arrowhead_report/01m6ygpk642tye9ke6ds.jpg" alt="Patrick Mahomes throws under pressure against the Jets" style="max-width:100%"/></p>
-<p><b>David Bailey's second sack in three plays bent Mahomes' right elbow badly; trainer Julie Frymyer worked on it at halftime and Mahomes finished the game. RT Jaylen Moore also hurt an ankle, and Worthy's hamstring is the one to watch with the trade deadline Tuesday.</b></p>
-<blockquote>&ldquo;If I'm able to play, I'm going to play. That's part of the game.&rdquo; - <a href="https://www.espn.com/nfl/recap/_/gameId/401873045">Patrick Mahomes, Chiefs quarterback</a></blockquote>
-<blockquote>&ldquo;Once I threw the football, I knew I was OK.&rdquo; - <a href="https://www.espn.com/nfl/recap/_/gameId/401873045">Mahomes, who planned more testing on the elbow after the game</a></blockquote>
-<p>Sources: <a href="https://www.si.com/nfl/chiefs/onsi/chiefs-relieved-not-out-of-woods-after-patrick-mahomes-injury-against-jets">Sports Illustrated</a> &middot; <a href="https://www.espn.com/nfl/recap/_/gameId/401873045">ESPN/AP recap</a></p>
-<p>Feedback: <a href="sms:+16506139572?&amp;body=Digest%2011/9%3A%20loved%20%22Mahomes%20escapes%20an%20elbow%20scare%20after%20a...%22">Loved it</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/9%3A%20meh%20on%20%22Mahomes%20escapes%20an%20elbow%20scare%20after%20a...%22">Meh</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/9%3A%20less%20like%20%22Mahomes%20escapes%20an%20elbow%20scare%20after%20a...%22">Less of this</a> &middot; <a href="sms:+16506139572?&amp;body=https%3A//www.si.com/nfl/chiefs/onsi/chiefs-relieved-not-out-of-woods-after-patrick-mahomes-injury-against-jets%0A">Chat about it</a></p>]]></description>
-      <media:content url="https://images2.minutemediacdn.com/image/upload/c_crop,x_305,y_157,w_4360,h_2452/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/arrowhead_report/01m6ygpk642tye9ke6ds.jpg" medium="image"/>
+      <description><![CDATA[<p><img src="https://nbcsports.brightspotcdn.com/dims4/default/d1d76d4/2147483647/strip/true/crop/3343x1880+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbe%2F85%2Fcd13dd28497a8bd4aed700d6b0eb%2F2026-11-08t191916z-1370804351-mt1usatoday30313316-rtrmadp-3-nfl-new-york-jets-at-kansas-city-chiefs.jpg" alt="Patrick Mahomes against the Jets" style="max-width:100%"/></p>
+<p><b>Mahomes finished Sunday's game after David Bailey's strip-sack bent his elbow; Reid called Worthy's injury a 'tweak' while David Chao anticipates multiple weeks out. Atlanta visits Sunday.</b></p>
+<p>Sources: <a href="https://apnews.com/article/kansas-city-chiefs-patrick-mahomes-57cc7631322f8b82b5466d03fdb63f72">AP</a> &middot; <a href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/andy-reid-patrick-mahomes-day-to-day-with-elbow-injury">NBC Sports</a> &middot; <a href="https://heavy.com/sports/nfl/kansas-city-chiefs/xavier-worthy-predicted-miss-multiple-weeks/">Heavy</a></p>
+<p>Feedback: <a href="sms:+16506139572?&amp;body=Digest%2011/10%3A%20loved%20%22Mahomes%20is%20day%20to%20day%20with%20a%20throwing-e...%22">Loved it</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/10%3A%20meh%20on%20%22Mahomes%20is%20day%20to%20day%20with%20a%20throwing-e...%22">Meh</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/10%3A%20less%20like%20%22Mahomes%20is%20day%20to%20day%20with%20a%20throwing-e...%22">Less of this</a> &middot; <a href="sms:+16506139572?&amp;body=https%3A//apnews.com/article/kansas-city-chiefs-patrick-mahomes-57cc7631322f8b82b5466d03fdb63f72%0A">Chat about it</a></p>]]></description>
+      <media:content url="https://nbcsports.brightspotcdn.com/dims4/default/d1d76d4/2147483647/strip/true/crop/3343x1880+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbe%2F85%2Fcd13dd28497a8bd4aed700d6b0eb%2F2026-11-08t191916z-1370804351-mt1usatoday30313316-rtrmadp-3-nfl-new-york-jets-at-kansas-city-chiefs.jpg" medium="image"/>
     </item>
     <item>
-      <title>Butker misses the same 56-yarder twice and Reid won't commit; former All-Pro Justin Tucker waits on the practice squad</title>
-      <link>https://www.kctv5.com/2026/11/09/harrison-butkers-struggles-continue-chiefs-35-12-win-over-jets/</link>
-      <guid isPermaLink="true">https://www.kctv5.com/2026/11/09/harrison-butkers-struggles-continue-chiefs-35-12-win-over-jets/</guid>
-      <pubDate>Sun, 08 Nov 2026 20:00:00 -0800</pubDate>
+      <title>Jaguars go all-in as deadline buyers - likely ending the Brian Thomas Jr. pipe dream - and more moves are expected by 4 p.m. ET</title>
+      <link>https://apnews.com/article/nfl-trade-deadline-dec70beddd54ac37337dc64fabb9f9f8</link>
+      <guid isPermaLink="true">https://apnews.com/article/nfl-trade-deadline-dec70beddd54ac37337dc64fabb9f9f8</guid>
+      <pubDate>Tue, 10 Nov 2026 04:00:00 -0800</pubDate>
       <category>Chiefs</category>
-      <description><![CDATA[<p><img src="https://gray-kctv-prod.gtv-cdn.com/resizer/v2/DJWLPJ2CDRFBLHP5TZSSQKAA4A.jpg?auth=9e24270ede46c4fa303740eadfb5b668a13cdfd8c4bd0080981c52ebfe662e67&amp;width=1200&amp;height=600&amp;smart=false&amp;focal=3423%2C1437" alt="Harrison Butker attempts a field goal" style="max-width:100%"/></p>
-<p><b>A penalty gave Butker a do-over after his first miss, and he missed again - the latest chapter in a season of struggles, with Tucker already in the building as insurance.</b></p>
-<blockquote>&ldquo;No need to ask. I'm not making any decisions about that today.&rdquo; - <a href="https://www.espn.com/nfl/recap/_/gameId/401873045">Andy Reid, on a brewing kicking controversy</a></blockquote>
-<p>Sources: <a href="https://www.kctv5.com/2026/11/09/harrison-butkers-struggles-continue-chiefs-35-12-win-over-jets/">KCTV5</a> &middot; <a href="https://www.espn.com/nfl/recap/_/gameId/401873045">ESPN/AP recap</a></p>
-<p>Feedback: <a href="sms:+16506139572?&amp;body=Digest%2011/9%3A%20loved%20%22Butker%20misses%20the%20same%2056-yarder%20twice...%22">Loved it</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/9%3A%20meh%20on%20%22Butker%20misses%20the%20same%2056-yarder%20twice...%22">Meh</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/9%3A%20less%20like%20%22Butker%20misses%20the%20same%2056-yarder%20twice...%22">Less of this</a> &middot; <a href="sms:+16506139572?&amp;body=https%3A//www.kctv5.com/2026/11/09/harrison-butkers-struggles-continue-chiefs-35-12-win-over-jets/%0A">Chat about it</a></p>]]></description>
-      <media:content url="https://gray-kctv-prod.gtv-cdn.com/resizer/v2/DJWLPJ2CDRFBLHP5TZSSQKAA4A.jpg?auth=9e24270ede46c4fa303740eadfb5b668a13cdfd8c4bd0080981c52ebfe662e67&amp;width=1200&amp;height=600&amp;smart=false&amp;focal=3423%2C1437" medium="image"/>
+      <description><![CDATA[<p><img src="https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/mia8un3bgpomyolonkv9" alt="NFL trade deadline" style="max-width:100%"/></p>
+<p><b>Jacksonville loaded up for an AFC run instead of selling; the Bears already got an impact from Jeffery Simmons, and the Vikings are expected to explore the QB market after Carson Wentz's Monday-night meltdown.</b></p>
+<p>Sources: <a href="https://apnews.com/article/nfl-trade-deadline-dec70beddd54ac37337dc64fabb9f9f8">AP</a> &middot; <a href="https://www.nfl.com/news/nfl-trade-grades-evaluating-every-deal-made-ahead-of-the-2026-deadline">NFL.com trade grades</a> &middot; <a href="https://www.profootballrumors.com/2026/11/vikings-expected-to-explore-qb-trade">Pro Football Rumors</a></p>
+<p>Feedback: <a href="sms:+16506139572?&amp;body=Digest%2011/10%3A%20loved%20%22Jaguars%20go%20all-in%20as%20deadline%20buyers%20-...%22">Loved it</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/10%3A%20meh%20on%20%22Jaguars%20go%20all-in%20as%20deadline%20buyers%20-...%22">Meh</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/10%3A%20less%20like%20%22Jaguars%20go%20all-in%20as%20deadline%20buyers%20-...%22">Less of this</a> &middot; <a href="sms:+16506139572?&amp;body=https%3A//apnews.com/article/nfl-trade-deadline-dec70beddd54ac37337dc64fabb9f9f8%0A">Chat about it</a></p>]]></description>
+      <media:content url="https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/mia8un3bgpomyolonkv9" medium="image"/>
     </item>
     <item>
-      <title>Veach goes on record: the Chiefs will keep working a receiver trade before Tuesday's 4 p.m. ET deadline, with the biggest names 'off the market'</title>
-      <link>https://www.cbssports.com/nfl/news/chiefs-looking-to-trade-for-wide-receiver-nfl-trade-deadline/</link>
-      <guid isPermaLink="true">https://www.cbssports.com/nfl/news/chiefs-looking-to-trade-for-wide-receiver-nfl-trade-deadline/</guid>
-      <pubDate>Sun, 08 Nov 2026 12:30:00 -0800</pubDate>
-      <category>Chiefs</category>
-      <description><![CDATA[<p><img src="https://sportshub.cbsistatic.com/i/2026/11/08/fa93c2a0-239a-4c01-a105-58e2790852ed/brett-veach-chiefs.jpg?crop=16:9&amp;width=560&amp;quality=85&amp;format=webp" alt="Chiefs GM Brett Veach" style="max-width:100%"/></p>
-<p><b>Only the Raiders' and Vikings' wideouts have fewer receiving yards this season, and Mahomes went three straight games without a 20-plus-yard completion - tying the longest streak of his career. Worthy's hamstring injury Sunday adds urgency.</b></p>
-<blockquote>&ldquo;With the trade deadline approaching, Chiefs GM Brett Veach told @tracywolfson the team will continue to have conversations with the focus being on a move for a wide receiver.&rdquo; - <a href="https://www.cbssports.com/nfl/news/chiefs-looking-to-trade-for-wide-receiver-nfl-trade-deadline/">NFL on CBS, reporting Veach's comments during Sunday's broadcast</a></blockquote>
-<p>Sources: <a href="https://www.cbssports.com/nfl/news/chiefs-looking-to-trade-for-wide-receiver-nfl-trade-deadline/">CBS Sports</a> &middot; <a href="https://www.yardbarker.com/nfl/articles/trade_deadline_buzz_khalil_mack_josh_downs_kirk_cousins_broncos_chargers_chiefs_raiders/s1_17039_44534473">Yardbarker deadline buzz</a></p>
-<p>Feedback: <a href="sms:+16506139572?&amp;body=Digest%2011/9%3A%20loved%20%22Veach%20goes%20on%20record%3A%20the%20Chiefs%20will%20k...%22">Loved it</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/9%3A%20meh%20on%20%22Veach%20goes%20on%20record%3A%20the%20Chiefs%20will%20k...%22">Meh</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/9%3A%20less%20like%20%22Veach%20goes%20on%20record%3A%20the%20Chiefs%20will%20k...%22">Less of this</a> &middot; <a href="sms:+16506139572?&amp;body=https%3A//www.cbssports.com/nfl/news/chiefs-looking-to-trade-for-wide-receiver-nfl-trade-deadline/%0A">Chat about it</a></p>]]></description>
-      <media:content url="https://sportshub.cbsistatic.com/i/2026/11/08/fa93c2a0-239a-4c01-a105-58e2790852ed/brett-veach-chiefs.jpg?crop=16:9&amp;width=560&amp;quality=85&amp;format=webp" medium="image"/>
-    </item>
-    <item>
-      <title>'More changes coming' at Nebraska: On3 flags unprecedented staff turnover and injury concerns as the Huskers regroup for Rutgers</title>
-      <link>https://www.on3.com/teams/nebraska-cornhuskers/news/the-weekly-rundown-more-changes-coming-at-nebraska-holgorsen-fallout-and-questions-ahead/</link>
-      <guid isPermaLink="true">https://www.on3.com/teams/nebraska-cornhuskers/news/the-weekly-rundown-more-changes-coming-at-nebraska-holgorsen-fallout-and-questions-ahead/</guid>
-      <pubDate>Mon, 09 Nov 2026 05:00:00 -0800</pubDate>
+      <title>Rhule on firing Holgorsen: 'We're not scoring enough points'; Glenn Thomas debuts as play-caller Saturday at Rutgers, one win from bowl eligibility</title>
+      <link>https://huskerstoday.com/rhule-holgorsen-change-glenn-thomas-play-calls-rob-aurich-extension-rutgers-2026/</link>
+      <guid isPermaLink="true">https://huskerstoday.com/rhule-holgorsen-change-glenn-thomas-play-calls-rob-aurich-extension-rutgers-2026/</guid>
+      <pubDate>Mon, 09 Nov 2026 21:00:00 -0800</pubDate>
       <category>Nebraska</category>
-      <description><![CDATA[<p><img src="https://on3static.com/cdn-cgi/image/height=420,width=800,quality=90,fit=cover,gravity=0.5x0.5,format=auto,metadata=none/uploads/dev/assets/cms/2025/08/30100234/NZ8_7805-1.jpg" alt="Matt Rhule and Dana Holgorsen at Nebraska" style="max-width:100%"/></p>
-<p><b>With Holgorsen out and Glenn Thomas calling plays, the Weekly Rundown asks whether Rhule's shake-up stops here - and what the offense can show in the final games after four straight losses.</b></p>
-<p>Sources: <a href="https://www.on3.com/teams/nebraska-cornhuskers/news/the-weekly-rundown-more-changes-coming-at-nebraska-holgorsen-fallout-and-questions-ahead/">On3</a> &middot; <a href="https://www.sportingnews.com/us/ncaa-football/news/nebraskas-offensive-collapse-finally-costs-offensive-coordinator/b93be2d933f63cc74d077082">Sporting News</a></p>
-<p>Feedback: <a href="sms:+16506139572?&amp;body=Digest%2011/9%3A%20loved%20%22%27More%20changes%20coming%27%20at%20Nebraska%3A%20On3...%22">Loved it</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/9%3A%20meh%20on%20%22%27More%20changes%20coming%27%20at%20Nebraska%3A%20On3...%22">Meh</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/9%3A%20less%20like%20%22%27More%20changes%20coming%27%20at%20Nebraska%3A%20On3...%22">Less of this</a> &middot; <a href="sms:+16506139572?&amp;body=https%3A//www.on3.com/teams/nebraska-cornhuskers/news/the-weekly-rundown-more-changes-coming-at-nebraska-holgorsen-fallout-and-questions-ahead/%0A">Chat about it</a></p>]]></description>
-      <media:content url="https://on3static.com/cdn-cgi/image/height=420,width=800,quality=90,fit=cover,gravity=0.5x0.5,format=auto,metadata=none/uploads/dev/assets/cms/2025/08/30100234/NZ8_7805-1.jpg" medium="image"/>
+      <description><![CDATA[<p><img src="https://huskerstoday.com/wp-content/uploads/2026/11/rhule-holgorsen-change-glenn-thomas-play-calls-rob-aurich-extension-rutgers-2026-featured.jpg" alt="Matt Rhule at his Monday press conference" style="max-width:100%"/></p>
+<p><b>Rhule says the offense isn't broken and won't be torn down; DC Rob Aurich signed a two-year extension with the Blackshirts 12th nationally in total defense. Kickoff 11:30 a.m. CT on BTN.</b></p>
+<blockquote>&ldquo;We can point to the yards and stand on we're third in the Big Ten in total offense, fourth in rushing, whatever, those things, but we're not scoring enough points. I felt like the time was now.&rdquo; - <a href="https://huskerstoday.com/rhule-holgorsen-change-glenn-thomas-play-calls-rob-aurich-extension-rutgers-2026/">Matt Rhule, Nebraska head coach</a></blockquote>
+<blockquote>&ldquo;I don't think the offense is broken. I don't think we have bad players. I don't think we have bad coaches.&rdquo; - <a href="https://huskerstoday.com/rhule-holgorsen-change-glenn-thomas-play-calls-rob-aurich-extension-rutgers-2026/">Rhule</a></blockquote>
+<p>Sources: <a href="https://huskerstoday.com/rhule-holgorsen-change-glenn-thomas-play-calls-rob-aurich-extension-rutgers-2026/">Huskers Today</a> &middot; <a href="https://huskers.com/news/2026/11/9/rhule-meets-media-monday">Huskers.com</a></p>
+<p>Feedback: <a href="sms:+16506139572?&amp;body=Digest%2011/10%3A%20loved%20%22Rhule%20on%20firing%20Holgorsen%3A%20%27We%27re%20not%20s...%22">Loved it</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/10%3A%20meh%20on%20%22Rhule%20on%20firing%20Holgorsen%3A%20%27We%27re%20not%20s...%22">Meh</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/10%3A%20less%20like%20%22Rhule%20on%20firing%20Holgorsen%3A%20%27We%27re%20not%20s...%22">Less of this</a> &middot; <a href="sms:+16506139572?&amp;body=https%3A//huskerstoday.com/rhule-holgorsen-change-glenn-thomas-play-calls-rob-aurich-extension-rutgers-2026/%0A">Chat about it</a></p>]]></description>
+      <media:content url="https://huskerstoday.com/wp-content/uploads/2026/11/rhule-holgorsen-change-glenn-thomas-play-calls-rob-aurich-extension-rutgers-2026-featured.jpg" medium="image"/>
     </item>
     <item>
-      <title>Cloudflare's new example runs OpenAI's Codex agent loop inside a Durable Object, compiling Codex's Rust turn-processing to WebAssembly</title>
-      <link>https://developers.cloudflare.com/changelog/post/2026-11-09-codex-harness/</link>
-      <guid isPermaLink="true">https://developers.cloudflare.com/changelog/post/2026-11-09-codex-harness/</guid>
-      <pubDate>Mon, 09 Nov 2026 01:00:00 -0800</pubDate>
+      <title>Browser Use 1.0 deletes 80% of its library - the agent now writes Python straight to Chrome over CDP, scoring up to 33 points higher at 2.7-5.2x lower cost</title>
+      <link>https://news.sulat.com/2026/11/10/browser-use-1-0-cdp-python-repl-rewrite/</link>
+      <guid isPermaLink="true">https://news.sulat.com/2026/11/10/browser-use-1-0-cdp-python-repl-rewrite/</guid>
+      <pubDate>Tue, 10 Nov 2026 01:00:00 -0800</pubDate>
       <category>AI &amp; Agents</category>
-      <description><![CDATA[<p><img src="https://developers.cloudflare.com/changelog/post/2026-11-09-codex-harness/og.png?v=07916f154d67e97a" alt="Cloudflare changelog: Codex harness on Workers" style="max-width:100%"/></p>
-<p><b>The experimental Agents SDK harness journals model and tool calls so a crashed agent resumes from the last completed step; conversation sessions, replayable streams and a persistent file workspace ride along.</b></p>
-<p>Sources: <a href="https://developers.cloudflare.com/changelog/post/2026-11-09-codex-harness/">Cloudflare changelog</a></p>
-<p>Feedback: <a href="sms:+16506139572?&amp;body=Digest%2011/9%3A%20loved%20%22Cloudflare%27s%20new%20example%20runs%20OpenAI%27s...%22">Loved it</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/9%3A%20meh%20on%20%22Cloudflare%27s%20new%20example%20runs%20OpenAI%27s...%22">Meh</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/9%3A%20less%20like%20%22Cloudflare%27s%20new%20example%20runs%20OpenAI%27s...%22">Less of this</a> &middot; <a href="sms:+16506139572?&amp;body=https%3A//developers.cloudflare.com/changelog/post/2026-11-09-codex-harness/%0A">Chat about it</a></p>]]></description>
-      <media:content url="https://developers.cloudflare.com/changelog/post/2026-11-09-codex-harness/og.png?v=07916f154d67e97a" medium="image"/>
+      <description><![CDATA[<p><img src="https://news.sulat.com/wp-content/uploads/2026/11/browser-use-1-0-banner.jpg" alt="Browser Use 1.0 release banner" style="max-width:100%"/></p>
+<p><b>'No DOM serializer, no action schema, nothing in between.' Defaults now route to Browser Use's cloud and gateway model; the docs warn model-written code runs as you, so containerize untrusted tasks.</b></p>
+<blockquote>&ldquo;Predefined state and action space make it worse.&rdquo; - <a href="https://news.sulat.com/2026/11/10/browser-use-1-0-cdp-python-repl-rewrite/">Browser Use, on X, launching 1.0</a></blockquote>
+<blockquote>&ldquo;An action space is what made a run replayable; a program step gives you effects instead of a diff.&rdquo; - <a href="https://news.sulat.com/2026/11/10/browser-use-1-0-cdp-python-repl-rewrite/">John Rood, on the trade-off, replying to Zunic</a></blockquote>
+<p>Sources: <a href="https://news.sulat.com/2026/11/10/browser-use-1-0-cdp-python-repl-rewrite/">Sulat AI &amp; Tech News</a></p>
+<p>Feedback: <a href="sms:+16506139572?&amp;body=Digest%2011/10%3A%20loved%20%22Browser%20Use%201.0%20deletes%2080%25%20of%20its%20libr...%22">Loved it</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/10%3A%20meh%20on%20%22Browser%20Use%201.0%20deletes%2080%25%20of%20its%20libr...%22">Meh</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/10%3A%20less%20like%20%22Browser%20Use%201.0%20deletes%2080%25%20of%20its%20libr...%22">Less of this</a> &middot; <a href="sms:+16506139572?&amp;body=https%3A//news.sulat.com/2026/11/10/browser-use-1-0-cdp-python-repl-rewrite/%0A">Chat about it</a></p>]]></description>
+      <media:content url="https://news.sulat.com/wp-content/uploads/2026/11/browser-use-1-0-banner.jpg" medium="image"/>
     </item>
     <item>
-      <title>Vercel Labs ships agent-browser: a Rust CLI that lets agents drive Chrome through accessibility trees and @e1-style refs instead of CSS selectors</title>
-      <link>https://www.techaimag.com/ai-news/vercel-labs-releases-agent-browser-a-rust-cli-for-ai-agents-to-automate-browsers</link>
-      <guid isPermaLink="true">https://www.techaimag.com/ai-news/vercel-labs-releases-agent-browser-a-rust-cli-for-ai-agents-to-automate-browsers</guid>
-      <pubDate>Mon, 09 Nov 2026 01:30:00 -0800</pubDate>
+      <title>n8n Labs releases Nod: an open-source personal agent with its own local computer and browser that asks before it sends, pays or deletes</title>
+      <link>https://blog.n8n.io/meet-nod/</link>
+      <guid isPermaLink="true">https://blog.n8n.io/meet-nod/</guid>
+      <pubDate>Tue, 10 Nov 2026 00:30:00 -0800</pubDate>
       <category>AI &amp; Agents</category>
-      <description><![CDATA[<p><img src="https://www.techaimag.com/wp-content/uploads/2026/11/fa866a5fb13c4a9d-1024x576.jpg" alt="Vercel Labs agent-browser" style="max-width:100%"/></p>
-<p><b>Apache-2.0 and already 47.8k GitHub stars; a background daemon speaks Chrome DevTools Protocol, an MCP server mode serves agent clients, and cloud browsers including Browserbase, Browserless and Kernel plug in.</b></p>
-<p>Sources: <a href="https://www.techaimag.com/ai-news/vercel-labs-releases-agent-browser-a-rust-cli-for-ai-agents-to-automate-browsers">Tech AI Magazine</a></p>
-<p>Feedback: <a href="sms:+16506139572?&amp;body=Digest%2011/9%3A%20loved%20%22Vercel%20Labs%20ships%20agent-browser%3A%20a%20Rust...%22">Loved it</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/9%3A%20meh%20on%20%22Vercel%20Labs%20ships%20agent-browser%3A%20a%20Rust...%22">Meh</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/9%3A%20less%20like%20%22Vercel%20Labs%20ships%20agent-browser%3A%20a%20Rust...%22">Less of this</a> &middot; <a href="sms:+16506139572?&amp;body=https%3A//www.techaimag.com/ai-news/vercel-labs-releases-agent-browser-a-rust-cli-for-ai-agents-to-automate-browsers%0A">Chat about it</a></p>]]></description>
-      <media:content url="https://www.techaimag.com/wp-content/uploads/2026/11/fa866a5fb13c4a9d-1024x576.jpg" medium="image"/>
+      <description><![CDATA[<p><img src="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1200/2026/11/nod-header-2x-1.png" alt="Nod, the personal agent from n8n Labs" style="max-width:100%"/></p>
+<p><b>Research preview for Mac and Windows; connects Gmail, Calendar, Drive and Slack, runs scheduled jobs, remembers months of conversation (93.2% on LongMemEval) - passwords stay encrypted in forms the model can't read.</b></p>
+<p>Sources: <a href="https://blog.n8n.io/meet-nod/">n8n blog</a></p>
+<p>Feedback: <a href="sms:+16506139572?&amp;body=Digest%2011/10%3A%20loved%20%22n8n%20Labs%20releases%20Nod%3A%20an%20open-source%20p...%22">Loved it</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/10%3A%20meh%20on%20%22n8n%20Labs%20releases%20Nod%3A%20an%20open-source%20p...%22">Meh</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/10%3A%20less%20like%20%22n8n%20Labs%20releases%20Nod%3A%20an%20open-source%20p...%22">Less of this</a> &middot; <a href="sms:+16506139572?&amp;body=https%3A//blog.n8n.io/meet-nod/%0A">Chat about it</a></p>]]></description>
+      <media:content url="https://storage.ghost.io/c/0d/78/0d78b34c-0c5f-4975-900e-61d00ccb1c2d/content/images/size/w1200/2026/11/nod-header-2x-1.png" medium="image"/>
     </item>
     <item>
-      <title>Mistral's Managed Agents enter public preview: define an agent once in Python, run it in-process, self-hosted or on Mistral's infrastructure</title>
-      <link>https://aiproviderindex.com/news/mistral-managed-agents-durable-background-execution</link>
-      <guid isPermaLink="true">https://aiproviderindex.com/news/mistral-managed-agents-durable-background-execution</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 -0800</pubDate>
+      <title>Runpod for Agents: your coding agent can now provision, diagnose and shut down GPU infra itself, via a hosted MCP server and 35 tested skills</title>
+      <link>https://www.prnewswire.com/news-releases/runpod-for-agents-lets-developers-hand-infrastructure-work-to-their-coding-agents-302934084.html</link>
+      <guid isPermaLink="true">https://www.prnewswire.com/news-releases/runpod-for-agents-lets-developers-hand-infrastructure-work-to-their-coding-agents-302934084.html</guid>
+      <pubDate>Tue, 10 Nov 2026 06:00:00 -0800</pubDate>
       <category>AI &amp; Agents</category>
-      <description><![CDATA[<p><img src="https://jacobpedd.github.io/daily-digest/images/durable-agents.png" alt="Generated illustration: a long-running agent resuming from checkpoints" style="max-width:100%"/></p>
-<p><b>Managed deployments can run for hours or days, resume from the last completed step after a crash, and pause for human approval - durable execution and human-in-the-loop as hosted features.</b></p>
-<p>Sources: <a href="https://aiproviderindex.com/news/mistral-managed-agents-durable-background-execution">AI Provider Index</a></p>
-<p>Feedback: <a href="sms:+16506139572?&amp;body=Digest%2011/9%3A%20loved%20%22Mistral%27s%20Managed%20Agents%20enter%20public%20p...%22">Loved it</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/9%3A%20meh%20on%20%22Mistral%27s%20Managed%20Agents%20enter%20public%20p...%22">Meh</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/9%3A%20less%20like%20%22Mistral%27s%20Managed%20Agents%20enter%20public%20p...%22">Less of this</a> &middot; <a href="sms:+16506139572?&amp;body=https%3A//aiproviderindex.com/news/mistral-managed-agents-durable-background-execution%0A">Chat about it</a></p>]]></description>
-      <media:content url="https://jacobpedd.github.io/daily-digest/images/durable-agents.png" medium="image"/>
+      <description><![CDATA[<p><b>Agents already issue over half of all CLI commands on Runpod; plugins ship for Claude Code, Codex and ChatGPT, with destructive actions gated behind developer confirmation. SF-based.</b></p>
+<blockquote>&ldquo;An agent with API access isn't the same as an agent that knows how to run a workload correctly.&rdquo; - <a href="https://www.prnewswire.com/news-releases/runpod-for-agents-lets-developers-hand-infrastructure-work-to-their-coding-agents-302934084.html">Zhen Lu, Runpod CEO and co-founder</a></blockquote>
+<p>Sources: <a href="https://www.prnewswire.com/news-releases/runpod-for-agents-lets-developers-hand-infrastructure-work-to-their-coding-agents-302934084.html">PR Newswire</a></p>
+<p>Feedback: <a href="sms:+16506139572?&amp;body=Digest%2011/10%3A%20loved%20%22Runpod%20for%20Agents%3A%20your%20coding%20agent%20ca...%22">Loved it</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/10%3A%20meh%20on%20%22Runpod%20for%20Agents%3A%20your%20coding%20agent%20ca...%22">Meh</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/10%3A%20less%20like%20%22Runpod%20for%20Agents%3A%20your%20coding%20agent%20ca...%22">Less of this</a> &middot; <a href="sms:+16506139572?&amp;body=https%3A//www.prnewswire.com/news-releases/runpod-for-agents-lets-developers-hand-infrastructure-work-to-their-coding-agents-302934084.html%0A">Chat about it</a></p>]]></description>
     </item>
     <item>
-      <title>Chesir smashes the Málaga Marathon women's record by 3:26 with a 2:21:17; Waithira edges the men's race in 2:08:17</title>
-      <link>https://www.watchathletics.com/article/13865/waithira-wins-m-laga-thriller-as-chesir-breaks-women-s-record</link>
-      <guid isPermaLink="true">https://www.watchathletics.com/article/13865/waithira-wins-m-laga-thriller-as-chesir-breaks-women-s-record</guid>
-      <pubDate>Sun, 08 Nov 2026 15:00:00 -0800</pubDate>
+      <title>agent-browser 0.42 adds saved flows: record a browser task once, then replay it - HTTP first, in-page second, recorded commands last</title>
+      <link>https://theagenticweekly.com/news/vercel-agent-browser-0-42-saved-flows</link>
+      <guid isPermaLink="true">https://theagenticweekly.com/news/vercel-agent-browser-0-42-saved-flows</guid>
+      <pubDate>Tue, 10 Nov 2026 02:00:00 -0800</pubDate>
+      <category>AI &amp; Agents</category>
+      <description><![CDATA[<p><img src="https://theagenticweekly.com/og/news/vercel-agent-browser-0-42-saved-flows" alt="agent-browser 0.42 release card" style="max-width:100%"/></p>
+<p><b>Experimental in the Vercel Labs CLI released on GitHub Monday; the update also trims MCP tool arguments and now requires Node 22.</b></p>
+<p>Sources: <a href="https://theagenticweekly.com/news/vercel-agent-browser-0-42-saved-flows">Agentic Weekly</a></p>
+<p>Feedback: <a href="sms:+16506139572?&amp;body=Digest%2011/10%3A%20loved%20%22agent-browser%200.42%20adds%20saved%20flows%3A%20re...%22">Loved it</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/10%3A%20meh%20on%20%22agent-browser%200.42%20adds%20saved%20flows%3A%20re...%22">Meh</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/10%3A%20less%20like%20%22agent-browser%200.42%20adds%20saved%20flows%3A%20re...%22">Less of this</a> &middot; <a href="sms:+16506139572?&amp;body=https%3A//theagenticweekly.com/news/vercel-agent-browser-0-42-saved-flows%0A">Chat about it</a></p>]]></description>
+      <media:content url="https://theagenticweekly.com/og/news/vercel-agent-browser-0-42-saved-flows" medium="image"/>
+    </item>
+    <item>
+      <title>Carb-loading, settled(ish): a 63-trial meta-analysis says eat 8+ grams per kilo for 36-48 hours before a marathon</title>
+      <link>https://unbrokenreview.com/science/carbohydrate-loading-marathon-meta-analysis-glycogen/</link>
+      <guid isPermaLink="true">https://unbrokenreview.com/science/carbohydrate-loading-marathon-meta-analysis-glycogen/</guid>
+      <pubDate>Mon, 09 Nov 2026 08:00:00 -0800</pubDate>
       <category>Running</category>
-      <description><![CDATA[<p><img src="https://www.watchathletics.com/userfiles/images/marathons%20road%20races/__thumbs/malaga-marathon-winner-1000px.jpg/malaga-marathon-winner-1000px__800x534.jpg" alt="Málaga Marathon winner" style="max-width:100%"/></p>
-<p><b>Rebecca Kangogo Chesir led a Kenyan sweep of the women's podium on a redesigned, flatter course; the top three men finished within 38 seconds, with Simon Njuguna Waithira eight seconds clear of Victor Kiplimo.</b></p>
-<p>Sources: <a href="https://www.watchathletics.com/article/13865/waithira-wins-m-laga-thriller-as-chesir-breaks-women-s-record">Watch Athletics</a> &middot; <a href="https://www.athrecs.com/news/world-running-results-november-8-2026-roundup">AthRecs weekend roundup</a></p>
-<p>Feedback: <a href="sms:+16506139572?&amp;body=Digest%2011/9%3A%20loved%20%22Chesir%20smashes%20the%20M%C3%A1laga%20Marathon%20wome...%22">Loved it</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/9%3A%20meh%20on%20%22Chesir%20smashes%20the%20M%C3%A1laga%20Marathon%20wome...%22">Meh</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/9%3A%20less%20like%20%22Chesir%20smashes%20the%20M%C3%A1laga%20Marathon%20wome...%22">Less of this</a> &middot; <a href="sms:+16506139572?&amp;body=https%3A//www.watchathletics.com/article/13865/waithira-wins-m-laga-thriller-as-chesir-breaks-women-s-record%0A">Chat about it</a></p>]]></description>
-      <media:content url="https://www.watchathletics.com/userfiles/images/marathons%20road%20races/__thumbs/malaga-marathon-winner-1000px.jpg/malaga-marathon-winner-1000px__800x534.jpg" medium="image"/>
+      <description><![CDATA[<p><img src="https://unbrokenreview.com/assets/photos/move-pasta-960.jpg" alt="Pasta, a carb-loading staple" style="max-width:100%"/></p>
+<p><b>Quantity beat duration - loading past 48 hours added nothing; a hard session plus high-GI carbs can compress it to 24-36 hours. Caveat: only 12% of the 641 participants were women.</b></p>
+<p>Sources: <a href="https://unbrokenreview.com/science/carbohydrate-loading-marathon-meta-analysis-glycogen/">Unbroken Review</a> &middot; <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13741990/">Journal article (SJMSS)</a></p>
+<p>Feedback: <a href="sms:+16506139572?&amp;body=Digest%2011/10%3A%20loved%20%22Carb-loading%2C%20settled%28ish%29%3A%20a%2063-trial...%22">Loved it</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/10%3A%20meh%20on%20%22Carb-loading%2C%20settled%28ish%29%3A%20a%2063-trial...%22">Meh</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/10%3A%20less%20like%20%22Carb-loading%2C%20settled%28ish%29%3A%20a%2063-trial...%22">Less of this</a> &middot; <a href="sms:+16506139572?&amp;body=https%3A//unbrokenreview.com/science/carbohydrate-loading-marathon-meta-analysis-glycogen/%0A">Chat about it</a></p>]]></description>
+      <media:content url="https://unbrokenreview.com/assets/photos/move-pasta-960.jpg" medium="image"/>
     </item>
     <item>
-      <title>Marina Safeway redevelopment wins city approval: two towers of 22 and 18 stories with 848 homes, as opponents sue in federal court over untested soil contamination</title>
-      <link>https://focalnews.org/san-francisco-ca/local/marina-safeway-redevelopment-wins-city-approval-but-legal-fight-over-848-home-complex-continues</link>
-      <guid isPermaLink="true">https://focalnews.org/san-francisco-ca/local/marina-safeway-redevelopment-wins-city-approval-but-legal-fight-over-848-home-complex-continues</guid>
-      <pubDate>Mon, 09 Nov 2026 04:00:00 -0800</pubDate>
+      <title>Brian Chesky gives SF parks $100 million, the city's largest-ever single donation - pools open Sundays, stalled parks jump the queue</title>
+      <link>https://abc7news.com/post/airbnb-founder-ceo-brian-chesky-donates-100-million-sf-parks-largest-gift-department-has-received/20027764/</link>
+      <guid isPermaLink="true">https://abc7news.com/post/airbnb-founder-ceo-brian-chesky-donates-100-million-sf-parks-largest-gift-department-has-received/20027764/</guid>
+      <pubDate>Mon, 09 Nov 2026 20:00:00 -0800</pubDate>
       <category>San Francisco</category>
-      <description><![CDATA[<p><img src="https://jacobpedd.github.io/daily-digest/images/safeway-towers.png" alt="Generated illustration: two residential towers rising above a Marina district grocery store" style="max-width:100%"/></p>
-<p><b>The approval, under a state law that bypasses public hearings, ends a yearlong fight over the Marina site - but the legal challenge over soil testing at the 848-home complex continues.</b></p>
-<p>Sources: <a href="https://focalnews.org/san-francisco-ca/local/marina-safeway-redevelopment-wins-city-approval-but-legal-fight-over-848-home-complex-continues">Focal News</a> &middot; <a href="https://www.sfchronicle.com/sf/article/marina-safeway-project-approval-housing-22520077.php">SF Chronicle</a></p>
-<p>Feedback: <a href="sms:+16506139572?&amp;body=Digest%2011/9%3A%20loved%20%22Marina%20Safeway%20redevelopment%20wins%20city...%22">Loved it</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/9%3A%20meh%20on%20%22Marina%20Safeway%20redevelopment%20wins%20city...%22">Meh</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/9%3A%20less%20like%20%22Marina%20Safeway%20redevelopment%20wins%20city...%22">Less of this</a> &middot; <a href="sms:+16506139572?&amp;body=https%3A//focalnews.org/san-francisco-ca/local/marina-safeway-redevelopment-wins-city-approval-but-legal-fight-over-848-home-complex-continues%0A">Chat about it</a></p>]]></description>
-      <media:content url="https://jacobpedd.github.io/daily-digest/images/safeway-towers.png" medium="image"/>
+      <description><![CDATA[<p><img src="https://cdn.abcotvs.com/dip/images/20028153_110926-kgo-sf-parks-tn.jpg?w=1600" alt="Golden Gate Park announcement" style="max-width:100%"/></p>
+<p><b>First $39M goes to five projects in SoMa, the Mission, Bayview, Potrero Hill and the Embarcadero; SoMa's Rachele Sullivan Park now opens in 2028 instead of 2031, and Garfield Pool adds 500 swim hours a year.</b></p>
+<blockquote>&ldquo;There is something truly special here in San Francisco. Much of my success, I attribute to the magic, and to the community, that is San Francisco.&rdquo; - <a href="https://abc7news.com/post/airbnb-founder-ceo-brian-chesky-donates-100-million-sf-parks-largest-gift-department-has-received/20027764/">Brian Chesky, Airbnb co-founder and CEO</a></blockquote>
+<p>Sources: <a href="https://abc7news.com/post/airbnb-founder-ceo-brian-chesky-donates-100-million-sf-parks-largest-gift-department-has-received/20027764/">ABC7/Bay City News</a> &middot; <a href="https://www.nbcbayarea.com/news/local/san-francisco-100-million-donation-parks-public-spaces/4173073/">NBC Bay Area</a></p>
+<p>Feedback: <a href="sms:+16506139572?&amp;body=Digest%2011/10%3A%20loved%20%22Brian%20Chesky%20gives%20SF%20parks%20%24100%20millio...%22">Loved it</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/10%3A%20meh%20on%20%22Brian%20Chesky%20gives%20SF%20parks%20%24100%20millio...%22">Meh</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/10%3A%20less%20like%20%22Brian%20Chesky%20gives%20SF%20parks%20%24100%20millio...%22">Less of this</a> &middot; <a href="sms:+16506139572?&amp;body=https%3A//abc7news.com/post/airbnb-founder-ceo-brian-chesky-donates-100-million-sf-parks-largest-gift-department-has-received/20027764/%0A">Chat about it</a></p>]]></description>
+      <media:content url="https://cdn.abcotvs.com/dip/images/20028153_110926-kgo-sf-parks-tn.jpg?w=1600" medium="image"/>
     </item>
     <item>
-      <title>King tides are already flooding the Embarcadero, and SF's October sea level ran a record 12.4 inches above NOAA predictions</title>
-      <link>https://www.axios.com/local/san-francisco/2026/11/09/flood-risk-embarcadero</link>
-      <guid isPermaLink="true">https://www.axios.com/local/san-francisco/2026/11/09/flood-risk-embarcadero</guid>
-      <pubDate>Mon, 09 Nov 2026 06:00:00 -0800</pubDate>
+      <title>Prop I social-housing measure loses 52-48 after $2.8M in real-estate opposition; Lurie-backed Prop C passed with 82%</title>
+      <link>https://missionlocal.org/2026/11/san-francisco-proposition-i-social-housing-election-loss/</link>
+      <guid isPermaLink="true">https://missionlocal.org/2026/11/san-francisco-proposition-i-social-housing-election-loss/</guid>
+      <pubDate>Tue, 10 Nov 2026 03:55:00 -0800</pubDate>
       <category>San Francisco</category>
-      <description><![CDATA[<p><img src="https://images.axios.com/LwS4k8WT-bsJgkmLzQyQsCZGk3Q=/0x464:5712x3677/1920x1080/2026/11/05/1793922373001.jpeg?w=3840" alt="High water along the Embarcadero waterfront" style="max-width:100%"/></p>
-<p><b>El Niño-driven Kelvin waves can raise coastal water 6 to 12 inches before winter storms even arrive; more extreme tides are expected around Thanksgiving and Christmas.</b></p>
-<p>Sources: <a href="https://www.axios.com/local/san-francisco/2026/11/09/flood-risk-embarcadero">Axios San Francisco</a></p>
-<p>Feedback: <a href="sms:+16506139572?&amp;body=Digest%2011/9%3A%20loved%20%22King%20tides%20are%20already%20flooding%20the%20Emb...%22">Loved it</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/9%3A%20meh%20on%20%22King%20tides%20are%20already%20flooding%20the%20Emb...%22">Meh</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/9%3A%20less%20like%20%22King%20tides%20are%20already%20flooding%20the%20Emb...%22">Less of this</a> &middot; <a href="sms:+16506139572?&amp;body=https%3A//www.axios.com/local/san-francisco/2026/11/09/flood-risk-embarcadero%0A">Chat about it</a></p>]]></description>
-      <media:content url="https://images.axios.com/LwS4k8WT-bsJgkmLzQyQsCZGk3Q=/0x464:5712x3677/1920x1080/2026/11/05/1793922373001.jpeg?w=3840" medium="image"/>
+      <description><![CDATA[<p><img src="https://i0.wp.com/missionlocal.org/wp-content/uploads/2026/04/042026_ZM_MEDAHousing-6-scaled.jpg?fit=2560%2C1707&amp;ssl=1" alt="A MEDA affordable housing property in the Mission" style="max-width:100%"/></p>
+<p><b>Prop I would have earmarked half the $10M-plus property transfer tax for social housing; Prop C instead grows the affordable housing trust fund toward $125 million a year. Michael Moritz spent $200k on the fight.</b></p>
+<p>Sources: <a href="https://missionlocal.org/2026/11/san-francisco-proposition-i-social-housing-election-loss/">Mission Local</a></p>
+<p>Feedback: <a href="sms:+16506139572?&amp;body=Digest%2011/10%3A%20loved%20%22Prop%20I%20social-housing%20measure%20loses%2052-...%22">Loved it</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/10%3A%20meh%20on%20%22Prop%20I%20social-housing%20measure%20loses%2052-...%22">Meh</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/10%3A%20less%20like%20%22Prop%20I%20social-housing%20measure%20loses%2052-...%22">Less of this</a> &middot; <a href="sms:+16506139572?&amp;body=https%3A//missionlocal.org/2026/11/san-francisco-proposition-i-social-housing-election-loss/%0A">Chat about it</a></p>]]></description>
+      <media:content url="https://i0.wp.com/missionlocal.org/wp-content/uploads/2026/04/042026_ZM_MEDAHousing-6-scaled.jpg?fit=2560%2C1707&amp;ssl=1" medium="image"/>
+    </item>
+    <item>
+      <title>California voters reject Prop 40's first-in-the-nation billionaire wealth tax after a tech-funded opposition campaign</title>
+      <link>https://apnews.com/article/california-billionaire-tax-4ae8cbdc057b99579818016f02ac9d9e</link>
+      <guid isPermaLink="true">https://apnews.com/article/california-billionaire-tax-4ae8cbdc057b99579818016f02ac9d9e</guid>
+      <pubDate>Tue, 10 Nov 2026 02:30:00 -0800</pubDate>
+      <category>San Francisco</category>
+      <description><![CDATA[<p><b>The 5% net-worth tax failed after opponents, including Gov. Newsom, argued it would drive ultrawealthy taxpayers out of the state - a result with 2028 overtones.</b></p>
+<p>Sources: <a href="https://apnews.com/article/california-billionaire-tax-4ae8cbdc057b99579818016f02ac9d9e">AP</a> &middot; <a href="https://focalnews.org/san-francisco-ca/politics/california-voters-reject-landmark-5-billionaire-tax-as-prop-40-fails">Focal News</a></p>
+<p>Feedback: <a href="sms:+16506139572?&amp;body=Digest%2011/10%3A%20loved%20%22California%20voters%20reject%20Prop%2040%27s%20firs...%22">Loved it</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/10%3A%20meh%20on%20%22California%20voters%20reject%20Prop%2040%27s%20firs...%22">Meh</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/10%3A%20less%20like%20%22California%20voters%20reject%20Prop%2040%27s%20firs...%22">Less of this</a> &middot; <a href="sms:+16506139572?&amp;body=https%3A//apnews.com/article/california-billionaire-tax-4ae8cbdc057b99579818016f02ac9d9e%0A">Chat about it</a></p>]]></description>
+    </item>
+    <item>
+      <title>Federal judge orders ICE to release UC Berkeley student detained at SFO, ruling her due-process rights were violated</title>
+      <link>https://www.kqed.org/news/12108913/judge-orders-release-of-uc-berkeley-student-from-ice-custody-after-sfo-arrest</link>
+      <guid isPermaLink="true">https://www.kqed.org/news/12108913/judge-orders-release-of-uc-berkeley-student-from-ice-custody-after-sfo-arrest</guid>
+      <pubDate>Mon, 09 Nov 2026 15:50:00 -0800</pubDate>
+      <category>San Francisco</category>
+      <description><![CDATA[<p><img src="https://cdn.kqed.org/wp-content/uploads/sites/10/2026/11/261103-UC-Berkeley-Student-01-KQED-48dc607e.jpg" alt="Paula Albornoz Hernandez (courtesy of her attorney)" style="max-width:100%"/></p>
+<p><b>Paula Albornoz Hernandez, 23, a Colombian asylum seeker with a valid work permit, was seized Oct. 30 boarding a flight; nearly 300 students rallied at Sproul Plaza, and 30 Bay Area officials wrote in support. Her asylum case continues.</b></p>
+<blockquote>&ldquo;This is a moment to remember what's possible when our community comes together to support one of our own.&rdquo; - <a href="https://focalnews.org/san-francisco-ca/local/federal-judge-orders-ice-to-release-uc-berkeley-student-detained-at-sfo-citing-due-process-violation">Rich Lyons, UC Berkeley chancellor</a></blockquote>
+<p>Sources: <a href="https://www.kqed.org/news/12108913/judge-orders-release-of-uc-berkeley-student-from-ice-custody-after-sfo-arrest">KQED</a> &middot; <a href="https://focalnews.org/san-francisco-ca/local/federal-judge-orders-ice-to-release-uc-berkeley-student-detained-at-sfo-citing-due-process-violation">Focal News</a></p>
+<p>Feedback: <a href="sms:+16506139572?&amp;body=Digest%2011/10%3A%20loved%20%22Federal%20judge%20orders%20ICE%20to%20release%20UC...%22">Loved it</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/10%3A%20meh%20on%20%22Federal%20judge%20orders%20ICE%20to%20release%20UC...%22">Meh</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/10%3A%20less%20like%20%22Federal%20judge%20orders%20ICE%20to%20release%20UC...%22">Less of this</a> &middot; <a href="sms:+16506139572?&amp;body=https%3A//www.kqed.org/news/12108913/judge-orders-release-of-uc-berkeley-student-from-ice-custody-after-sfo-arrest%0A">Chat about it</a></p>]]></description>
+      <media:content url="https://cdn.kqed.org/wp-content/uploads/sites/10/2026/11/261103-UC-Berkeley-Student-01-KQED-48dc607e.jpg" medium="image"/>
     </item>
   </channel>
 </rss>
