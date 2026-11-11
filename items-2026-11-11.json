@@ -1,0 +1,231 @@
+{
+  "date": "2026-11-11",
+  "survey": {
+    "question": "What kind of story do you want more of?",
+    "options": ["Breaking news", "Deep analysis", "Transactions and quick wires", "Offbeat and interesting"]
+  },
+  "items": [
+    {
+      "category": "Chiefs",
+      "title": "Deadline deal: Chiefs acquire WR Josh Downs from the Colts for a 4th- and 5th-round pick, with a 7th-rounder coming back",
+      "url": "https://apnews.com/article/indianapolis-colts-kansas-city-chiefs-trade-e0dbc1b4dd9d5844567a507f0be44498",
+      "published": "2026-11-10T18:00:00-08:00",
+      "subheader": "The move fills KC's biggest need two days after Xavier Worthy's hamstring injury. Downs approved the deal with his first post on X since the summer; Mahomes answered with an alarm-clock image.",
+      "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_1396,y_49,w_2546,h_1432/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/arrowhead_report/01m73scmap3p5yb37g2z.jpg",
+      "image_alt": "Josh Downs in Colts uniform",
+      "sources": [
+        {"name": "AP", "url": "https://apnews.com/article/indianapolis-colts-kansas-city-chiefs-trade-e0dbc1b4dd9d5844567a507f0be44498"},
+        {"name": "NFL.com", "url": "https://www.nfl.com/news/josh-downs-chiefs-colts-trade"}
+      ],
+      "quotes": []
+    },
+    {
+      "category": "Chiefs",
+      "title": "The fit: ESPN grades Downs the deadline's 'best environmental improvement' - from the Colts' 31st-ranked passing EPA to Andy Reid's screen-and-quick-pass machine",
+      "url": "https://www.espn.com/nfl/story/_/id/50443388/2026-nfl-trade-deadline-winners-losers-best-worst-deals",
+      "published": "2026-11-10T15:00:00-08:00",
+      "subheader": "Indianapolis ranked 31st in EPA per dropback and last in explosive pass rate; the Chiefs sit 8th and 7th. Downs hits free agency after the season, so KC gets a motivated slot separator for Day 3 picks.",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1110/ss_20261110_152324738_3735523/ss_20261110_152324738_3735523.jpg",
+      "image_alt": "NFL trade deadline illustration",
+      "sources": [
+        {"name": "ESPN", "url": "https://www.espn.com/nfl/story/_/id/50443388/2026-nfl-trade-deadline-winners-losers-best-worst-deals"}
+      ],
+      "quotes": [
+        {
+          "text": "No team throws more screens and quick passes than the Chiefs, which will serve Downs' separation ability from the slot well.",
+          "by": "Ben Solak, ESPN",
+          "url": "https://www.espn.com/nfl/story/_/id/50443388/2026-nfl-trade-deadline-winners-losers-best-worst-deals"
+        }
+      ]
+    },
+    {
+      "category": "Chiefs",
+      "title": "The new depth chart: Rice, Downs and a healthy Worthy form the top tier; Royals' ankle injury is minor and Thornton stays on IR",
+      "url": "https://www.si.com/nfl/chiefs/onsi/how-the-nfl-trade-deadline-changed-chiefs-wide-receiver-depth-chart",
+      "published": "2026-11-11T06:00:00-08:00",
+      "subheader": "Rashee Rice, Downs and Xavier Worthy (once his hamstring heals) lead the room; rookie Jalen Royals' ankle injury is not expected to be an extended absence. Tyquan Thornton remains on IR with a fractured ankle.",
+      "image": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/awgdaf9vqw1qt9ta0q3h",
+      "image_alt": "Chiefs-Colts Josh Downs trade graphic",
+      "sources": [
+        {"name": "Sports Illustrated", "url": "https://www.si.com/nfl/chiefs/onsi/how-the-nfl-trade-deadline-changed-chiefs-wide-receiver-depth-chart"}
+      ],
+      "quotes": []
+    },
+    {
+      "category": "Chiefs",
+      "title": "Mahomes' elbow MRI shows no major injury; Reid calls him day-to-day and 'in good spirits' with Atlanta up Sunday",
+      "url": "https://atozsports.com/nfl/kansas-city-chiefs-news/chiefs-andy-reid-injury-updates-patrick-mahomes-xavier-worthy-jaylon-moore-monday/",
+      "published": "2026-11-09T16:00:00-08:00",
+      "subheader": "Reid says all three of Mahomes (elbow), Worthy (hamstring) and Jaylon Moore (ankle) are day-to-day. Worthy's best case is a couple of weeks; the worst is an IR-return stint. Joshua Ezeudu would start at RT if Moore sits.",
+      "image": "https://atozsports.com/wp-content/uploads/2026/11/2026-11-08T175616Z_216724169_MT1USATODAY30312323_RTRMADP_3_NFL-NEW-YORK-JETS-AT-KANSAS-CITY-CHIEFS-scaled.jpg",
+      "image_alt": "Patrick Mahomes during the win over the Jets",
+      "sources": [
+        {"name": "AP", "url": "https://apnews.com/article/kansas-city-chiefs-patrick-mahomes-57cc7631322f8b82b5466d03fdb63f72"},
+        {"name": "A to Z Sports", "url": "https://atozsports.com/nfl/kansas-city-chiefs-news/chiefs-andy-reid-injury-updates-patrick-mahomes-xavier-worthy-jaylon-moore-monday/"}
+      ],
+      "quotes": [
+        {
+          "text": "It was more positive news than negative news on Patrick. It looks like it's just a matter of some rehab in there and getting rid of some of the soreness, and we'll just see where it goes from there. But he's in good spirits today.",
+          "by": "Andy Reid, Chiefs head coach",
+          "url": "https://atozsports.com/nfl/kansas-city-chiefs-news/chiefs-andy-reid-injury-updates-patrick-mahomes-xavier-worthy-jaylon-moore-monday/"
+        }
+      ]
+    },
+    {
+      "category": "Chiefs",
+      "title": "Around the deadline: Cousins lands back in Minnesota, and the Bengals nearly spent a 3rd-round comp pick on Falcons edge Ebiketie before backing out after a cap analyst's tweet",
+      "url": "https://www.espn.com/nfl/story/_/id/50443388/2026-nfl-trade-deadline-winners-losers-best-worst-deals",
+      "published": "2026-11-10T15:00:00-08:00",
+      "subheader": "ESPN's winners-and-losers column: Kirk Cousins reunites with the Vikings; Howie Roseman flipped Jordan Davis to the Jaguars for a 1st and a 2nd; the Titans stockpiled picks; the Chargers stood pat and lost.",
+      "image": "",
+      "image_alt": "",
+      "sources": [
+        {"name": "ESPN", "url": "https://www.espn.com/nfl/story/_/id/50443388/2026-nfl-trade-deadline-winners-losers-best-worst-deals"}
+      ],
+      "quotes": []
+    },
+    {
+      "category": "Nebraska",
+      "title": "Must-win at Rutgers: bowl eligibility on the line Saturday at 11:30 a.m. CT on BTN, with Nebraska a 13.5-point favorite",
+      "url": "https://huskerbigred.com/5-things-to-watch-for-nebraska-vs-rutgers-as-huskers-need-a-win/",
+      "published": "2026-11-10T20:00:00-08:00",
+      "subheader": "Rutgers (2-7) ranks 15th or worse in the Big Ten in all four major defensive categories. Nebraska has outgained every opponent this season - one of only four teams in the country to do it - but carries a four-game skid.",
+      "image": "",
+      "image_alt": "",
+      "sources": [
+        {"name": "Husker Big Red", "url": "https://huskerbigred.com/5-things-to-watch-for-nebraska-vs-rutgers-as-huskers-need-a-win/"}
+      ],
+      "quotes": []
+    },
+    {
+      "category": "AI & Agents",
+      "title": "Gemini 4 Carbon is GA: Google's strongest model hits the API at the same $2/$10 per-million-token price as Argon, claiming #1 on CursorBench 4.0 at 2x lower cost per task",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+      "published": "2026-11-10T09:00:00-08:00",
+      "subheader": "Available to all paying developers in AI Studio and rolling out to AI Ultra subscribers. Google is also previewing /swarm in Antigravity: one prompt fans out to a coordinated team of named agents with adversarial verifiers.",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_4_carbon_key_art_16-9_lockup.width-1300.jpg",
+      "image_alt": "Gemini 4 Carbon key art",
+      "sources": [
+        {"name": "Google", "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"},
+        {"name": "TLDR AI", "url": "https://tldr.tech/ai/2026-11-11"}
+      ],
+      "quotes": [
+        {
+          "text": "Carbon is our strongest model with frontier performance in cybersecurity capabilities and long-horizon agentic workflows across complex knowledge work, software engineering, and scientific reasoning.",
+          "by": "Koray Kavukcuoglu, Google DeepMind",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
+        }
+      ]
+    },
+    {
+      "category": "AI & Agents",
+      "title": "Claude gets Sheets, Whiteboards and Data artifacts, plus interactive connectors that embed Adobe and Atlassian apps inside the chat",
+      "url": "https://tldr.tech/ai/2026-11-11",
+      "published": "2026-11-11T05:00:00-08:00",
+      "subheader": "Anthropic's new artifact types build spreadsheets, dashboards and idea boards without leaving Claude. Salesforce, NetSuite and Workday plugins (beta) ship with sales, finance and HR skills; Claude Meetings note-taking is next.",
+      "image": "",
+      "image_alt": "",
+      "sources": [
+        {"name": "TLDR AI", "url": "https://tldr.tech/ai/2026-11-11"}
+      ],
+      "quotes": []
+    },
+    {
+      "category": "AI & Agents",
+      "title": "OpenAI launches Businesses in ChatGPT: claim your profile, feed it your catalog, and spin up a Business Agent that answers shoppers in chat",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt",
+      "published": "2026-11-10T09:00:00-08:00",
+      "subheader": "US e-commerce and online-service businesses can provide product feeds with pricing and availability and track customer engagement. The launch is in beta - another step toward agentic commerce inside ChatGPT.",
+      "image": "",
+      "image_alt": "",
+      "sources": [
+        {"name": "OpenAI", "url": "https://openai.com/index/introducing-businesses-chatgpt"},
+        {"name": "TLDR AI", "url": "https://tldr.tech/ai/2026-11-11"}
+      ],
+      "quotes": []
+    },
+    {
+      "category": "AI & Agents",
+      "title": "Dependency alert: browser-use 1.0.2 pins pydantic-ai-slim==2.66.0 while pydantic-ai 2.67 demands 2.67.0 - the two will not install in the same environment",
+      "url": "https://www.aiagentsinfo.com/blog/ai-agent-framework-release-november-2026",
+      "published": "2026-11-11T00:00:00-08:00",
+      "subheader": "pydantic-ai 2.67 adds instruction files, durable sub-agents and operator authority; browser-use 1.0's persistent-REPL-on-CDP rewrite rides on it. AG2 1.3.1 and FastMCP 4.1.8 shipped in the same 48-hour window.",
+      "image": "https://www.aiagentsinfo.com/opengraph-image?v=e2c823d5",
+      "image_alt": "AI Agents Info headline card for the browser-use / Pydantic AI pin conflict",
+      "sources": [
+        {"name": "AI Agents Info", "url": "https://www.aiagentsinfo.com/blog/ai-agent-framework-release-november-2026"}
+      ],
+      "quotes": []
+    },
+    {
+      "category": "San Francisco",
+      "title": "The Marina Safeway towers won city approval Nov. 6 via AB 2011 - but a federal lawsuit filed in September could freeze construction until a February ruling",
+      "url": "https://www.sfgate.com/local/article/sf-approves-safeway-towers-22524197.php",
+      "published": "2026-11-11T06:00:00-08:00",
+      "subheader": "YesAND Foundation and Neighborhoods United SF allege documented toxic waste at 11 and 15 Marina Blvd. and say the city fast-tracked the 848-unit project. Align Real Estate says it has no timeline to break ground; a motion-to-dismiss ruling is expected in February 2027.",
+      "image": "images/safeway-towers.png",
+      "image_alt": "Generated illustration of the proposed towers above the Marina Safeway",
+      "sources": [
+        {"name": "SFGATE", "url": "https://www.sfgate.com/local/article/sf-approves-safeway-towers-22524197.php"}
+      ],
+      "quotes": [
+        {
+          "text": "We appreciate the diligent work of city staff in moving this important project forward. This approval brings us one step closer to welcoming new families to a neighborhood that has seen far too little housing development, while delivering a modern grocery store for the entire community.",
+          "by": "David Balducci, Align Real Estate",
+          "url": "https://www.sfgate.com/local/article/sf-approves-safeway-towers-22524197.php"
+        }
+      ]
+    },
+    {
+      "category": "San Francisco",
+      "title": "City report: one 50-megawatt data center would draw as much electricity as 25,000 homes - supervisors weigh extending SF's data-center moratorium another 10.5 months",
+      "url": "https://focalnews.org/san-francisco-ca/local/new-sf-report-data-centers-could-strain-power-grid-compete-with-housing",
+      "published": "2026-11-11T05:00:00-08:00",
+      "subheader": "SF's transmission capacity is about 1,000 MW against an 800 MW peak, and a new line could take a decade. The Lurie-commissioned report floats power caps, fees and 75-decibel generator limits but recommends nothing. Santa Clara, with 56 data centers, is weighing water restrictions.",
+      "image": "images/data-centers.png",
+      "image_alt": "Generated illustration of a data center drawing power past San Francisco row houses",
+      "sources": [
+        {"name": "San Francisco Focal", "url": "https://focalnews.org/san-francisco-ca/local/new-sf-report-data-centers-could-strain-power-grid-compete-with-housing"}
+      ],
+      "quotes": []
+    },
+    {
+      "category": "San Francisco",
+      "title": "An Alaska Airlines pilot aborted her SFO landing Tuesday after spotting another plane crossing the runway - FAA and NTSB scrutiny expected",
+      "url": "https://www.nbcbayarea.com/news/local/alaska-airlines-flight-aborts-landing-sfo-runway/4174019/",
+      "published": "2026-11-11T00:15:00-08:00",
+      "subheader": "Flight 528's go-around drew comparisons to Air Canada's 2017 taxiway near-miss at SFO. Per FAA data, go-arounds happen in 1 to 3 of every 1,000 flights; SFO's parallel runways handle over 1,000 flights a day.",
+      "image": "https://media.nbcbayarea.com/2026/11/Alaska-Airlines-flight-forced-to-abort-landing-at-SFO-after-another-aircraft-spotted-on-runway.jpg?quality=85&strip=all&resize=1200%2C675",
+      "image_alt": "Alaska Airlines plane at SFO",
+      "sources": [
+        {"name": "NBC Bay Area", "url": "https://www.nbcbayarea.com/news/local/alaska-airlines-flight-aborts-landing-sfo-runway/4174019/"}
+      ],
+      "quotes": [
+        {
+          "text": "We thought the best course of action was the safest one, and we'll come back around and do it again.",
+          "by": "Alaska Flight 528 pilot, over the cabin intercom",
+          "url": "https://www.nbcbayarea.com/news/local/alaska-airlines-flight-aborts-landing-sfo-runway/4174019/"
+        }
+      ]
+    },
+    {
+      "category": "San Francisco",
+      "title": "Overnight two-alarm fire gutted an abandoned warehouse at the Hunters Point naval shipyard, collapsing three-quarters of the building",
+      "url": "https://abc7news.com/post/massive-fire-burns-abandoned-warehouse-naval-shipyard-san-franciscos-hunters-point-collapsing-building/20032952/",
+      "published": "2026-11-11T06:48:00-08:00",
+      "subheader": "SFFD was called around 3 a.m. to Manseau St. No one was inside, no injuries, and crews say the fire is about 80% contained with no threat to other buildings.",
+      "image": "https://cdn.abcotvs.com/dip/images/20032948_111126-kgo-citizen-warehouse-fire-img.jpg?w=1600",
+      "image_alt": "Fire at the abandoned Hunters Point warehouse",
+      "sources": [
+        {"name": "ABC7", "url": "https://abc7news.com/post/massive-fire-burns-abandoned-warehouse-naval-shipyard-san-franciscos-hunters-point-collapsing-building/20032952/"}
+      ],
+      "quotes": [
+        {
+          "text": "There's no threat to any other buildings, and no one is injured at this time. It's not going to go any further, but there's still visible flames.",
+          "by": "Capt. Mariano Elias, SFFD",
+          "url": "https://abc7news.com/post/massive-fire-burns-abandoned-warehouse-naval-shipyard-san-franciscos-hunters-point-collapsing-building/20032952/"
+        }
+      ]
+    }
+  ]
+}
