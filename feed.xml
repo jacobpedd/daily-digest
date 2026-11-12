@@ -6,180 +6,181 @@
     <atom:link href="https://jacobpedd.github.io/daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A personal daily news digest: Chiefs, Nebraska football, AI and agent tooling, running, and San Francisco.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2026 07:27:56 -0800</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 07:27:37 -0800</lastBuildDate>
     <ttl>360</ttl>
     <item>
-      <title>Quick survey - Wednesday, November 11, 2026</title>
+      <title>Quick survey - Thursday, November 12, 2026</title>
       <link>https://jacobpedd.github.io/daily-digest/</link>
-      <guid isPermaLink="true">https://jacobpedd.github.io/daily-digest/#survey-2026-11-11</guid>
-      <pubDate>Wed, 11 Nov 2026 07:27:56 -0800</pubDate>
-      <description><![CDATA[<p>Quick survey: What kind of story do you want more of?<br/><a href="sms:+16506139572?&amp;body=Digest%2011/11%20survey%3A%20Breaking%20news">Breaking news</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/11%20survey%3A%20Deep%20analysis">Deep analysis</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/11%20survey%3A%20Transactions%20and%20quick%20wires">Transactions and quick wires</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/11%20survey%3A%20Offbeat%20and%20interesting">Offbeat and interesting</a></p>]]></description>
+      <guid isPermaLink="true">https://jacobpedd.github.io/daily-digest/#survey-2026-11-12</guid>
+      <pubDate>Thu, 12 Nov 2026 07:27:37 -0800</pubDate>
+      <description><![CDATA[<p>Quick survey: Which thread should I watch more closely this week?<br/><a href="sms:+16506139572?&amp;body=Digest%2011/12%20survey%3A%20Josh%20Downs%27%20fit%20in%20KC">Josh Downs' fit in KC</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/12%20survey%3A%20Nebraska%27s%20coaching%20situation">Nebraska's coaching situation</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/12%20survey%3A%20Agent%20tooling%20releases">Agent tooling releases</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/12%20survey%3A%20Phoenix%20marathon%20training">Phoenix marathon training</a></p>]]></description>
     </item>
     <item>
-      <title>Deadline deal: Chiefs acquire WR Josh Downs from the Colts for a 4th- and 5th-round pick, with a 7th-rounder coming back</title>
-      <link>https://apnews.com/article/indianapolis-colts-kansas-city-chiefs-trade-e0dbc1b4dd9d5844567a507f0be44498</link>
-      <guid isPermaLink="true">https://apnews.com/article/indianapolis-colts-kansas-city-chiefs-trade-e0dbc1b4dd9d5844567a507f0be44498</guid>
-      <pubDate>Tue, 10 Nov 2026 18:00:00 -0800</pubDate>
+      <title>Josh Downs' first day as a Chief: he'll wear No. 12, and KC waived returner Nikko Remigio and rookie DE Jack Pyburn to clear room</title>
+      <link>https://www.kmbc.com/article/chiefs-josh-downs-trade-mahomes-reid-falcons/74395590</link>
+      <guid isPermaLink="true">https://www.kmbc.com/article/chiefs-josh-downs-trade-mahomes-reid-falcons/74395590</guid>
+      <pubDate>Wed, 11 Nov 2026 11:56:00 -0800</pubDate>
       <category>Chiefs</category>
-      <description><![CDATA[<p><img src="https://images2.minutemediacdn.com/image/upload/c_crop,x_1396,y_49,w_2546,h_1432/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/arrowhead_report/01m73scmap3p5yb37g2z.jpg" alt="Josh Downs in Colts uniform" style="max-width:100%"/></p>
-<p><b>The move fills KC's biggest need two days after Xavier Worthy's hamstring injury. Downs approved the deal with his first post on X since the summer; Mahomes answered with an alarm-clock image.</b></p>
-<p>Sources: <a href="https://apnews.com/article/indianapolis-colts-kansas-city-chiefs-trade-e0dbc1b4dd9d5844567a507f0be44498">AP</a> &middot; <a href="https://www.nfl.com/news/josh-downs-chiefs-colts-trade">NFL.com</a></p>
-<p>Feedback: <a href="sms:+16506139572?&amp;body=Digest%2011/11%3A%20loved%20%22Deadline%20deal%3A%20Chiefs%20acquire%20WR%20Josh%20D...%22">Loved it</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/11%3A%20meh%20on%20%22Deadline%20deal%3A%20Chiefs%20acquire%20WR%20Josh%20D...%22">Meh</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/11%3A%20less%20like%20%22Deadline%20deal%3A%20Chiefs%20acquire%20WR%20Josh%20D...%22">Less of this</a> &middot; <a href="sms:+16506139572?&amp;body=https%3A//apnews.com/article/indianapolis-colts-kansas-city-chiefs-trade-e0dbc1b4dd9d5844567a507f0be44498%0A">Chat about it</a></p>]]></description>
-      <media:content url="https://images2.minutemediacdn.com/image/upload/c_crop,x_1396,y_49,w_2546,h_1432/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/arrowhead_report/01m73scmap3p5yb37g2z.jpg" medium="image"/>
+      <description><![CDATA[<p><img src="https://kubrick.htvapps.com/htv-prod/images/02b19507-43fb-431f-af2c-efc657828061.jpg?crop=1.00xw:0.846xh;0,0.0439xh&amp;resize=1200:*" alt="Josh Downs meets the Kansas City media" style="max-width:100%"/></p>
+<p><b>Downs called it a blessing to play alongside Mahomes and said he'd heard Reid is a 'great mastermind of offense.' On the number: he wore 1 and then 2, so the equipment manager told him to put them together.</b></p>
+<blockquote>&ldquo;It's good when guys welcome you and accept you. I feel like at this point it's my turn to earn their respect on the field, and earn their respect as a teammate. I'm going to do what I can to do that.&rdquo; - <a href="https://heavy.com/sports/nfl/kansas-city-chiefs/josh-downs-connection-with-rashee-rice/">Josh Downs, Chiefs WR</a></blockquote>
+<p>Sources: <a href="https://www.kmbc.com/article/chiefs-josh-downs-trade-mahomes-reid-falcons/74395590">KMBC</a> &middot; <a href="https://apnews.com/article/chiefs-downs-receptor-mahomes-canje-colts-nfl-94762c1b8edd98b805e0515e1fba2d95">AP</a></p>
+<p>Feedback: <a href="sms:+16506139572?&amp;body=Digest%2011/12%3A%20loved%20%22Josh%20Downs%27%20first%20day%20as%20a%20Chief%3A%20he%27ll...%22">Loved it</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/12%3A%20meh%20on%20%22Josh%20Downs%27%20first%20day%20as%20a%20Chief%3A%20he%27ll...%22">Meh</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/12%3A%20less%20like%20%22Josh%20Downs%27%20first%20day%20as%20a%20Chief%3A%20he%27ll...%22">Less of this</a> &middot; <a href="sms:+16506139572?&amp;body=https%3A//www.kmbc.com/article/chiefs-josh-downs-trade-mahomes-reid-falcons/74395590%0A">Chat about it</a></p>]]></description>
+      <media:content url="https://kubrick.htvapps.com/htv-prod/images/02b19507-43fb-431f-af2c-efc657828061.jpg?crop=1.00xw:0.846xh;0,0.0439xh&amp;resize=1200:*" medium="image"/>
     </item>
     <item>
-      <title>The fit: ESPN grades Downs the deadline's 'best environmental improvement' - from the Colts' 31st-ranked passing EPA to Andy Reid's screen-and-quick-pass machine</title>
-      <link>https://www.espn.com/nfl/story/_/id/50443388/2026-nfl-trade-deadline-winners-losers-best-worst-deals</link>
-      <guid isPermaLink="true">https://www.espn.com/nfl/story/_/id/50443388/2026-nfl-trade-deadline-winners-losers-best-worst-deals</guid>
-      <pubDate>Tue, 10 Nov 2026 15:00:00 -0800</pubDate>
+      <title>The chemistry head start: Rashee Rice says he and Downs have trained together every offseason since before the draft</title>
+      <link>https://heavy.com/sports/nfl/kansas-city-chiefs/josh-downs-connection-with-rashee-rice/</link>
+      <guid isPermaLink="true">https://heavy.com/sports/nfl/kansas-city-chiefs/josh-downs-connection-with-rashee-rice/</guid>
+      <pubDate>Thu, 12 Nov 2026 04:35:00 -0800</pubDate>
       <category>Chiefs</category>
-      <description><![CDATA[<p><img src="https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1110/ss_20261110_152324738_3735523/ss_20261110_152324738_3735523.jpg" alt="NFL trade deadline illustration" style="max-width:100%"/></p>
-<p><b>Indianapolis ranked 31st in EPA per dropback and last in explosive pass rate; the Chiefs sit 8th and 7th. Downs hits free agency after the season, so KC gets a motivated slot separator for Day 3 picks.</b></p>
-<blockquote>&ldquo;No team throws more screens and quick passes than the Chiefs, which will serve Downs' separation ability from the slot well.&rdquo; - <a href="https://www.espn.com/nfl/story/_/id/50443388/2026-nfl-trade-deadline-winners-losers-best-worst-deals">Ben Solak, ESPN</a></blockquote>
-<p>Sources: <a href="https://www.espn.com/nfl/story/_/id/50443388/2026-nfl-trade-deadline-winners-losers-best-worst-deals">ESPN</a></p>
-<p>Feedback: <a href="sms:+16506139572?&amp;body=Digest%2011/11%3A%20loved%20%22The%20fit%3A%20ESPN%20grades%20Downs%20the%20deadline...%22">Loved it</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/11%3A%20meh%20on%20%22The%20fit%3A%20ESPN%20grades%20Downs%20the%20deadline...%22">Meh</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/11%3A%20less%20like%20%22The%20fit%3A%20ESPN%20grades%20Downs%20the%20deadline...%22">Less of this</a> &middot; <a href="sms:+16506139572?&amp;body=https%3A//www.espn.com/nfl/story/_/id/50443388/2026-nfl-trade-deadline-winners-losers-best-worst-deals%0A">Chat about it</a></p>]]></description>
-      <media:content url="https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1110/ss_20261110_152324738_3735523/ss_20261110_152324738_3735523.jpg" medium="image"/>
+      <description><![CDATA[<p><img src="https://heavy.com/wp-content/uploads/2026/11/kansas-city-chiefs-practice-media-availability-kansas-city-missouri-november-e1794425966638.jpg?quality=65&amp;strip=all" alt="Josh Downs in his No. 12 Chiefs jersey at the podium" style="max-width:100%"/></p>
+<p><b>Rice texted Downs eye emojis the night of the trade; the two share a locker-room area and have been walking through the playbook together. Downs called Rice 'my dog' and said the relationship factored into wanting KC.</b></p>
+<blockquote>&ldquo;I train with Josh in the offseason, as well as coming out of college. So, we've had a relationship prior. We're in the same area in the locker room, so we're in there joking around.&rdquo; - <a href="https://heavy.com/sports/nfl/kansas-city-chiefs/josh-downs-connection-with-rashee-rice/">Rashee Rice, Chiefs WR</a></blockquote>
+<p>Sources: <a href="https://heavy.com/sports/nfl/kansas-city-chiefs/josh-downs-connection-with-rashee-rice/">Heavy</a></p>
+<p>Feedback: <a href="sms:+16506139572?&amp;body=Digest%2011/12%3A%20loved%20%22The%20chemistry%20head%20start%3A%20Rashee%20Rice%20s...%22">Loved it</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/12%3A%20meh%20on%20%22The%20chemistry%20head%20start%3A%20Rashee%20Rice%20s...%22">Meh</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/12%3A%20less%20like%20%22The%20chemistry%20head%20start%3A%20Rashee%20Rice%20s...%22">Less of this</a> &middot; <a href="sms:+16506139572?&amp;body=https%3A//heavy.com/sports/nfl/kansas-city-chiefs/josh-downs-connection-with-rashee-rice/%0A">Chat about it</a></p>]]></description>
+      <media:content url="https://heavy.com/wp-content/uploads/2026/11/kansas-city-chiefs-practice-media-availability-kansas-city-missouri-november-e1794425966638.jpg?quality=65&amp;strip=all" medium="image"/>
     </item>
     <item>
-      <title>The new depth chart: Rice, Downs and a healthy Worthy form the top tier; Royals' ankle injury is minor and Thornton stays on IR</title>
-      <link>https://www.si.com/nfl/chiefs/onsi/how-the-nfl-trade-deadline-changed-chiefs-wide-receiver-depth-chart</link>
-      <guid isPermaLink="true">https://www.si.com/nfl/chiefs/onsi/how-the-nfl-trade-deadline-changed-chiefs-wide-receiver-depth-chart</guid>
-      <pubDate>Wed, 11 Nov 2026 06:00:00 -0800</pubDate>
+      <title>Wednesday practice: Mahomes (elbow), Rice (knee) and Worthy (hamstring) were all full participants; Downs isn't on the injury report at all</title>
+      <link>https://www.cbssports.com/fantasy/football/news/chiefs-patrick-mahomes-practices-fully-wednesday-647181/</link>
+      <guid isPermaLink="true">https://www.cbssports.com/fantasy/football/news/chiefs-patrick-mahomes-practices-fully-wednesday-647181/</guid>
+      <pubDate>Wed, 11 Nov 2026 13:46:00 -0800</pubDate>
       <category>Chiefs</category>
-      <description><![CDATA[<p><img src="https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/awgdaf9vqw1qt9ta0q3h" alt="Chiefs-Colts Josh Downs trade graphic" style="max-width:100%"/></p>
-<p><b>Rashee Rice, Downs and Xavier Worthy (once his hamstring heals) lead the room; rookie Jalen Royals' ankle injury is not expected to be an extended absence. Tyquan Thornton remains on IR with a fractured ankle.</b></p>
-<p>Sources: <a href="https://www.si.com/nfl/chiefs/onsi/how-the-nfl-trade-deadline-changed-chiefs-wide-receiver-depth-chart">Sports Illustrated</a></p>
-<p>Feedback: <a href="sms:+16506139572?&amp;body=Digest%2011/11%3A%20loved%20%22The%20new%20depth%20chart%3A%20Rice%2C%20Downs%20and%20a...%22">Loved it</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/11%3A%20meh%20on%20%22The%20new%20depth%20chart%3A%20Rice%2C%20Downs%20and%20a...%22">Meh</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/11%3A%20less%20like%20%22The%20new%20depth%20chart%3A%20Rice%2C%20Downs%20and%20a...%22">Less of this</a> &middot; <a href="sms:+16506139572?&amp;body=https%3A//www.si.com/nfl/chiefs/onsi/how-the-nfl-trade-deadline-changed-chiefs-wide-receiver-depth-chart%0A">Chat about it</a></p>]]></description>
-      <media:content url="https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/awgdaf9vqw1qt9ta0q3h" medium="image"/>
+      <description><![CDATA[<p><b>Two days after Reid called all three day-to-day, the full-practice tags point to Mahomes and his top three receivers being available Sunday in Atlanta.</b></p>
+<p>Sources: <a href="https://www.cbssports.com/fantasy/football/news/chiefs-patrick-mahomes-practices-fully-wednesday-647181/">CBS Sports</a></p>
+<p>Feedback: <a href="sms:+16506139572?&amp;body=Digest%2011/12%3A%20loved%20%22Wednesday%20practice%3A%20Mahomes%20%28elbow%29%2C%20Ri...%22">Loved it</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/12%3A%20meh%20on%20%22Wednesday%20practice%3A%20Mahomes%20%28elbow%29%2C%20Ri...%22">Meh</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/12%3A%20less%20like%20%22Wednesday%20practice%3A%20Mahomes%20%28elbow%29%2C%20Ri...%22">Less of this</a> &middot; <a href="sms:+16506139572?&amp;body=https%3A//www.cbssports.com/fantasy/football/news/chiefs-patrick-mahomes-practices-fully-wednesday-647181/%0A">Chat about it</a></p>]]></description>
     </item>
     <item>
-      <title>Mahomes' elbow MRI shows no major injury; Reid calls him day-to-day and 'in good spirits' with Atlanta up Sunday</title>
-      <link>https://atozsports.com/nfl/kansas-city-chiefs-news/chiefs-andy-reid-injury-updates-patrick-mahomes-xavier-worthy-jaylon-moore-monday/</link>
-      <guid isPermaLink="true">https://atozsports.com/nfl/kansas-city-chiefs-news/chiefs-andy-reid-injury-updates-patrick-mahomes-xavier-worthy-jaylon-moore-monday/</guid>
-      <pubDate>Mon, 09 Nov 2026 16:00:00 -0800</pubDate>
-      <category>Chiefs</category>
-      <description><![CDATA[<p><img src="https://atozsports.com/wp-content/uploads/2026/11/2026-11-08T175616Z_216724169_MT1USATODAY30312323_RTRMADP_3_NFL-NEW-YORK-JETS-AT-KANSAS-CITY-CHIEFS-scaled.jpg" alt="Patrick Mahomes during the win over the Jets" style="max-width:100%"/></p>
-<p><b>Reid says all three of Mahomes (elbow), Worthy (hamstring) and Jaylon Moore (ankle) are day-to-day. Worthy's best case is a couple of weeks; the worst is an IR-return stint. Joshua Ezeudu would start at RT if Moore sits.</b></p>
-<blockquote>&ldquo;It was more positive news than negative news on Patrick. It looks like it's just a matter of some rehab in there and getting rid of some of the soreness, and we'll just see where it goes from there. But he's in good spirits today.&rdquo; - <a href="https://atozsports.com/nfl/kansas-city-chiefs-news/chiefs-andy-reid-injury-updates-patrick-mahomes-xavier-worthy-jaylon-moore-monday/">Andy Reid, Chiefs head coach</a></blockquote>
-<p>Sources: <a href="https://apnews.com/article/kansas-city-chiefs-patrick-mahomes-57cc7631322f8b82b5466d03fdb63f72">AP</a> &middot; <a href="https://atozsports.com/nfl/kansas-city-chiefs-news/chiefs-andy-reid-injury-updates-patrick-mahomes-xavier-worthy-jaylon-moore-monday/">A to Z Sports</a></p>
-<p>Feedback: <a href="sms:+16506139572?&amp;body=Digest%2011/11%3A%20loved%20%22Mahomes%27%20elbow%20MRI%20shows%20no%20major%20injur...%22">Loved it</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/11%3A%20meh%20on%20%22Mahomes%27%20elbow%20MRI%20shows%20no%20major%20injur...%22">Meh</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/11%3A%20less%20like%20%22Mahomes%27%20elbow%20MRI%20shows%20no%20major%20injur...%22">Less of this</a> &middot; <a href="sms:+16506139572?&amp;body=https%3A//atozsports.com/nfl/kansas-city-chiefs-news/chiefs-andy-reid-injury-updates-patrick-mahomes-xavier-worthy-jaylon-moore-monday/%0A">Chat about it</a></p>]]></description>
-      <media:content url="https://atozsports.com/wp-content/uploads/2026/11/2026-11-08T175616Z_216724169_MT1USATODAY30312323_RTRMADP_3_NFL-NEW-YORK-JETS-AT-KANSAS-CITY-CHIEFS-scaled.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Around the deadline: Cousins lands back in Minnesota, and the Bengals nearly spent a 3rd-round comp pick on Falcons edge Ebiketie before backing out after a cap analyst's tweet</title>
-      <link>https://www.espn.com/nfl/story/_/id/50443388/2026-nfl-trade-deadline-winners-losers-best-worst-deals</link>
-      <guid isPermaLink="true">https://www.espn.com/nfl/story/_/id/50443388/2026-nfl-trade-deadline-winners-losers-best-worst-deals</guid>
-      <pubDate>Tue, 10 Nov 2026 15:00:00 -0800</pubDate>
-      <category>Chiefs</category>
-      <description><![CDATA[<p><b>ESPN's winners-and-losers column: Kirk Cousins reunites with the Vikings; Howie Roseman flipped Jordan Davis to the Jaguars for a 1st and a 2nd; the Titans stockpiled picks; the Chargers stood pat and lost.</b></p>
-<p>Sources: <a href="https://www.espn.com/nfl/story/_/id/50443388/2026-nfl-trade-deadline-winners-losers-best-worst-deals">ESPN</a></p>
-<p>Feedback: <a href="sms:+16506139572?&amp;body=Digest%2011/11%3A%20loved%20%22Around%20the%20deadline%3A%20Cousins%20lands%20back...%22">Loved it</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/11%3A%20meh%20on%20%22Around%20the%20deadline%3A%20Cousins%20lands%20back...%22">Meh</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/11%3A%20less%20like%20%22Around%20the%20deadline%3A%20Cousins%20lands%20back...%22">Less of this</a> &middot; <a href="sms:+16506139572?&amp;body=https%3A//www.espn.com/nfl/story/_/id/50443388/2026-nfl-trade-deadline-winners-losers-best-worst-deals%0A">Chat about it</a></p>]]></description>
-    </item>
-    <item>
-      <title>Must-win at Rutgers: bowl eligibility on the line Saturday at 11:30 a.m. CT on BTN, with Nebraska a 13.5-point favorite</title>
-      <link>https://huskerbigred.com/5-things-to-watch-for-nebraska-vs-rutgers-as-huskers-need-a-win/</link>
-      <guid isPermaLink="true">https://huskerbigred.com/5-things-to-watch-for-nebraska-vs-rutgers-as-huskers-need-a-win/</guid>
-      <pubDate>Tue, 10 Nov 2026 20:00:00 -0800</pubDate>
+      <title>Wednesday availability report: LB Owen Chambliss and CB Andrew Marshall are out for Rutgers; Rutgers star WR KJ Duff's season is over after ankle surgery</title>
+      <link>https://www.si.com/college/nebraska/football/owen-chambliss-andrew-marshall-kj-duff-headline-nebraska-rutgers-wednesday-availability-report-2026</link>
+      <guid isPermaLink="true">https://www.si.com/college/nebraska/football/owen-chambliss-andrew-marshall-kj-duff-headline-nebraska-rutgers-wednesday-availability-report-2026</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 -0800</pubDate>
       <category>Nebraska</category>
-      <description><![CDATA[<p><b>Rutgers (2-7) ranks 15th or worse in the Big Ten in all four major defensive categories. Nebraska has outgained every opponent this season - one of only four teams in the country to do it - but carries a four-game skid.</b></p>
-<p>Sources: <a href="https://huskerbigred.com/5-things-to-watch-for-nebraska-vs-rutgers-as-huskers-need-a-win/">Husker Big Red</a></p>
-<p>Feedback: <a href="sms:+16506139572?&amp;body=Digest%2011/11%3A%20loved%20%22Must-win%20at%20Rutgers%3A%20bowl%20eligibility%20o...%22">Loved it</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/11%3A%20meh%20on%20%22Must-win%20at%20Rutgers%3A%20bowl%20eligibility%20o...%22">Meh</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/11%3A%20less%20like%20%22Must-win%20at%20Rutgers%3A%20bowl%20eligibility%20o...%22">Less of this</a> &middot; <a href="sms:+16506139572?&amp;body=https%3A//huskerbigred.com/5-things-to-watch-for-nebraska-vs-rutgers-as-huskers-need-a-win/%0A">Chat about it</a></p>]]></description>
+      <description><![CDATA[<p><img src="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_900,h_506/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/all_huskers/01m76e7s4cgy2kgq25qb.png" alt="Owen Chambliss and KJ Duff, both out Saturday" style="max-width:100%"/></p>
+<p><b>Chambliss (55 tackles, an INT) is the country's No. 27-graded linebacker per Pro Football Network; Marshall is its No. 17 corner. Vincent Shavers, Dexter Foster and Dawson Merritt are next up at linebacker. Rutgers backup QB AJ Surace is expected to start.</b></p>
+<p>Sources: <a href="https://www.si.com/college/nebraska/football/owen-chambliss-andrew-marshall-kj-duff-headline-nebraska-rutgers-wednesday-availability-report-2026">Sports Illustrated</a></p>
+<p>Feedback: <a href="sms:+16506139572?&amp;body=Digest%2011/12%3A%20loved%20%22Wednesday%20availability%20report%3A%20LB%20Owen...%22">Loved it</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/12%3A%20meh%20on%20%22Wednesday%20availability%20report%3A%20LB%20Owen...%22">Meh</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/12%3A%20less%20like%20%22Wednesday%20availability%20report%3A%20LB%20Owen...%22">Less of this</a> &middot; <a href="sms:+16506139572?&amp;body=https%3A//www.si.com/college/nebraska/football/owen-chambliss-andrew-marshall-kj-duff-headline-nebraska-rutgers-wednesday-availability-report-2026%0A">Chat about it</a></p>]]></description>
+      <media:content url="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_900,h_506/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/all_huskers/01m76e7s4cgy2kgq25qb.png" medium="image"/>
     </item>
     <item>
-      <title>Gemini 4 Carbon is GA: Google's strongest model hits the API at the same $2/$10 per-million-token price as Argon, claiming #1 on CursorBench 4.0 at 2x lower cost per task</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/</link>
-      <guid isPermaLink="true">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/</guid>
-      <pubDate>Tue, 10 Nov 2026 09:00:00 -0800</pubDate>
+      <title>Why Saturday matters beyond bowl math: Nebraska is 7-0 all-time against Rutgers (184-96 scoring), but the last three meetings were one-score games</title>
+      <link>https://www.si.com/college/nebraska/football/for-nebraska-a-win-over-rutgers-means-more-than-just-bowl-eligibility</link>
+      <guid isPermaLink="true">https://www.si.com/college/nebraska/football/for-nebraska-a-win-over-rutgers-means-more-than-just-bowl-eligibility</guid>
+      <pubDate>Thu, 12 Nov 2026 06:00:00 -0800</pubDate>
+      <category>Nebraska</category>
+      <description><![CDATA[<p><img src="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_125,w_6385,h_3591/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/all_huskers/01m76f88tj9x2pew2f6c.jpg" alt="Anthony Colandrea's 39-yard touchdown run against Indiana" style="max-width:100%"/></p>
+<p><b>A sixth win guarantees a non-losing regular season after the Huskers averaged 13.5 points during the four-game skid. SI notes the fair question already being asked: if Nebraska loses out to finish 5-7, does Rhule survive a contract that runs through 2032?</b></p>
+<p>Sources: <a href="https://www.si.com/college/nebraska/football/for-nebraska-a-win-over-rutgers-means-more-than-just-bowl-eligibility">Sports Illustrated</a></p>
+<p>Feedback: <a href="sms:+16506139572?&amp;body=Digest%2011/12%3A%20loved%20%22Why%20Saturday%20matters%20beyond%20bowl%20math%3A...%22">Loved it</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/12%3A%20meh%20on%20%22Why%20Saturday%20matters%20beyond%20bowl%20math%3A...%22">Meh</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/12%3A%20less%20like%20%22Why%20Saturday%20matters%20beyond%20bowl%20math%3A...%22">Less of this</a> &middot; <a href="sms:+16506139572?&amp;body=https%3A//www.si.com/college/nebraska/football/for-nebraska-a-win-over-rutgers-means-more-than-just-bowl-eligibility%0A">Chat about it</a></p>]]></description>
+      <media:content url="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_125,w_6385,h_3591/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/all_huskers/01m76f88tj9x2pew2f6c.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Antigravity is rolling out browser use: agents can now run and verify the code they write in a live browser, with auth and downloads gated on your approval</title>
+      <link>https://antigravity.google/docs/browser/</link>
+      <guid isPermaLink="true">https://antigravity.google/docs/browser/</guid>
+      <pubDate>Thu, 12 Nov 2026 05:00:00 -0800</pubDate>
       <category>AI &amp; Agents</category>
-      <description><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_4_carbon_key_art_16-9_lockup.width-1300.jpg" alt="Gemini 4 Carbon key art" style="max-width:100%"/></p>
-<p><b>Available to all paying developers in AI Studio and rolling out to AI Ultra subscribers. Google is also previewing /swarm in Antigravity: one prompt fans out to a coordinated team of named agents with adversarial verifiers.</b></p>
-<blockquote>&ldquo;Carbon is our strongest model with frontier performance in cybersecurity capabilities and long-horizon agentic workflows across complex knowledge work, software engineering, and scientific reasoning.&rdquo; - <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/">Koray Kavukcuoglu, Google DeepMind</a></blockquote>
-<p>Sources: <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/">Google</a> &middot; <a href="https://tldr.tech/ai/2026-11-11">TLDR AI</a></p>
-<p>Feedback: <a href="sms:+16506139572?&amp;body=Digest%2011/11%3A%20loved%20%22Gemini%204%20Carbon%20is%20GA%3A%20Google%27s%20stronge...%22">Loved it</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/11%3A%20meh%20on%20%22Gemini%204%20Carbon%20is%20GA%3A%20Google%27s%20stronge...%22">Meh</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/11%3A%20less%20like%20%22Gemini%204%20Carbon%20is%20GA%3A%20Google%27s%20stronge...%22">Less of this</a> &middot; <a href="sms:+16506139572?&amp;body=https%3A//blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/%0A">Chat about it</a></p>]]></description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_4_carbon_key_art_16-9_lockup.width-1300.jpg" medium="image"/>
+      <description><![CDATA[<p><img src="https://antigravity.google/og/docs/browser.png" alt="Google Antigravity browser use documentation" style="max-width:100%"/></p>
+<p><b>The /browser command closes the research-code-verify loop - playtest a checkout flow, check a mobile viewport, report console errors. Users control authentication, downloads pause for approval, and agents can run multiple browser tasks in parallel.</b></p>
+<p>Sources: <a href="https://antigravity.google/docs/browser/">Google Antigravity Docs</a> &middot; <a href="https://ai.tldr.tech/p/2026-11-12-tldr-ai">TLDR AI</a></p>
+<p>Feedback: <a href="sms:+16506139572?&amp;body=Digest%2011/12%3A%20loved%20%22Antigravity%20is%20rolling%20out%20browser%20use%3A...%22">Loved it</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/12%3A%20meh%20on%20%22Antigravity%20is%20rolling%20out%20browser%20use%3A...%22">Meh</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/12%3A%20less%20like%20%22Antigravity%20is%20rolling%20out%20browser%20use%3A...%22">Less of this</a> &middot; <a href="sms:+16506139572?&amp;body=https%3A//antigravity.google/docs/browser/%0A">Chat about it</a></p>]]></description>
+      <media:content url="https://antigravity.google/og/docs/browser.png" medium="image"/>
     </item>
     <item>
-      <title>Claude gets Sheets, Whiteboards and Data artifacts, plus interactive connectors that embed Adobe and Atlassian apps inside the chat</title>
-      <link>https://tldr.tech/ai/2026-11-11</link>
-      <guid isPermaLink="true">https://tldr.tech/ai/2026-11-11</guid>
-      <pubDate>Wed, 11 Nov 2026 05:00:00 -0800</pubDate>
+      <title>DeepMind's AlphaGenome 2 predicts how DNA variants change specific cell types - and doubles variant identification over the original</title>
+      <link>https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/</link>
+      <guid isPermaLink="true">https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/</guid>
+      <pubDate>Wed, 11 Nov 2026 09:00:00 -0800</pubDate>
       <category>AI &amp; Agents</category>
-      <description><![CDATA[<p><b>Anthropic's new artifact types build spreadsheets, dashboards and idea boards without leaving Claude. Salesforce, NetSuite and Workday plugins (beta) ship with sales, finance and HR skills; Claude Meetings note-taking is next.</b></p>
-<p>Sources: <a href="https://tldr.tech/ai/2026-11-11">TLDR AI</a></p>
-<p>Feedback: <a href="sms:+16506139572?&amp;body=Digest%2011/11%3A%20loved%20%22Claude%20gets%20Sheets%2C%20Whiteboards%20and%20Dat...%22">Loved it</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/11%3A%20meh%20on%20%22Claude%20gets%20Sheets%2C%20Whiteboards%20and%20Dat...%22">Meh</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/11%3A%20less%20like%20%22Claude%20gets%20Sheets%2C%20Whiteboards%20and%20Dat...%22">Less of this</a> &middot; <a href="sms:+16506139572?&amp;body=https%3A//tldr.tech/ai/2026-11-11%0A">Chat about it</a></p>]]></description>
+      <description><![CDATA[<p><img src="https://lh3.googleusercontent.com/VPOhADdGu1T7kK_gWBiGzyVawQbKCjpL3-B0L0wxpYCyr8cHxviYmo9Hghy4f1laeIo2YKwuz8E07TR9HWWk2b0EONi0uvju-8TDLHX6YWHG4dXe3w=w1200-h630-n-nu-rw" alt="AlphaGenome 2 key art" style="max-width:100%"/></p>
+<p><b>The model adapts to new cell states without retraining and pinpoints disease-relevant mutations in primary human cells. Available now for non-commercial use.</b></p>
+<p>Sources: <a href="https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/">Google DeepMind</a> &middot; <a href="https://ai.tldr.tech/p/2026-11-12-tldr-ai">TLDR AI</a></p>
+<p>Feedback: <a href="sms:+16506139572?&amp;body=Digest%2011/12%3A%20loved%20%22DeepMind%27s%20AlphaGenome%202%20predicts%20how%20D...%22">Loved it</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/12%3A%20meh%20on%20%22DeepMind%27s%20AlphaGenome%202%20predicts%20how%20D...%22">Meh</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/12%3A%20less%20like%20%22DeepMind%27s%20AlphaGenome%202%20predicts%20how%20D...%22">Less of this</a> &middot; <a href="sms:+16506139572?&amp;body=https%3A//deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/%0A">Chat about it</a></p>]]></description>
+      <media:content url="https://lh3.googleusercontent.com/VPOhADdGu1T7kK_gWBiGzyVawQbKCjpL3-B0L0wxpYCyr8cHxviYmo9Hghy4f1laeIo2YKwuz8E07TR9HWWk2b0EONi0uvju-8TDLHX6YWHG4dXe3w=w1200-h630-n-nu-rw" medium="image"/>
     </item>
     <item>
-      <title>OpenAI launches Businesses in ChatGPT: claim your profile, feed it your catalog, and spin up a Business Agent that answers shoppers in chat</title>
-      <link>https://openai.com/index/introducing-businesses-chatgpt</link>
-      <guid isPermaLink="true">https://openai.com/index/introducing-businesses-chatgpt</guid>
-      <pubDate>Tue, 10 Nov 2026 09:00:00 -0800</pubDate>
+      <title>OpenRouter measured what tool surfaces cost in context: same GitHub task took 59,417 input tokens via MCP, 3,315 via a skill, 1,421 via the gh CLI</title>
+      <link>https://openrouter.ai/blog/insights/mcp-vs-cli-vs-skills/</link>
+      <guid isPermaLink="true">https://openrouter.ai/blog/insights/mcp-vs-cli-vs-skills/</guid>
+      <pubDate>Wed, 11 Nov 2026 09:00:00 -0800</pubDate>
       <category>AI &amp; Agents</category>
-      <description><![CDATA[<p><b>US e-commerce and online-service businesses can provide product feeds with pricing and availability and track customer engagement. The launch is in beta - another step toward agentic commerce inside ChatGPT.</b></p>
-<p>Sources: <a href="https://openai.com/index/introducing-businesses-chatgpt">OpenAI</a> &middot; <a href="https://tldr.tech/ai/2026-11-11">TLDR AI</a></p>
-<p>Feedback: <a href="sms:+16506139572?&amp;body=Digest%2011/11%3A%20loved%20%22OpenAI%20launches%20Businesses%20in%20ChatGPT%3A...%22">Loved it</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/11%3A%20meh%20on%20%22OpenAI%20launches%20Businesses%20in%20ChatGPT%3A...%22">Meh</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/11%3A%20less%20like%20%22OpenAI%20launches%20Businesses%20in%20ChatGPT%3A...%22">Less of this</a> &middot; <a href="sms:+16506139572?&amp;body=https%3A//openai.com/index/introducing-businesses-chatgpt%0A">Chat about it</a></p>]]></description>
+      <description><![CDATA[<p><img src="https://openrouter.ai/blog/images/mcp-vs-cli-vs-skills.png" alt="OpenRouter post card: MCP vs CLI vs Skills token costs" style="max-width:100%"/></p>
+<p><b>The GitHub MCP server's 46 default tool definitions alone add 19,436 tokens to every request on Sonnet 5.5, and one release-object result cost ~20,400 more. Tool Search cut the up-front cost under 600 tokens - halving the total on Sonnet 5.5, though it raised costs on Haiku 5.5.</b></p>
+<p>Sources: <a href="https://openrouter.ai/blog/insights/mcp-vs-cli-vs-skills/">OpenRouter</a></p>
+<p>Feedback: <a href="sms:+16506139572?&amp;body=Digest%2011/12%3A%20loved%20%22OpenRouter%20measured%20what%20tool%20surfaces...%22">Loved it</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/12%3A%20meh%20on%20%22OpenRouter%20measured%20what%20tool%20surfaces...%22">Meh</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/12%3A%20less%20like%20%22OpenRouter%20measured%20what%20tool%20surfaces...%22">Less of this</a> &middot; <a href="sms:+16506139572?&amp;body=https%3A//openrouter.ai/blog/insights/mcp-vs-cli-vs-skills/%0A">Chat about it</a></p>]]></description>
+      <media:content url="https://openrouter.ai/blog/images/mcp-vs-cli-vs-skills.png" medium="image"/>
     </item>
     <item>
-      <title>Dependency alert: browser-use 1.0.2 pins pydantic-ai-slim==2.66.0 while pydantic-ai 2.67 demands 2.67.0 - the two will not install in the same environment</title>
-      <link>https://www.aiagentsinfo.com/blog/ai-agent-framework-release-november-2026</link>
-      <guid isPermaLink="true">https://www.aiagentsinfo.com/blog/ai-agent-framework-release-november-2026</guid>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 -0800</pubDate>
+      <title>A2UI hits 1.0: an open protocol for agents to answer with generated native UI, with renderer SDKs for web, Android and iOS</title>
+      <link>https://a2ui.org/</link>
+      <guid isPermaLink="true">https://a2ui.org/</guid>
+      <pubDate>Thu, 12 Nov 2026 05:00:00 -0800</pubDate>
       <category>AI &amp; Agents</category>
-      <description><![CDATA[<p><img src="https://www.aiagentsinfo.com/opengraph-image?v=e2c823d5" alt="AI Agents Info headline card for the browser-use / Pydantic AI pin conflict" style="max-width:100%"/></p>
-<p><b>pydantic-ai 2.67 adds instruction files, durable sub-agents and operator authority; browser-use 1.0's persistent-REPL-on-CDP rewrite rides on it. AG2 1.3.1 and FastMCP 4.1.8 shipped in the same 48-hour window.</b></p>
-<p>Sources: <a href="https://www.aiagentsinfo.com/blog/ai-agent-framework-release-november-2026">AI Agents Info</a></p>
-<p>Feedback: <a href="sms:+16506139572?&amp;body=Digest%2011/11%3A%20loved%20%22Dependency%20alert%3A%20browser-use%201.0.2%20pin...%22">Loved it</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/11%3A%20meh%20on%20%22Dependency%20alert%3A%20browser-use%201.0.2%20pin...%22">Meh</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/11%3A%20less%20like%20%22Dependency%20alert%3A%20browser-use%201.0.2%20pin...%22">Less of this</a> &middot; <a href="sms:+16506139572?&amp;body=https%3A//www.aiagentsinfo.com/blog/ai-agent-framework-release-november-2026%0A">Chat about it</a></p>]]></description>
-      <media:content url="https://www.aiagentsinfo.com/opengraph-image?v=e2c823d5" medium="image"/>
+      <description><![CDATA[<p><b>Agent SDKs ship for Python, TypeScript and Dart; apps draw interfaces with native components securely, whether the agent lives in its own app or inside a third-party assistant hosting MCP apps.</b></p>
+<p>Sources: <a href="https://a2ui.org/">A2UI</a> &middot; <a href="https://ai.tldr.tech/p/2026-11-12-tldr-ai">TLDR AI</a></p>
+<p>Feedback: <a href="sms:+16506139572?&amp;body=Digest%2011/12%3A%20loved%20%22A2UI%20hits%201.0%3A%20an%20open%20protocol%20for%20age...%22">Loved it</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/12%3A%20meh%20on%20%22A2UI%20hits%201.0%3A%20an%20open%20protocol%20for%20age...%22">Meh</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/12%3A%20less%20like%20%22A2UI%20hits%201.0%3A%20an%20open%20protocol%20for%20age...%22">Less of this</a> &middot; <a href="sms:+16506139572?&amp;body=https%3A//a2ui.org/%0A">Chat about it</a></p>]]></description>
     </item>
     <item>
-      <title>The Marina Safeway towers won city approval Nov. 6 via AB 2011 - but a federal lawsuit filed in September could freeze construction until a February ruling</title>
-      <link>https://www.sfgate.com/local/article/sf-approves-safeway-towers-22524197.php</link>
-      <guid isPermaLink="true">https://www.sfgate.com/local/article/sf-approves-safeway-towers-22524197.php</guid>
-      <pubDate>Wed, 11 Nov 2026 06:00:00 -0800</pubDate>
-      <category>San Francisco</category>
-      <description><![CDATA[<p><img src="https://jacobpedd.github.io/daily-digest/images/safeway-towers.png" alt="Generated illustration of the proposed towers above the Marina Safeway" style="max-width:100%"/></p>
-<p><b>YesAND Foundation and Neighborhoods United SF allege documented toxic waste at 11 and 15 Marina Blvd. and say the city fast-tracked the 848-unit project. Align Real Estate says it has no timeline to break ground; a motion-to-dismiss ruling is expected in February 2027.</b></p>
-<blockquote>&ldquo;We appreciate the diligent work of city staff in moving this important project forward. This approval brings us one step closer to welcoming new families to a neighborhood that has seen far too little housing development, while delivering a modern grocery store for the entire community.&rdquo; - <a href="https://www.sfgate.com/local/article/sf-approves-safeway-towers-22524197.php">David Balducci, Align Real Estate</a></blockquote>
-<p>Sources: <a href="https://www.sfgate.com/local/article/sf-approves-safeway-towers-22524197.php">SFGATE</a></p>
-<p>Feedback: <a href="sms:+16506139572?&amp;body=Digest%2011/11%3A%20loved%20%22The%20Marina%20Safeway%20towers%20won%20city%20appr...%22">Loved it</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/11%3A%20meh%20on%20%22The%20Marina%20Safeway%20towers%20won%20city%20appr...%22">Meh</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/11%3A%20less%20like%20%22The%20Marina%20Safeway%20towers%20won%20city%20appr...%22">Less of this</a> &middot; <a href="sms:+16506139572?&amp;body=https%3A//www.sfgate.com/local/article/sf-approves-safeway-towers-22524197.php%0A">Chat about it</a></p>]]></description>
-      <media:content url="https://jacobpedd.github.io/daily-digest/images/safeway-towers.png" medium="image"/>
+      <title>United moves to block AI agents from its platforms, citing credential security and liability around tasks like check-in</title>
+      <link>https://ai.tldr.tech/p/2026-11-12-tldr-ai</link>
+      <guid isPermaLink="true">https://ai.tldr.tech/p/2026-11-12-tldr-ai</guid>
+      <pubDate>Thu, 12 Nov 2026 05:00:00 -0800</pubDate>
+      <category>AI &amp; Agents</category>
+      <description><![CDATA[<p><b>The restrictions cut against the grain: Expedia and Booking are partnering with agents instead. A live fight over whether travel opens up to agent traffic or walls it off.</b></p>
+<p>Sources: <a href="https://ai.tldr.tech/p/2026-11-12-tldr-ai">TLDR AI</a></p>
+<p>Feedback: <a href="sms:+16506139572?&amp;body=Digest%2011/12%3A%20loved%20%22United%20moves%20to%20block%20AI%20agents%20from%20it...%22">Loved it</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/12%3A%20meh%20on%20%22United%20moves%20to%20block%20AI%20agents%20from%20it...%22">Meh</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/12%3A%20less%20like%20%22United%20moves%20to%20block%20AI%20agents%20from%20it...%22">Less of this</a> &middot; <a href="sms:+16506139572?&amp;body=https%3A//ai.tldr.tech/p/2026-11-12-tldr-ai%0A">Chat about it</a></p>]]></description>
     </item>
     <item>
-      <title>City report: one 50-megawatt data center would draw as much electricity as 25,000 homes - supervisors weigh extending SF's data-center moratorium another 10.5 months</title>
-      <link>https://focalnews.org/san-francisco-ca/local/new-sf-report-data-centers-could-strain-power-grid-compete-with-housing</link>
-      <guid isPermaLink="true">https://focalnews.org/san-francisco-ca/local/new-sf-report-data-centers-could-strain-power-grid-compete-with-housing</guid>
-      <pubDate>Wed, 11 Nov 2026 05:00:00 -0800</pubDate>
+      <title>Lurie and City Administrator Chu use their new Prop. E powers for the first time: one citywide rulebook for $6 billion a year in contracting</title>
+      <link>https://missionlocal.org/2026/11/san-francisco-lurie-city-administrator-power-contracting/</link>
+      <guid isPermaLink="true">https://missionlocal.org/2026/11/san-francisco-lurie-city-administrator-power-contracting/</guid>
+      <pubDate>Tue, 10 Nov 2026 10:45:00 -0800</pubDate>
       <category>San Francisco</category>
-      <description><![CDATA[<p><img src="https://jacobpedd.github.io/daily-digest/images/data-centers.png" alt="Generated illustration of a data center drawing power past San Francisco row houses" style="max-width:100%"/></p>
-<p><b>SF's transmission capacity is about 1,000 MW against an 800 MW peak, and a new line could take a decade. The Lurie-commissioned report floats power caps, fees and 75-decibel generator limits but recommends nothing. Santa Clara, with 56 data centers, is weighing water restrictions.</b></p>
-<p>Sources: <a href="https://focalnews.org/san-francisco-ca/local/new-sf-report-data-centers-could-strain-power-grid-compete-with-housing">San Francisco Focal</a></p>
-<p>Feedback: <a href="sms:+16506139572?&amp;body=Digest%2011/11%3A%20loved%20%22City%20report%3A%20one%2050-megawatt%20data%20cente...%22">Loved it</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/11%3A%20meh%20on%20%22City%20report%3A%20one%2050-megawatt%20data%20cente...%22">Meh</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/11%3A%20less%20like%20%22City%20report%3A%20one%2050-megawatt%20data%20cente...%22">Less of this</a> &middot; <a href="sms:+16506139572?&amp;body=https%3A//focalnews.org/san-francisco-ca/local/new-sf-report-data-centers-could-strain-power-grid-compete-with-housing%0A">Chat about it</a></p>]]></description>
-      <media:content url="https://jacobpedd.github.io/daily-digest/images/data-centers.png" medium="image"/>
+      <description><![CDATA[<p><img src="https://i0.wp.com/missionlocal.org/wp-content/uploads/2026/11/1126_ZM_CarmenChuDanielLurie-11.jpg?fit=780,520&amp;ssl=1" alt="Carmen Chu and Daniel Lurie at Tuesday's press conference" style="max-width:100%"/></p>
+<p><b>The standards ban sharing confidential info with favored vendors, require conflict-of-interest disclosures, route contractor contact through official channels, and block splitting purchases to dodge competitive bidding. Rules take effect automatically after 60 days unless the mayor or a majority of supervisors blocks them.</b></p>
+<blockquote>&ldquo;Every day, dedicated public servants make decisions about how San Francisco spends taxpayer dollars. They deserve clear rules, practical guidance, and the confidence to speak up when something doesn't seem right.&rdquo; - <a href="https://missionlocal.org/2026/11/san-francisco-lurie-city-administrator-power-contracting/">Carmen Chu, SF City Administrator</a></blockquote>
+<p>Sources: <a href="https://missionlocal.org/2026/11/san-francisco-lurie-city-administrator-power-contracting/">Mission Local</a></p>
+<p>Feedback: <a href="sms:+16506139572?&amp;body=Digest%2011/12%3A%20loved%20%22Lurie%20and%20City%20Administrator%20Chu%20use%20th...%22">Loved it</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/12%3A%20meh%20on%20%22Lurie%20and%20City%20Administrator%20Chu%20use%20th...%22">Meh</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/12%3A%20less%20like%20%22Lurie%20and%20City%20Administrator%20Chu%20use%20th...%22">Less of this</a> &middot; <a href="sms:+16506139572?&amp;body=https%3A//missionlocal.org/2026/11/san-francisco-lurie-city-administrator-power-contracting/%0A">Chat about it</a></p>]]></description>
+      <media:content url="https://i0.wp.com/missionlocal.org/wp-content/uploads/2026/11/1126_ZM_CarmenChuDanielLurie-11.jpg?fit=780,520&amp;ssl=1" medium="image"/>
     </item>
     <item>
-      <title>An Alaska Airlines pilot aborted her SFO landing Tuesday after spotting another plane crossing the runway - FAA and NTSB scrutiny expected</title>
-      <link>https://www.nbcbayarea.com/news/local/alaska-airlines-flight-aborts-landing-sfo-runway/4174019/</link>
-      <guid isPermaLink="true">https://www.nbcbayarea.com/news/local/alaska-airlines-flight-aborts-landing-sfo-runway/4174019/</guid>
-      <pubDate>Wed, 11 Nov 2026 00:15:00 -0800</pubDate>
+      <title>Supervisors vote unanimously to legalize home restaurants: MEHKO permits let residents sell home-cooked food from their kitchens, carts or stalls</title>
+      <link>https://missionlocal.org/2026/11/san-francisco-legalizes-home-restaurants/</link>
+      <guid isPermaLink="true">https://missionlocal.org/2026/11/san-francisco-legalizes-home-restaurants/</guid>
+      <pubDate>Tue, 10 Nov 2026 17:41:00 -0800</pubDate>
       <category>San Francisco</category>
-      <description><![CDATA[<p><img src="https://media.nbcbayarea.com/2026/11/Alaska-Airlines-flight-forced-to-abort-landing-at-SFO-after-another-aircraft-spotted-on-runway.jpg?quality=85&amp;strip=all&amp;resize=1200%2C675" alt="Alaska Airlines plane at SFO" style="max-width:100%"/></p>
-<p><b>Flight 528's go-around drew comparisons to Air Canada's 2017 taxiway near-miss at SFO. Per FAA data, go-arounds happen in 1 to 3 of every 1,000 flights; SFO's parallel runways handle over 1,000 flights a day.</b></p>
-<blockquote>&ldquo;We thought the best course of action was the safest one, and we'll come back around and do it again.&rdquo; - <a href="https://www.nbcbayarea.com/news/local/alaska-airlines-flight-aborts-landing-sfo-runway/4174019/">Alaska Flight 528 pilot, over the cabin intercom</a></blockquote>
-<p>Sources: <a href="https://www.nbcbayarea.com/news/local/alaska-airlines-flight-aborts-landing-sfo-runway/4174019/">NBC Bay Area</a></p>
-<p>Feedback: <a href="sms:+16506139572?&amp;body=Digest%2011/11%3A%20loved%20%22An%20Alaska%20Airlines%20pilot%20aborted%20her%20SF...%22">Loved it</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/11%3A%20meh%20on%20%22An%20Alaska%20Airlines%20pilot%20aborted%20her%20SF...%22">Meh</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/11%3A%20less%20like%20%22An%20Alaska%20Airlines%20pilot%20aborted%20her%20SF...%22">Less of this</a> &middot; <a href="sms:+16506139572?&amp;body=https%3A//www.nbcbayarea.com/news/local/alaska-airlines-flight-aborts-landing-sfo-runway/4174019/%0A">Chat about it</a></p>]]></description>
-      <media:content url="https://media.nbcbayarea.com/2026/11/Alaska-Airlines-flight-forced-to-abort-landing-at-SFO-after-another-aircraft-spotted-on-runway.jpg?quality=85&amp;strip=all&amp;resize=1200%2C675" medium="image"/>
+      <description><![CDATA[<p><img src="https://i0.wp.com/missionlocal.org/wp-content/uploads/2026/02/IMG_7513-scaled.jpeg?fit=780,585&amp;ssl=1" alt="Fruit vendors on Mission Street (file photo)" style="max-width:100%"/></p>
+<p><b>Permits cost $828 a year with a health inspection; home operations are capped at 90 meals a week and $100,000 in annual sales (200 and $200,000 for pushcarts). The vote follows a commissary-kitchen requirement vendors said priced them out at ~$1,000 a month.</b></p>
+<blockquote>&ldquo;This legislation will help break down barriers for aspiring food entrepreneurs, expand economic opportunities for immigrant-owned businesses and street vendors, and preserve the diverse culinary traditions that make San Francisco so special.&rdquo; - <a href="https://missionlocal.org/2026/11/san-francisco-legalizes-home-restaurants/">Jackie Fielder, District 9 Supervisor</a></blockquote>
+<p>Sources: <a href="https://missionlocal.org/2026/11/san-francisco-legalizes-home-restaurants/">Mission Local</a></p>
+<p>Feedback: <a href="sms:+16506139572?&amp;body=Digest%2011/12%3A%20loved%20%22Supervisors%20vote%20unanimously%20to%20legaliz...%22">Loved it</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/12%3A%20meh%20on%20%22Supervisors%20vote%20unanimously%20to%20legaliz...%22">Meh</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/12%3A%20less%20like%20%22Supervisors%20vote%20unanimously%20to%20legaliz...%22">Less of this</a> &middot; <a href="sms:+16506139572?&amp;body=https%3A//missionlocal.org/2026/11/san-francisco-legalizes-home-restaurants/%0A">Chat about it</a></p>]]></description>
+      <media:content url="https://i0.wp.com/missionlocal.org/wp-content/uploads/2026/02/IMG_7513-scaled.jpeg?fit=780,585&amp;ssl=1" medium="image"/>
     </item>
     <item>
-      <title>Overnight two-alarm fire gutted an abandoned warehouse at the Hunters Point naval shipyard, collapsing three-quarters of the building</title>
-      <link>https://abc7news.com/post/massive-fire-burns-abandoned-warehouse-naval-shipyard-san-franciscos-hunters-point-collapsing-building/20032952/</link>
-      <guid isPermaLink="true">https://abc7news.com/post/massive-fire-burns-abandoned-warehouse-naval-shipyard-san-franciscos-hunters-point-collapsing-building/20032952/</guid>
-      <pubDate>Wed, 11 Nov 2026 06:48:00 -0800</pubDate>
+      <title>Heads up for the weekend: no BART trains between 24th Street and Daly City on Saturday and Sunday - free buses instead</title>
+      <link>https://missionlocal.org/2026/11/bart-shutdown-weekend-24th-street-daly-city/</link>
+      <guid isPermaLink="true">https://missionlocal.org/2026/11/bart-shutdown-weekend-24th-street-daly-city/</guid>
+      <pubDate>Tue, 10 Nov 2026 17:09:00 -0800</pubDate>
       <category>San Francisco</category>
-      <description><![CDATA[<p><img src="https://cdn.abcotvs.com/dip/images/20032948_111126-kgo-citizen-warehouse-fire-img.jpg?w=1600" alt="Fire at the abandoned Hunters Point warehouse" style="max-width:100%"/></p>
-<p><b>SFFD was called around 3 a.m. to Manseau St. No one was inside, no injuries, and crews say the fire is about 80% contained with no threat to other buildings.</b></p>
-<blockquote>&ldquo;There's no threat to any other buildings, and no one is injured at this time. It's not going to go any further, but there's still visible flames.&rdquo; - <a href="https://abc7news.com/post/massive-fire-burns-abandoned-warehouse-naval-shipyard-san-franciscos-hunters-point-collapsing-building/20032952/">Capt. Mariano Elias, SFFD</a></blockquote>
-<p>Sources: <a href="https://abc7news.com/post/massive-fire-burns-abandoned-warehouse-naval-shipyard-san-franciscos-hunters-point-collapsing-building/20032952/">ABC7</a></p>
-<p>Feedback: <a href="sms:+16506139572?&amp;body=Digest%2011/11%3A%20loved%20%22Overnight%20two-alarm%20fire%20gutted%20an%20aban...%22">Loved it</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/11%3A%20meh%20on%20%22Overnight%20two-alarm%20fire%20gutted%20an%20aban...%22">Meh</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/11%3A%20less%20like%20%22Overnight%20two-alarm%20fire%20gutted%20an%20aban...%22">Less of this</a> &middot; <a href="sms:+16506139572?&amp;body=https%3A//abc7news.com/post/massive-fire-burns-abandoned-warehouse-naval-shipyard-san-franciscos-hunters-point-collapsing-building/20032952/%0A">Chat about it</a></p>]]></description>
-      <media:content url="https://cdn.abcotvs.com/dip/images/20032948_111126-kgo-citizen-warehouse-fire-img.jpg?w=1600" medium="image"/>
+      <description><![CDATA[<p><img src="https://i0.wp.com/missionlocal.org/wp-content/uploads/2026/11/24thmission_entrance-scaled.jpg?fit=780,586&amp;ssl=1" alt="24th Street Mission BART station with a weekend service-change sign" style="max-width:100%"/></p>
+<p><b>Samtrans and Muni buses bridge the gap all weekend while crews install new train-control equipment, with some buses stopping at Glen Park and Balboa Park. Regular service resumes Monday at 5 a.m.</b></p>
+<p>Sources: <a href="https://missionlocal.org/2026/11/bart-shutdown-weekend-24th-street-daly-city/">Mission Local</a></p>
+<p>Feedback: <a href="sms:+16506139572?&amp;body=Digest%2011/12%3A%20loved%20%22Heads%20up%20for%20the%20weekend%3A%20no%20BART%20train...%22">Loved it</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/12%3A%20meh%20on%20%22Heads%20up%20for%20the%20weekend%3A%20no%20BART%20train...%22">Meh</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/12%3A%20less%20like%20%22Heads%20up%20for%20the%20weekend%3A%20no%20BART%20train...%22">Less of this</a> &middot; <a href="sms:+16506139572?&amp;body=https%3A//missionlocal.org/2026/11/bart-shutdown-weekend-24th-street-daly-city/%0A">Chat about it</a></p>]]></description>
+      <media:content url="https://i0.wp.com/missionlocal.org/wp-content/uploads/2026/11/24thmission_entrance-scaled.jpg?fit=780,586&amp;ssl=1" medium="image"/>
+    </item>
+    <item>
+      <title>SF weighs bringing back the 90-day shelter-stay cap, ending the unlimited stays that began in the pandemic - 383 people are on the wait list</title>
+      <link>https://www.sfexaminer.com/news/the-city/90-day-shelter-cap-proposal-receives-public-feedback/article_9116b88f-5cdd-4fb5-9b07-5a968cad5496.html</link>
+      <guid isPermaLink="true">https://www.sfexaminer.com/news/the-city/90-day-shelter-cap-proposal-receives-public-feedback/article_9116b88f-5cdd-4fb5-9b07-5a968cad5496.html</guid>
+      <pubDate>Thu, 12 Nov 2026 05:00:00 -0800</pubDate>
+      <category>San Francisco</category>
+      <description><![CDATA[<p><img src="https://bloximages.chicago2.vip.townnews.com/sfexaminer.com/content/tncms/assets/v3/editorial/b/e9/be9ad20f-c50e-42b8-bac1-4c68f7d88f8e/68a8b28b92e50.image.jpg?crop=1763,926,0,124&amp;resize=1200,630&amp;order=crop,resize" alt="The Eleanora Fagan Center shelter" style="max-width:100%"/></p>
+<p><b>Public comment closed Monday; the policy would take effect in March. Advocates worry extension rules put the burden on residents with uneven case-manager access - one client spent three days on the street mid-appeal and lost his documents. The city had 4,844 shelter beds at 91% occupancy at the end of 2025.</b></p>
+<blockquote>&ldquo;Shelter should be more than a safe place to sleep - it should be a pathway to stability and housing.&rdquo; - <a href="https://www.sfexaminer.com/news/the-city/90-day-shelter-cap-proposal-receives-public-feedback/article_9116b88f-5cdd-4fb5-9b07-5a968cad5496.html">Dept. of Homelessness and Supportive Housing statement</a></blockquote>
+<p>Sources: <a href="https://www.sfexaminer.com/news/the-city/90-day-shelter-cap-proposal-receives-public-feedback/article_9116b88f-5cdd-4fb5-9b07-5a968cad5496.html">SF Examiner</a></p>
+<p>Feedback: <a href="sms:+16506139572?&amp;body=Digest%2011/12%3A%20loved%20%22SF%20weighs%20bringing%20back%20the%2090-day%20shel...%22">Loved it</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/12%3A%20meh%20on%20%22SF%20weighs%20bringing%20back%20the%2090-day%20shel...%22">Meh</a> &middot; <a href="sms:+16506139572?&amp;body=Digest%2011/12%3A%20less%20like%20%22SF%20weighs%20bringing%20back%20the%2090-day%20shel...%22">Less of this</a> &middot; <a href="sms:+16506139572?&amp;body=https%3A//www.sfexaminer.com/news/the-city/90-day-shelter-cap-proposal-receives-public-feedback/article_9116b88f-5cdd-4fb5-9b07-5a968cad5496.html%0A">Chat about it</a></p>]]></description>
+      <media:content url="https://bloximages.chicago2.vip.townnews.com/sfexaminer.com/content/tncms/assets/v3/editorial/b/e9/be9ad20f-c50e-42b8-bac1-4c68f7d88f8e/68a8b28b92e50.image.jpg?crop=1763,926,0,124&amp;resize=1200,630&amp;order=crop,resize" medium="image"/>
     </item>
   </channel>
 </rss>
