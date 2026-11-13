@@ -37,9 +37,12 @@ and reads the digest in a minute or two on his phone.
 - For running, generic race-result news is OUT (his tap, Nov 9: "I don't
   really follow generic marathon news"). Running earns a slot through HIS
   running: Phoenix Marathon buildup toward his Dec 12 race (best-effort, no time goal),
-  training science with real substance, the major races (Boston, NYC,
-  Chicago, Berlin, London, Tokyo) and records of genuine significance -
-  not mid-tier marathon results, however fast.
+  his race logistics, and training science with real substance. The six
+  majors (Boston, NYC, Chicago, Berlin, London, Tokyo) earn a slot only
+  for results or records of genuine significance. Everything else elite
+  is OUT - including pre-race field news, hype, and withdrawals, even
+  when tied to a possible record attempt (ruling, Nov 13: a Valencia
+  withdrawal story was removed from the Nov 13 issue on this rule).
 - For SF, prefer City Hall power moves, housing, transit, and money trails
   over lifestyle coverage.
 - Every item needs at least one real source URL. Quotes verbatim. Photos from

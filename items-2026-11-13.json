@@ -2,7 +2,13 @@
   "date": "2026-11-13",
   "survey": {
     "question": "Which section should get more space tomorrow?",
-    "options": ["Chiefs", "Nebraska", "AI & agents", "San Francisco", "Running"]
+    "options": [
+      "Chiefs",
+      "Nebraska",
+      "AI & agents",
+      "San Francisco",
+      "Running"
+    ]
   },
   "items": [
     {
@@ -14,11 +20,26 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/colette-1920x1920_4d360fa4-e97d-4505-9857-284d03141162-prv-e1794568317250.jpg?w=1024",
       "image_alt": "Nvidia interim CEO Colette Kress",
       "sources": [
-        {"name": "NVIDIA Newsroom (official)", "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"},
-        {"name": "SEC 8-K", "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/nvda-20261111.htm"},
-        {"name": "TechCrunch", "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/"},
-        {"name": "NPR", "url": "https://www.npr.org/2026/11/13/nx-s1-6038889/colette-kress-becomes-nvidias-interim-ceo-after-jensen-huang-resigns"},
-        {"name": "ABC News", "url": "https://www.abc.net.au/news/2026-11-13/nvidia-founder-jensen-huang-resigns/107376470"}
+        {
+          "name": "NVIDIA Newsroom (official)",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"
+        },
+        {
+          "name": "SEC 8-K",
+          "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/nvda-20261111.htm"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/"
+        },
+        {
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/11/13/nx-s1-6038889/colette-kress-becomes-nvidias-interim-ceo-after-jensen-huang-resigns"
+        },
+        {
+          "name": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-13/nvidia-founder-jensen-huang-resigns/107376470"
+        }
       ],
       "quotes": [
         {
@@ -37,7 +58,10 @@
       "image": "https://atozsports.com/wp-content/uploads/2026/11/2025-11-01T080059Z_130753738_MT1USATODAY27471890_RTRMADP_3_NFL-WASHINGTON-COMMANDERS-AT-KANSAS-CITY-CHIEFS-scaled.jpg",
       "image_alt": "Jaylon Moore takes the field at Arrowhead",
       "sources": [
-        {"name": "A to Z Sports", "url": "https://atozsports.com/nfl/kansas-city-chiefs-news/chiefs-thursday-injury-report-week-10-falcons/"}
+        {
+          "name": "A to Z Sports",
+          "url": "https://atozsports.com/nfl/kansas-city-chiefs-news/chiefs-thursday-injury-report-week-10-falcons/"
+        }
       ],
       "quotes": []
     },
@@ -50,7 +74,10 @@
       "image": "https://platform.cornnation.com/wp-content/uploads/sites/67/chorus/uploads/chorus_asset/file/25660458/usa_today_24414540.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "image_alt": "Nebraska vs Rutgers game action",
       "sources": [
-        {"name": "Corn Nation", "url": "https://www.cornnation.com/football/105280/nebraska-5-4-vs-rutgers-2-7-a-no-win-huge-lose-scenario-how-to-watch-listen"}
+        {
+          "name": "Corn Nation",
+          "url": "https://www.cornnation.com/football/105280/nebraska-5-4-vs-rutgers-2-7-a-no-win-huge-lose-scenario-how-to-watch-listen"
+        }
       ],
       "quotes": []
     },
@@ -63,9 +90,18 @@
       "image": "",
       "image_alt": "",
       "sources": [
-        {"name": "The Verge", "url": "https://www.theverge.com/ai-artificial-intelligence/1031894/anthropic-confirms-its-planning-for-its-shares-to-start-publicly-trading-on-november-19th"},
-        {"name": "CNBC", "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html"},
-        {"name": "StockAnalysis", "url": "https://stockanalysis.com/news/anthropic-ipo-multiple-times-oversubscribed/"}
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1031894/anthropic-confirms-its-planning-for-its-shares-to-start-publicly-trading-on-november-19th"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html"
+        },
+        {
+          "name": "StockAnalysis",
+          "url": "https://stockanalysis.com/news/anthropic-ipo-multiple-times-oversubscribed/"
+        }
       ],
       "quotes": []
     },
@@ -78,8 +114,14 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-hydrogen__key-art__lockup__16-9.width-1300.jpg",
       "image_alt": "Gemini 4 Hydrogen key art",
       "sources": [
-        {"name": "Google", "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"},
-        {"name": "TLDR AI", "url": "https://ai.tldr.tech/p/2026-11-13-tldr-ai"}
+        {
+          "name": "Google",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
+        },
+        {
+          "name": "TLDR AI",
+          "url": "https://ai.tldr.tech/p/2026-11-13-tldr-ai"
+        }
       ],
       "quotes": [
         {
@@ -98,7 +140,10 @@
       "image": "",
       "image_alt": "",
       "sources": [
-        {"name": "OpenAI", "url": "https://openai.com/index/introducing-chatgpt-wallet/"}
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/index/introducing-chatgpt-wallet/"
+        }
       ],
       "quotes": [
         {
@@ -117,8 +162,14 @@
       "image": "",
       "image_alt": "",
       "sources": [
-        {"name": "Help Net Security", "url": "https://www.helpnetsecurity.com/2026/11/12/anthropic-self-hosted-claude-managed-agents/"},
-        {"name": "TLDR AI", "url": "https://ai.tldr.tech/p/2026-11-13-tldr-ai"}
+        {
+          "name": "Help Net Security",
+          "url": "https://www.helpnetsecurity.com/2026/11/12/anthropic-self-hosted-claude-managed-agents/"
+        },
+        {
+          "name": "TLDR AI",
+          "url": "https://ai.tldr.tech/p/2026-11-13-tldr-ai"
+        }
       ],
       "quotes": []
     },
@@ -131,7 +182,10 @@
       "image": "",
       "image_alt": "",
       "sources": [
-        {"name": "TLDR AI", "url": "https://ai.tldr.tech/p/2026-11-13-tldr-ai"}
+        {
+          "name": "TLDR AI",
+          "url": "https://ai.tldr.tech/p/2026-11-13-tldr-ai"
+        }
       ],
       "quotes": []
     },
@@ -144,7 +198,10 @@
       "image": "",
       "image_alt": "",
       "sources": [
-        {"name": "TLDR AI", "url": "https://ai.tldr.tech/p/2026-11-13-tldr-ai"}
+        {
+          "name": "TLDR AI",
+          "url": "https://ai.tldr.tech/p/2026-11-13-tldr-ai"
+        }
       ],
       "quotes": []
     },
@@ -157,7 +214,10 @@
       "image": "",
       "image_alt": "",
       "sources": [
-        {"name": "SF.gov", "url": "https://www.sf.gov/news-mayor-lurie-breaks-ground-on-300-treatment-and-transitional-housing-beds-to-support-people-in-recovery"}
+        {
+          "name": "SF.gov",
+          "url": "https://www.sf.gov/news-mayor-lurie-breaks-ground-on-300-treatment-and-transitional-housing-beds-to-support-people-in-recovery"
+        }
       ],
       "quotes": [
         {
@@ -176,7 +236,10 @@
       "image": "https://sf.urbanize.city/sites/default/files/styles/2018_article_image_1140x538/public/background/2026-11/unnamed%287%29.jpg?itok=44tbNCvD",
       "image_alt": "Rendering of the Caltrain Portal extension",
       "sources": [
-        {"name": "Urbanize SF", "url": "https://sf.urbanize.city/post/state-awards-funding-caltrains-portal-extension-downtown-san-francisco"}
+        {
+          "name": "Urbanize SF",
+          "url": "https://sf.urbanize.city/post/state-awards-funding-caltrains-portal-extension-downtown-san-francisco"
+        }
       ],
       "quotes": []
     },
@@ -189,32 +252,16 @@
       "image": "",
       "image_alt": "",
       "sources": [
-        {"name": "SF Chronicle", "url": "https://www.sfchronicle.com/sf/article/buprenorphine-drug-addiction-medication-22521868.php"}
+        {
+          "name": "SF Chronicle",
+          "url": "https://www.sfchronicle.com/sf/article/buprenorphine-drug-addiction-medication-22521868.php"
+        }
       ],
       "quotes": [
         {
           "text": "Often, no matter whether it's treatment, shelter or housing, we lose people very quickly. So if somebody is ready, we get them in a vehicle, and we drive them straight here, and that opens a gateway to all types of other opportunities.",
           "by": "Mark Mazza, city street outreach supervisor",
           "url": "https://www.sfchronicle.com/sf/article/buprenorphine-drug-addiction-medication-22521868.php"
-        }
-      ]
-    },
-    {
-      "category": "Running",
-      "title": "Kejelcha is out of Valencia (Dec 6) with an injury - the €1M world-record bonus now sits with Fotyen Tesfay, 55 seconds off the women's mark",
-      "url": "https://marathonhandbook.com/kejelcha-withdrawal-valencia-marathon-field/",
-      "published": "2026-11-13T08:20:00-08:00",
-      "subheader": "The 1:59:41 London runner was the only sub-two man in the field; John Korir (2:02:24) now leads it, realistically chasing Lemma's 2:01:48 course record (€30K). Tesfay's 2:10:51 debut makes her the only athlete within a minute of Chepngetich's 2:09:56 - and Ngetich makes her marathon debut.",
-      "image": "",
-      "image_alt": "",
-      "sources": [
-        {"name": "Marathon Handbook", "url": "https://marathonhandbook.com/kejelcha-withdrawal-valencia-marathon-field/"}
-      ],
-      "quotes": [
-        {
-          "text": "Sometimes sport is like this.",
-          "by": "Yomif Kejelcha, on Instagram",
-          "url": "https://marathonhandbook.com/kejelcha-withdrawal-valencia-marathon-field/"
         }
       ]
     }
