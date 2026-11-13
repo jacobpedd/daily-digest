@@ -1,0 +1,220 @@
+{
+  "date": "2026-11-13",
+  "survey": {
+    "question": "Which section should get more space tomorrow?",
+    "options": ["Chiefs", "Nebraska", "AI & agents", "San Francisco", "Running"]
+  },
+  "items": [
+    {
+      "category": "AI & Agents",
+      "title": "Jensen Huang resigns as Nvidia CEO after 33 years, effective immediately - CFO Colette Kress steps in as interim CEO with earnings Tuesday",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
+      "published": "2026-11-12T07:37:00-08:00",
+      "subheader": "The board announced the co-founder's exit as president, CEO and director Thursday morning. TechCrunch reports he was ousted after reports of affairs with an alleged Chinese spy and a direct report. Kress, CFO since 2013, leads the ~$3.8 trillion company with no succession plan in place.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/colette-1920x1920_4d360fa4-e97d-4505-9857-284d03141162-prv-e1794568317250.jpg?w=1024",
+      "image_alt": "Nvidia interim CEO Colette Kress",
+      "sources": [
+        {"name": "TechCrunch", "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/"},
+        {"name": "NPR", "url": "https://www.npr.org/2026/11/13/nx-s1-6038889/colette-kress-becomes-nvidias-interim-ceo-after-jensen-huang-resigns"},
+        {"name": "ABC News", "url": "https://www.abc.net.au/news/2026-11-13/nvidia-founder-jensen-huang-resigns/107376470"}
+      ],
+      "quotes": [
+        {
+          "text": "We will continue advancing the work that has made Nvidia a leader in accelerated computing and AI, and execute on the opportunities ahead.",
+          "by": "Colette Kress, Nvidia interim CEO",
+          "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/"
+        }
+      ]
+    },
+    {
+      "category": "Chiefs",
+      "title": "Thursday injury report: RT Jaylon Moore and DT Peter Woods (DNP both days) are tracking to miss Sunday - Ezeudu starts at RT, KC signs DT Marcus Harris",
+      "url": "https://atozsports.com/nfl/kansas-city-chiefs-news/chiefs-thursday-injury-report-week-10-falcons/",
+      "published": "2026-11-12T14:09:00-08:00",
+      "subheader": "Mahomes, Rice, Worthy and Kelce were full participants again Thursday; rookie RB Jaydn Ott was added as limited with a hamstring. On the Falcons' side, WR Zachariah Branch sat both days and three defenders were downgraded Thursday.",
+      "image": "https://atozsports.com/wp-content/uploads/2026/11/2025-11-01T080059Z_130753738_MT1USATODAY27471890_RTRMADP_3_NFL-WASHINGTON-COMMANDERS-AT-KANSAS-CITY-CHIEFS-scaled.jpg",
+      "image_alt": "Jaylon Moore takes the field at Arrowhead",
+      "sources": [
+        {"name": "A to Z Sports", "url": "https://atozsports.com/nfl/kansas-city-chiefs-news/chiefs-thursday-injury-report-week-10-falcons/"}
+      ],
+      "quotes": []
+    },
+    {
+      "category": "Nebraska",
+      "title": "Gameday eve: Huskers up to 14.5-point favorites at Rutgers after KJ Duff's season-ending surgery - 11:30 a.m. CT on BTN, 44 degrees at kickoff",
+      "url": "https://www.cornnation.com/football/105280/nebraska-5-4-vs-rutgers-2-7-a-no-win-huge-lose-scenario-how-to-watch-listen",
+      "published": "2026-11-12T12:34:00-08:00",
+      "subheader": "Duff (45 catches, 771 yards, 9 TDs) was the one player Nebraska most wanted off the field with Andrew Marshall out. A win makes NU bowl-eligible for a third straight season and 8-0 vs Rutgers, tying its most wins against an FBS opponent without a loss.",
+      "image": "https://platform.cornnation.com/wp-content/uploads/sites/67/chorus/uploads/chorus_asset/file/25660458/usa_today_24414540.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image_alt": "Nebraska vs Rutgers game action",
+      "sources": [
+        {"name": "Corn Nation", "url": "https://www.cornnation.com/football/105280/nebraska-5-4-vs-rutgers-2-7-a-no-win-huge-lose-scenario-how-to-watch-listen"}
+      ],
+      "quotes": []
+    },
+    {
+      "category": "AI & Agents",
+      "title": "Anthropic shares start trading Nov 19 - the $70-78 IPO range is reportedly multiple-times oversubscribed",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031894/anthropic-confirms-its-planning-for-its-shares-to-start-publicly-trading-on-november-19th",
+      "published": "2026-11-12T09:00:00-08:00",
+      "subheader": "The date is official per The Verge, with the final S-1 amendment and prospectus filed this week. AP notes the debut could top SpaceX's record IPO.",
+      "image": "",
+      "image_alt": "",
+      "sources": [
+        {"name": "The Verge", "url": "https://www.theverge.com/ai-artificial-intelligence/1031894/anthropic-confirms-its-planning-for-its-shares-to-start-publicly-trading-on-november-19th"},
+        {"name": "CNBC", "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html"},
+        {"name": "StockAnalysis", "url": "https://stockanalysis.com/news/anthropic-ipo-multiple-times-oversubscribed/"}
+      ],
+      "quotes": []
+    },
+    {
+      "category": "AI & Agents",
+      "title": "Gemini 4 Hydrogen: Google's fast agentic model edges Argon on the Artificial Analysis index (51 to 50) at $1.50/$7.50 per million tokens",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "published": "2026-11-12T09:00:00-08:00",
+      "subheader": "Flat pricing across a 1M-token context, 2.5x faster than 3.8 Flash with triple its Terminal-Bench score (57% vs 18.2%). New Orchestrator in Antigravity hot-swaps Carbon and Hydrogen mid-session: near-Carbon success rates at 24% less quota, 19% faster.",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-hydrogen__key-art__lockup__16-9.width-1300.jpg",
+      "image_alt": "Gemini 4 Hydrogen key art",
+      "sources": [
+        {"name": "Google", "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"},
+        {"name": "TLDR AI", "url": "https://ai.tldr.tech/p/2026-11-13-tldr-ai"}
+      ],
+      "quotes": [
+        {
+          "text": "Today, we're introducing Gemini 4 Hydrogen, bringing cutting-edge intelligence to everyone — with speed and efficiency for everyday coding and agentic workflows.",
+          "by": "Koray Kavukcuoglu, Google DeepMind",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
+        }
+      ]
+    },
+    {
+      "category": "AI & Agents",
+      "title": "ChatGPT Wallet: agents can now pay with network-issued tokens - no card details shared, biometric approval on every purchase",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet/",
+      "published": "2026-11-13T06:00:00-08:00",
+      "subheader": "Built with Amex, Mastercard and Visa; rolls out today in dots for US ChatGPT Pro subscribers. OpenAI also published a Commerce Partner Playbook: claim your business, allow signed Web Bot Auth requests, and teach risk systems (Forter, Riskified, Stripe, Adyen) not to decline agent purchases.",
+      "image": "",
+      "image_alt": "",
+      "sources": [
+        {"name": "OpenAI", "url": "https://openai.com/index/introducing-chatgpt-wallet/"}
+      ],
+      "quotes": [
+        {
+          "text": "ChatGPT Wallet marks our first American Express Agentic Commerce Experiences integration, enabling eligible Card Members to use their Amex Card while reviewing and approving each purchase.",
+          "by": "Luke Gebb, EVP, American Express",
+          "url": "https://openai.com/index/introducing-chatgpt-wallet/"
+        }
+      ]
+    },
+    {
+      "category": "AI & Agents",
+      "title": "Self-hosted Claude Managed Agents enters private beta: run Anthropic's agent stack inside your own security perimeter",
+      "url": "https://www.helpnetsecurity.com/2026/11/12/anthropic-self-hosted-claude-managed-agents/",
+      "published": "2026-11-12T09:00:00-08:00",
+      "subheader": "Sandboxes, credential handling and session history all stay in your infrastructure, with support for existing cloud providers and zero-data-retention compliance - the enterprise answer to 'who holds the agent's keys.'",
+      "image": "",
+      "image_alt": "",
+      "sources": [
+        {"name": "Help Net Security", "url": "https://www.helpnetsecurity.com/2026/11/12/anthropic-self-hosted-claude-managed-agents/"},
+        {"name": "TLDR AI", "url": "https://ai.tldr.tech/p/2026-11-13-tldr-ai"}
+      ],
+      "quotes": []
+    },
+    {
+      "category": "AI & Agents",
+      "title": "Replit Agent can now make supply purchases and run Google Ads for your business, using Link with Visa and Stripe for the money side",
+      "url": "https://ai.tldr.tech/p/2026-11-13-tldr-ai",
+      "published": "2026-11-13T05:00:00-08:00",
+      "subheader": "Another agent gets a wallet the same week as ChatGPT Wallet: controlled transactions for business purchases, plus ad campaigns built from analyzing your content.",
+      "image": "",
+      "image_alt": "",
+      "sources": [
+        {"name": "TLDR AI", "url": "https://ai.tldr.tech/p/2026-11-13-tldr-ai"}
+      ],
+      "quotes": []
+    },
+    {
+      "category": "AI & Agents",
+      "title": "Perplexity ships Decider v1.3 and Decider Flash v1.3 - classification models that return calibrated probabilities for routing, ranking and evals",
+      "url": "https://ai.tldr.tech/p/2026-11-13-tldr-ai",
+      "published": "2026-11-13T05:00:00-08:00",
+      "subheader": "Both handle binary and multi-class tasks across text and vision, with a new span-highlighting feature for NER, PII detection and extractive QA.",
+      "image": "",
+      "image_alt": "",
+      "sources": [
+        {"name": "TLDR AI", "url": "https://ai.tldr.tech/p/2026-11-13-tldr-ai"}
+      ],
+      "quotes": []
+    },
+    {
+      "category": "San Francisco",
+      "title": "Lurie breaks ground on a $72M Treasure Island behavioral health building: 300 treatment and recovery beds, opening late 2028",
+      "url": "https://www.sf.gov/news-mayor-lurie-breaks-ground-on-300-treatment-and-transitional-housing-beds-to-support-people-in-recovery",
+      "published": "2026-11-12T09:00:00-08:00",
+      "subheader": "44 new residential treatment beds, 84 new recovery-housing beds, and 172 beds relocating from old Navy housing. It's the first building in Treasure Island's stage-two development area, funded by Prop A bond money and state grants.",
+      "image": "",
+      "image_alt": "",
+      "sources": [
+        {"name": "SF.gov", "url": "https://www.sf.gov/news-mayor-lurie-breaks-ground-on-300-treatment-and-transitional-housing-beds-to-support-people-in-recovery"}
+      ],
+      "quotes": [
+        {
+          "text": "In San Francisco, we are fundamentally transforming our behavioral health response by building a system that helps people earlier, creates more pathways into treatment and recovery, and delivers results for people and neighborhoods alike.",
+          "by": "Mayor Daniel Lurie",
+          "url": "https://www.sf.gov/news-mayor-lurie-breaks-ground-on-300-treatment-and-transitional-housing-beds-to-support-people-in-recovery"
+        }
+      ]
+    },
+    {
+      "category": "San Francisco",
+      "title": "Caltrain's downtown extension lands a $750M state grant - the biggest slice of a $1.3B statewide rail-funding round",
+      "url": "https://sf.urbanize.city/post/state-awards-funding-caltrains-portal-extension-downtown-san-francisco",
+      "published": "2026-11-11T10:53:00-08:00",
+      "subheader": "The Portal - a two-mile tunnel from Fourth and King to the Salesforce Transit Center - is a $7.5B+ project. BART got $25M toward turning Ashby Station's west lot into 618 homes (307 affordable); Capitol Corridor got $40M for railcar refits.",
+      "image": "https://sf.urbanize.city/sites/default/files/styles/2018_article_image_1140x538/public/background/2026-11/unnamed%287%29.jpg?itok=44tbNCvD",
+      "image_alt": "Rendering of the Caltrain Portal extension",
+      "sources": [
+        {"name": "Urbanize SF", "url": "https://sf.urbanize.city/post/state-awards-funding-caltrains-portal-extension-downtown-san-francisco"}
+      ],
+      "quotes": []
+    },
+    {
+      "category": "San Francisco",
+      "title": "SF now offers buprenorphine on demand at Maria X Martinez in SoMa - same-day first dose from clinicians patients already know",
+      "url": "https://www.sfchronicle.com/sf/article/buprenorphine-drug-addiction-medication-22521868.php",
+      "published": "2026-11-13T05:00:00-08:00",
+      "subheader": "The ~$500K pilot (from Lurie's privately financed Breaking the Cycle Fund) targets a hard math problem: 2,800 shots given last year against ~37,500 San Franciscans with drug addiction, and only ~30% of patients stay on the medication six months.",
+      "image": "",
+      "image_alt": "",
+      "sources": [
+        {"name": "SF Chronicle", "url": "https://www.sfchronicle.com/sf/article/buprenorphine-drug-addiction-medication-22521868.php"}
+      ],
+      "quotes": [
+        {
+          "text": "Often, no matter whether it's treatment, shelter or housing, we lose people very quickly. So if somebody is ready, we get them in a vehicle, and we drive them straight here, and that opens a gateway to all types of other opportunities.",
+          "by": "Mark Mazza, city street outreach supervisor",
+          "url": "https://www.sfchronicle.com/sf/article/buprenorphine-drug-addiction-medication-22521868.php"
+        }
+      ]
+    },
+    {
+      "category": "Running",
+      "title": "Kejelcha is out of Valencia (Dec 6) with an injury - the €1M world-record bonus now sits with Fotyen Tesfay, 55 seconds off the women's mark",
+      "url": "https://marathonhandbook.com/kejelcha-withdrawal-valencia-marathon-field/",
+      "published": "2026-11-13T08:20:00-08:00",
+      "subheader": "The 1:59:41 London runner was the only sub-two man in the field; John Korir (2:02:24) now leads it, realistically chasing Lemma's 2:01:48 course record (€30K). Tesfay's 2:10:51 debut makes her the only athlete within a minute of Chepngetich's 2:09:56 - and Ngetich makes her marathon debut.",
+      "image": "",
+      "image_alt": "",
+      "sources": [
+        {"name": "Marathon Handbook", "url": "https://marathonhandbook.com/kejelcha-withdrawal-valencia-marathon-field/"}
+      ],
+      "quotes": [
+        {
+          "text": "Sometimes sport is like this.",
+          "by": "Yomif Kejelcha, on Instagram",
+          "url": "https://marathonhandbook.com/kejelcha-withdrawal-valencia-marathon-field/"
+        }
+      ]
+    }
+  ]
+}
