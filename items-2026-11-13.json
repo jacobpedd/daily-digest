@@ -14,6 +14,8 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/colette-1920x1920_4d360fa4-e97d-4505-9857-284d03141162-prv-e1794568317250.jpg?w=1024",
       "image_alt": "Nvidia interim CEO Colette Kress",
       "sources": [
+        {"name": "NVIDIA Newsroom (official)", "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"},
+        {"name": "SEC 8-K", "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/nvda-20261111.htm"},
         {"name": "TechCrunch", "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/"},
         {"name": "NPR", "url": "https://www.npr.org/2026/11/13/nx-s1-6038889/colette-kress-becomes-nvidias-interim-ceo-after-jensen-huang-resigns"},
         {"name": "ABC News", "url": "https://www.abc.net.au/news/2026-11-13/nvidia-founder-jensen-huang-resigns/107376470"}
